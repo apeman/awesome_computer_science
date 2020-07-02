@@ -60,17 +60,17 @@ Part II : Used in Graphics and Machine learning.
 
 # Machine Learning : 
 
-### Regression
+Linear Regression
 
-### Decision Trees
+Logistic Regression
 
-### Neural Networks
+Decision Trees
+
+Neural Networks
 
 ## Data Science : 
->Prerequisites: Machine learning , Mathematics I and II.
 
 ## Deep Learning : 
->Prerequisites: Machine learning , Mathematics I and II, Graphics.
 
 ### Natural Language Processing
 
@@ -119,21 +119,36 @@ Part II : Used in Graphics and Machine learning.
 ### Compiler Design
 
 ### Programming
-**__C__**
 
-**__C++__**
+***C*** Compiled - Curly Braces {} - Procedural
 
-**__Python__**
+***C++*** Compiled {} - Object oriented (OO)
 
-**__Nim__**
+***Ruby*** Interpreted - {} based - OO
+
+***Python*** Interpreted - Indentation based - OO
+
+***Nim*** Compiled - Indentation Based - Procedural
 
 ### Data Structures
+
+**Linked Lists** Singly, Doubly, Circular.
+
+**Skip Lists** and **Hash Tables**
+
+**stack** and **queues**
+
+**Trees** and **Tries**
+
+**Graphs** and **Multidimentional Graphs**
 
 ### Algorithms
 
 ### Files and Databases
 
 ### Operating Systems
+
+#### Scheduling
 
 ### Security and Malwares
 
@@ -157,7 +172,19 @@ Part II : Used in Graphics and Machine learning.
 
 ### CSS3
 
+**positioning**
+
+**Flexbox**
+
+**Grid**
+
+**media queries**
+
+**keyframes**
+
 ### JavaScript
+
+**DOM Handling**
 
 ### UI Design
 
@@ -169,9 +196,13 @@ Part II : Used in Graphics and Machine learning.
 
 # Misc:
 
-## Git or SVN
+### Git or SVN
 
-## GitHub or GitLab or BitBucket
+Because versioning saves from loosing all your work.
+
+### GitHub or GitLab or BitBucket
+
+Because You need to let people know what you have coded.
 
 &#x200B;
 
@@ -205,7 +236,10 @@ Part II : Used in Graphics and Machine learning.
 
 Visual Studio (you will never use it unless you are insane) HUMONGOUS
 
-Windows 10 (Bandwith hog)
+Windows 10 (Bandwidth hog)
+
+Fanboying or Fangirling
+
 
 
 ## What's wrong with Software industry
