@@ -1,121 +1,161 @@
-# awesome_CSE
-An awesome list for Computer Science and Engineering roadmap. Beginner, intermediate and advanced.
-Your inputs are welcomed.
-This list is in Public Domain.
+# Awesome_CSE
 
-# Computer Science
+An awesome list for Computer Science and Engineering roadmap. Beginner, intermediate and advanced. Your inputs are welcomed. This list is in Public Domain.  
 
-## Mathematics
-### Binomial Equations
-### Permutations and Combinations
-### Sequence and Series
-### Complex Numbers and Quadratic, Cubic Equations
-### Trigonometric Functions
-### Coordinate Geometry 2D-3D
-### Limits and Continuity
-### Differentiation, Integration and Differential Equations
-### Matrices and Determinants
 
-## Hardware
-### Flip-Flops
-### Transistors
-### Printed Circuit Board (PCBs)
-### Integrated Circuits
-### Peripherals
-## Digital Electronics
-### Boolean Algebra
-## Computer Organisation
-### 
-## Computer Architecture
-### Instruction Sets
-## Assembly
-### ARM
-### x86
-## Theory of Computation
-### NFA | DFA
-## Compiler Design
-### Lexical Analysis
-### Parsing
-### Abstract Syntax Tree
-## Programming
-### C / C++
-### Python
-### Stack and Heap
-## Data Structures
-### Lists, Stack and Queue
-### Hash Tables and Tries
-### Trees and Graphs
-## Algorithms
-### Searching
-### Sorting
-### Levenshtein Distance
-## DBMS and SQL
-### Query Language
-### Transactions
-### Locks
-## Operating Systems
-### Scheduling
-### Locks
-## Security and Malwares
-### Viruses
-### Intrusion
-### Firewall
-## Cryptography
-### Encryption
-### Key Management
-## Compression
-### 7ZIP, RAR
-### LZMA
-## Cloud Computing
-## Virtual Machines and Hypervisors
-### QEMU
-## Computer Networks
-### TCP/IP
-### Error correction
-## HTTPS and other Protocols
-### FTP
-## HTML5 and CSS3
-## JavaScript
+**There Are 4 paths you can start your journey with :**
 
-# Computer Graphics
-## Ray Casting
-## Ray Tracing
-## Rendering 2D
-## Images
-### Screenshots
-### PNG, JPG, GIF, WEBP
-## Image Processing
-### refer opencv for now
-## Visualization
-## Rendering 3D
-## Animation
-### Framebuffer
-## Augmented Reality
-## Videos
-### mp4, webm
+* Mathematics
+* Computer Science
+* Machine Learning
+* Computer Graphics
 
-# Machine Learning
-## Artificial Intelligence
-### Sets and Venn Diagrams
-### Reasoning and Logic
-## Data Science
-### Probability
-### Statistics
-## Machine Learning
-### Decision Trees
-### Neural Networks
-## Computer Vision
-### OCR
-### Live Image Text Translation
-### Object Detection
-## Natural Language Processing
-### Text to Speech
-### Speech to Speech Translation
-### Speech to Text
+# Mathematics
 
-# UI / UX
-### Gravit Designer
-### Usability
-### Accessibility
-### Color Theory
-### Design
+Mathematics is divided in two parts :
+
+Part I : Used in General.
+
+Part II : Used in Graphics and Machine learning.
+
+# Part I : 
+
+Matrices and Determinants
+
+Binomial Equations
+
+Permutations and Combinations
+
+Sequence and Series
+
+Sets and Venn Diagrams
+
+Reasoning and Logic
+
+Probability
+
+Statistics
+
+# Part II : 
+
+Complex Numbers and Quadratic, Cubic Equations
+
+Trigonometric Functions
+
+Coordinate Geometry 2D-3D
+
+Limits and Continuity
+
+Differentiation, Integration and Differential Equations
+
+&#x200B;
+
+# Machine Learning : 
+
+Regression
+
+Decision Trees
+
+Neural Networks
+
+# Data Science : 
+
+>Prerequisites: Knowledge of Machine learning and Mathematics I and II will be required.
+
+# Deep Learning : 
+
+Natural Language Processing
+
+Computer Vision
+
+Generative Neural Networks
+
+&#x200B;
+
+# Graphics : 
+
+Ray\_casting
+
+Ray\_tracing
+
+Rendering 2D
+
+Image formats
+
+Image Processing
+
+Animation
+
+Visualization
+
+Rendering 3D
+
+Augmented Reality
+
+Videos
+
+&#x200B;
+
+# Computer Science : 
+
+Hardware
+
+Digital Electronics
+
+Computer Organization and Architecture
+
+Assembly Language
+
+Computation and Grammers
+
+Compiler Design
+
+Programming
+
+Data Structures
+
+Algorithms
+
+Files and Databases
+
+Operating Systems
+
+Security and Malwares
+
+Cryptography
+
+Virtual Machines and Hypervisors
+
+Cloud Computing
+
+Computer Networks
+
+Compression
+
+HTTPS and Protocols
+
+&#x200B;
+
+# Web and UI / UX: 
+
+HTML5 and CSS3
+
+JavaScript
+
+UI Design
+
+Acessibility
+
+Color Theory
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+# 
+
+&#x200B;
+
+&#x200B;
