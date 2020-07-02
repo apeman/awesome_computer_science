@@ -60,10 +60,10 @@ Part II : Used in Graphics and Machine learning.
 ### Neural Networks
 
 ## Data Science : 
-
->Prerequisites: Knowledge of Machine learning and Mathematics I and II will be required.
+>Prerequisites: Machine learning , Mathematics I and II.
 
 ## Deep Learning : 
+>Prerequisites: Machine learning , Mathematics I and II, Graphics.
 
 ### Natural Language Processing
 
@@ -99,55 +99,57 @@ Part II : Used in Graphics and Machine learning.
 
 # Computer Science : 
 
-## Hardware
+### Hardware
 
-## Digital Electronics
+### Digital Electronics
 
-## Computer Organization and Architecture
+### Computer Organization and Architecture
 
-## Assembly Language
+### Assembly Language
 
-## Computation and Grammers
+### Computation and Grammers
 
-## Compiler Design
+### Compiler Design
 
-## Programming
+### Programming
 
-## Data Structures
+### Data Structures
 
-## Algorithms
+### Algorithms
 
-## Files and Databases
+### Files and Databases
 
-## Operating Systems
+### Operating Systems
 
-## Security and Malwares
+### Security and Malwares
 
-## Cryptography
+### Cryptography
 
-## Virtual Machines and Hypervisors
+### Virtual Machines and Hypervisors
 
-## Cloud Computing
+### Cloud Computing
 
-## Computer Networks
+### Computer Networks
 
-## Compression
+### Compression
 
-## HTTPS and Protocols
+### HTTPS and Protocols
 
 &#x200B;
 
 # Web and UI / UX: 
 
-## HTML5 and CSS3
+### HTML5 
 
-## JavaScript
+### CSS3
 
-## UI Design
+### JavaScript
 
-## Acessibility
+### UI Design
 
-## Color Theory
+### Acessibility
+
+### Color Theory
 
 &#x200B;
 
