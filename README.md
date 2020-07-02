@@ -45,9 +45,9 @@ Part II : Used in Graphics and Machine learning.
 
 ### Trigonometric Functions
 
-### Coordinate Geometry 2D-3D > Prs: CNQ, CE
+### Coordinate Geometry 2D-3D
 
-### Differentiation, Integration and Differential Equations
+### Calculus and Differential Equations
 
 ### Limits and Continuity
 
@@ -61,9 +61,11 @@ Part II : Used in Graphics and Machine learning.
 
 ### Neural Networks
 
-## Data Science : >Prerequisites: Machine learning , Mathematics I and II.
+## Data Science : 
+>Prerequisites: Machine learning , Mathematics I and II.
 
-## Deep Learning : >Prerequisites: Machine learning , Mathematics I and II, Graphics.
+## Deep Learning : 
+>Prerequisites: Machine learning , Mathematics I and II, Graphics.
 
 ### Natural Language Processing
 
