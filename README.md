@@ -1,9 +1,14 @@
 # Awesome_CSE
 
-An awesome list for Computer Science and Engineering roadmap. Beginner, intermediate and advanced. Your inputs are welcomed. This list is in Public Domain.  
+An awesome list for Computer Science and Engineering roadmap. Beginner, intermediate and advanced. 
+_Your inputs are welcomed. This list is in Public Domain._
+~~For Specific Rodmaps, browse my repositories.~~
 
 > This is the whole syllabus of Computer science for an under-graduate course of duration 4 years.
 > If you think a topic belongs to some other category, you can raise an issue and we can discuss.
+
+## Even though this list is huge, 
+> Pull requests are welcomed. I might edit them for brewity.
 
 **There Are 5 paths you can start your journey with :**
 
@@ -114,6 +119,13 @@ Part II : Used in Graphics and Machine learning.
 ### Compiler Design
 
 ### Programming
+**__C__**
+
+**__C++__**
+
+**__Python__**
+
+**__Nim__**
 
 ### Data Structures
 
@@ -155,6 +167,14 @@ Part II : Used in Graphics and Machine learning.
 
 &#x200B;
 
+# Misc:
+
+## Git or SVN
+
+## GitHub or GitLab or BitBucket
+
+&#x200B;
+
 # Advices: 
 
 ## Text Editors
@@ -175,8 +195,6 @@ Part II : Used in Graphics and Machine learning.
 
 **Codeblocks / Codelite**(C++ / C / D) MiddleWeight
 
-**Visual Studio**(you will never use it unless you are insane) HUMONGOUS
-
 ## communities
 
 **Dribbble**(Useful only on subscription)
@@ -185,9 +203,15 @@ Part II : Used in Graphics and Machine learning.
 
 ## Things to avoid
 
+Visual Studio (you will never use it unless you are insane) HUMONGOUS
+
+Windows 10 (Bandwith hog)
+
+
 ## What's wrong with Software industry
 
 **Hiring** It's broken (will add links later)
+
 **Meetings** Stupid scrum standups
 
 &#x200B;
