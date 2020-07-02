@@ -160,18 +160,27 @@ Part II : Used in Graphics and Machine learning.
 ## Text Editors
 
 **Use Text Editors instead of IDEs**
+
 ### Suggested Editors
+
 **Notepad**(For Python and nim) Built-in
+
 **Scite**(Perfect for beginners) 3MB
+
 **Brackets**(For web Dev) 70MB LightWeight
+
 **Atom / VS Code**MiddleWeight (sometimes freeze on 4GB RAM)
 
 ### Suggested IDEs
+
 **Codeblocks / Codelite**(C++ / C / D) MiddleWeight
+
 **Visual Studio**(you will never use it unless you are insane) HUMONGOUS
 
 ## communities
+
 **Dribbble**(Useful only on subscription)
+
 **Behance**(Good but uses too much internet)
 
 ## Things to avoid
