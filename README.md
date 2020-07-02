@@ -28,33 +28,33 @@ Part II : Used in Graphics and Machine learning.
 
 ## Part I : 
 
-**Matrices and Determinants**
+**Matrices and Determinants** : Used exessively in Programming
 
-**Binomial Equations**
+**Binomial Equations** : To calculate permutations and Combinations
 
-**Permutations and Combinations**
+**Permutations and Combinations** : For finding probability and sum of series
 
-**Sequence and Series**
+**Sequence and Series** : To find patterns
 
-**Sets and Venn Diagrams**
+**Sets and Venn Diagrams** : To categorize \_ used a lot in Decision trees and Friends
 
-**Reasoning and Logic**
+**Reasoning and Logic** : AI and Game dev.
 
-**Probability**
+**Probability** : Data Science and Machine Learning
 
-**Statistics**
+**Statistics** : Data Science
 
 ## Part II : 
 
-**Complex Numbers and Quadratic, Cubic Equations**
+**Complex Numbers and Quadratic, Cubic Equations** : Almost everywhere
 
-**Trigonometric Functions**
+**Trigonometric Functions** : Mostly Graphics and Physics engines 
 
-**Coordinate Geometry 2D-3D**
+**Coordinate Geometry 2D-3D** : Graphics and Physics engines
 
-**Calculus and Differential Equations**
+**Calculus and Differential Equations** : Graphics and Data Science and Deep Learning
 
-**Limits and Continuity**
+**Limits and Continuity** : see calculus
 
 &#x200B;
 
@@ -70,13 +70,31 @@ Neural Networks
 
 ## Data Science : 
 
+Data Visualization
+
 ## Deep Learning : 
 
 ### Natural Language Processing
 
+Speech to Text
+
+Text to Speech
+
 ### Computer Vision
 
+Optical Character Recognition
+
+Augmented Reality
+
+Object Detection
+
+Reverse Image Search
+
 ### Generative Neural Networks
+
+Voice cloning
+
+Computer Generated Imagery
 
 &#x200B;
 
@@ -89,16 +107,25 @@ Neural Networks
 **Rendering 2D**
 
 ### Image formats
+PNG
+BMP
+JPG
+TIFF
+GIF
 
 ### Image Processing
 
-### Animation
+See OpenCV
 
 ### Visualization
 
 ### Rendering 3D
 
 ### Augmented Reality
+
+### Animation
+
+Frames
 
 ### Videos
 
@@ -120,15 +147,15 @@ Neural Networks
 
 ### Programming
 
-***C*** Compiled - Curly Braces {} - Procedural
+***C*** - Compiled - Curly Braces {} - Procedural
 
-***C++*** Compiled {} - Object oriented (OO)
+***C++*** - Compiled {} - Object oriented (OO)
 
-***Ruby*** Interpreted - {} based - OO
+***Ruby*** - Interpreted - {} based - OO
 
-***Python*** Interpreted - Indentation based - OO
+***Python*** - Interpreted - Indentation based - OO
 
-***Nim*** Compiled - Indentation Based - Procedural
+***Nim*** - Compiled - Indentation Based - Procedural
 
 ### Data Structures
 
@@ -224,13 +251,13 @@ Because You need to let people know what you have coded.
 
 ### Suggested IDEs
 
-**Codeblocks / Codelite**(C++ / C / D) MiddleWeight
+**Codeblocks / Codelite** (C++ / C / D) MiddleWeight
 
 ## communities
 
-**Dribbble**(Useful only on subscription)
+**Dribbble** (Useful only on subscription)
 
-**Behance**(Good but uses too much internet)
+**Behance** (Good but uses too much internet)
 
 ## Things to avoid
 
