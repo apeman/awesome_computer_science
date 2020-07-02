@@ -163,13 +163,13 @@ Part II : Used in Graphics and Machine learning.
 
 ### Suggested Editors
 
-**Notepad**(For Python and nim) Built-in
+**Notepad** (For Python and nim) Built-in
 
-**Scite**(Perfect for beginners) 3MB
+**Scite** (Perfect for beginners) 3MB
 
-**Brackets**(For web Dev) 70MB LightWeight
+**Brackets** (For web Dev) 70MB LightWeight
 
-**Atom / VS Code**MiddleWeight (sometimes freeze on 4GB RAM)
+**Atom / VS Code** (If you have RAM > 4GB) MiddleWeight
 
 ### Suggested IDEs
 
@@ -186,5 +186,8 @@ Part II : Used in Graphics and Machine learning.
 ## Things to avoid
 
 ## What's wrong with Software industry
+
+**Hiring** It's broken (will add links later)
+**Meetings** Stupid scrum standups
 
 &#x200B;
