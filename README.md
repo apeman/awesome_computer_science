@@ -2,6 +2,8 @@
 
 An awesome list for Computer Science and Engineering roadmap. Beginner, intermediate and advanced. Your inputs are welcomed. This list is in Public Domain.  
 
+> This is the whole syllabus of Computer science for an under-graduate course of duration 4 years.
+> If you think a topic belongs to some other category, you can raise an issue and we can discuss.
 
 **There Are 5 paths you can start your journey with :**
 
@@ -43,11 +45,11 @@ Part II : Used in Graphics and Machine learning.
 
 ### Trigonometric Functions
 
-### Coordinate Geometry 2D-3D
-
-### Limits and Continuity
+### Coordinate Geometry 2D-3D > Prs: CNQ, CE
 
 ### Differentiation, Integration and Differential Equations
+
+### Limits and Continuity
 
 &#x200B;
 
@@ -59,11 +61,9 @@ Part II : Used in Graphics and Machine learning.
 
 ### Neural Networks
 
-## Data Science : 
->Prerequisites: Machine learning , Mathematics I and II.
+## Data Science : >Prerequisites: Machine learning , Mathematics I and II.
 
-## Deep Learning : 
->Prerequisites: Machine learning , Mathematics I and II, Graphics.
+## Deep Learning : >Prerequisites: Machine learning , Mathematics I and II, Graphics.
 
 ### Natural Language Processing
 
@@ -150,12 +150,6 @@ Part II : Used in Graphics and Machine learning.
 ### Acessibility
 
 ### Color Theory
-
-&#x200B;
-
-&#x200B;
-
-&#x200B;
 
 &#x200B;
 
