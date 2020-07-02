@@ -3,12 +3,13 @@
 An awesome list for Computer Science and Engineering roadmap. Beginner, intermediate and advanced. Your inputs are welcomed. This list is in Public Domain.  
 
 
-**There Are 4 paths you can start your journey with :**
+**There Are 5 paths you can start your journey with :**
 
 * Mathematics
 * Computer Science
 * Machine Learning
 * Computer Graphics
+* Web and UI / UX
 
 # Mathematics
 
@@ -18,143 +19,141 @@ Part I : Used in General.
 
 Part II : Used in Graphics and Machine learning.
 
-# Part I : 
+## Part I : 
 
-Matrices and Determinants
+### Matrices and Determinants
 
-Binomial Equations
+### Binomial Equations
 
-Permutations and Combinations
+### Permutations and Combinations
 
-Sequence and Series
+### Sequence and Series
 
-Sets and Venn Diagrams
+### Sets and Venn Diagrams
 
-Reasoning and Logic
+### Reasoning and Logic
 
-Probability
+### Probability
 
-Statistics
+### Statistics
 
-# Part II : 
+## Part II : 
 
-Complex Numbers and Quadratic, Cubic Equations
+### Complex Numbers and Quadratic, Cubic Equations
 
-Trigonometric Functions
+### Trigonometric Functions
 
-Coordinate Geometry 2D-3D
+### Coordinate Geometry 2D-3D
 
-Limits and Continuity
+### Limits and Continuity
 
-Differentiation, Integration and Differential Equations
+### Differentiation, Integration and Differential Equations
 
 &#x200B;
 
 # Machine Learning : 
 
-Regression
+### Regression
 
-Decision Trees
+### Decision Trees
 
-Neural Networks
+### Neural Networks
 
-# Data Science : 
+## Data Science : 
 
 >Prerequisites: Knowledge of Machine learning and Mathematics I and II will be required.
 
-# Deep Learning : 
+## Deep Learning : 
 
-Natural Language Processing
+### Natural Language Processing
 
-Computer Vision
+### Computer Vision
 
-Generative Neural Networks
+### Generative Neural Networks
 
 &#x200B;
 
 # Graphics : 
 
-Ray\_casting
+### Ray\_casting
 
-Ray\_tracing
+### Ray\_tracing
 
-Rendering 2D
+### Rendering 2D
 
-Image formats
+### Image formats
 
-Image Processing
+### Image Processing
 
-Animation
+### Animation
 
-Visualization
+### Visualization
 
-Rendering 3D
+### Rendering 3D
 
-Augmented Reality
+### Augmented Reality
 
-Videos
+### Videos
 
 &#x200B;
 
 # Computer Science : 
 
-Hardware
+## Hardware
 
-Digital Electronics
+## Digital Electronics
 
-Computer Organization and Architecture
+## Computer Organization and Architecture
 
-Assembly Language
+## Assembly Language
 
-Computation and Grammers
+## Computation and Grammers
 
-Compiler Design
+## Compiler Design
 
-Programming
+## Programming
 
-Data Structures
+## Data Structures
 
-Algorithms
+## Algorithms
 
-Files and Databases
+## Files and Databases
 
-Operating Systems
+## Operating Systems
 
-Security and Malwares
+## Security and Malwares
 
-Cryptography
+## Cryptography
 
-Virtual Machines and Hypervisors
+## Virtual Machines and Hypervisors
 
-Cloud Computing
+## Cloud Computing
 
-Computer Networks
+## Computer Networks
 
-Compression
+## Compression
 
-HTTPS and Protocols
+## HTTPS and Protocols
 
 &#x200B;
 
 # Web and UI / UX: 
 
-HTML5 and CSS3
+## HTML5 and CSS3
 
-JavaScript
+## JavaScript
 
-UI Design
+## UI Design
 
-Acessibility
+## Acessibility
 
-Color Theory
-
-&#x200B;
+## Color Theory
 
 &#x200B;
 
 &#x200B;
 
-# 
+&#x200B;
 
 &#x200B;
 
