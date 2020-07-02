@@ -23,33 +23,33 @@ Part II : Used in Graphics and Machine learning.
 
 ## Part I : 
 
-### Matrices and Determinants
+** Matrices and Determinants **
 
-### Binomial Equations
+** Binomial Equations **
 
-### Permutations and Combinations
+** Permutations and Combinations **
 
-### Sequence and Series
+** Sequence and Series **
 
-### Sets and Venn Diagrams
+** Sets and Venn Diagrams **
 
-### Reasoning and Logic
+** Reasoning and Logic **
 
-### Probability
+** Probability **
 
-### Statistics
+** Statistics **
 
 ## Part II : 
 
-### Complex Numbers and Quadratic, Cubic Equations
+** Complex Numbers and Quadratic, Cubic Equations **
 
-### Trigonometric Functions
+** Trigonometric Functions **
 
-### Coordinate Geometry 2D-3D
+** Coordinate Geometry 2D-3D **
 
-### Calculus and Differential Equations
+** Calculus and Differential Equations **
 
-### Limits and Continuity
+** Limits and Continuity **
 
 &#x200B;
 
@@ -77,11 +77,11 @@ Part II : Used in Graphics and Machine learning.
 
 # Graphics : 
 
-### Ray\_casting
+** Ray\_casting **
 
-### Ray\_tracing
+** Ray\_tracing **
 
-### Rendering 2D
+** Rendering 2D **
 
 ### Image formats
 
@@ -154,5 +154,28 @@ Part II : Used in Graphics and Machine learning.
 ### Color Theory
 
 &#x200B;
+
+# Advices: 
+
+## Text Editors
+
+** Use Text Editors instead of IDEs **
+### Suggested Editors
+** Notepad ** (For Python and nim) Built-in
+** Scite ** (Perfect for beginners) 3MB
+** Brackets ** (For web Dev) 70MB LightWeight
+** Atom / VS Code ** MiddleWeight (sometimes freeze on 4GB RAM)
+
+### Suggested IDEs
+** Codeblocks / Codelite ** (C++ / C / D) MiddleWeight
+** Visual Studio ** (you will never use it unless you are insane) HUMONGOUS
+
+## communities
+** Dribbble ** (Useful only on subscription)
+** Behance ** (Good but uses too much internet)
+
+## Things to avoid
+
+## What's wrong with Software industry
 
 &#x200B;
