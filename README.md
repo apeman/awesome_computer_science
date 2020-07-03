@@ -22,9 +22,9 @@ _Your inputs are welcomed. This list is in Public Domain._
 
 Mathematics is divided in two parts :
 
-Part I : Used in General.
+[Part I](#part-i-) : Used in General.
 
-Part II : Used in Graphics and Machine learning.
+[Part II](#part-ii-) : Used in Graphics and Machine learning.
 
 ## Part I : 
 
@@ -68,11 +68,9 @@ Decision Trees
 
 Neural Networks
 
-## Data Science : 
+### Data Science : 
 
 Data Visualization
-
-## Deep Learning : 
 
 ### Natural Language Processing
 
@@ -169,6 +167,8 @@ Frames
 
 **Graphs** and **Multidimentional Graphs**
 
+**space-time Complexity** 
+
 ### Algorithms
 
 ### Files and Databases
@@ -243,11 +243,11 @@ Because You need to let people know what you have coded.
 
 **Notepad** (For Python and nim) Built-in
 
-**Scite** (Perfect for beginners) 3MB
+**[Scite](https://www.scintilla.org/SciTEDownload.html)** (Perfect for beginners) 3MB
 
-**Brackets** (For web Dev) 70MB LightWeight
+**[Brackets](http://brackets.io/)** (For web Dev) 70MB LightWeight
 
-**Atom / VS Code** (If you have RAM > 4GB) MiddleWeight
+**[Atom](https://atom.io/) / [VS Code](https://code.visualstudio.com/)** (If you have RAM > 4GB) MiddleWeight
 
 ### Suggested IDEs
 
@@ -255,17 +255,15 @@ Because You need to let people know what you have coded.
 
 ## communities
 
-**Dribbble** (Useful only on subscription)
+**[Dribbble](http://dribbble.com/)** (Useful only on subscription)
 
-**Behance** (Good but uses too much internet)
+**[Behance](https://www.behance.net/)** (Good but uses too much internet)
 
 ## Things to avoid
 
 Visual Studio (you will never use it unless you are insane) HUMONGOUS
 
 Windows 10 (Bandwidth hog)
-
-Fanboying or Fangirling
 
 
 
