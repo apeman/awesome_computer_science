@@ -12,11 +12,11 @@ _Your inputs are welcomed. This list is in Public Domain._
 
 **There Are 5 paths you can start your journey with :**
 
-* Mathematics
-* Computer Science
-* Machine Learning
-* Computer Graphics
-* Web and UI / UX
+* [Mathematics](#mathematics)
+* [Computer Science](#computer-science-)
+* [Machine Learning](#machine-learning-)
+* [Computer Graphics](#graphics-)
+* [Web and UI / UX](#web-and-ui--ux)
 
 # Mathematics
 
@@ -36,13 +36,13 @@ Mathematics is divided in two parts :
 
 **Sequence and Series** : To find patterns
 
-**Sets and Venn Diagrams** : To categorize \_ used a lot in Decision trees and Friends
+**[Discrete Mathematics](http://home.iitk.ac.in/~arlal/book/mth202.pdf)** : To categorize \_ used a lot in Decision trees and Friends
 
 **Reasoning and Logic** : AI and Game dev.
 
 **Probability** : Data Science and Machine Learning
 
-**Statistics** : Data Science
+**[Statistics](https://www.amazon.com/Probability-Statistics-Uncertainty-Michael-Evans/dp/1429224622)** : Data Science
 
 ## Part II : 
 
@@ -88,19 +88,11 @@ Object Detection
 
 Reverse Image Search
 
-### Generative Neural Networks
-
-Voice cloning
-
-Computer Generated Imagery
-
 &#x200B;
 
 # Graphics : 
 
-**Ray\_casting**
-
-**Ray\_tracing**
+**Pixels**
 
 **Rendering 2D**
 
@@ -169,7 +161,7 @@ Frames
 
 **space-time Complexity** 
 
-### Algorithms
+### [Algorithms](https://www.springer.com/gp/book/9781848000698)
 
 ### Files and Databases
 
