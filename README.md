@@ -41,6 +41,8 @@
     - Lines, Circles, Parabola.
 
 
+## Computer Science - I
+
 ### Digital Electronics
 
 - [ ] **Boolean Algebra**
@@ -139,15 +141,76 @@
     - [ ] Lua or Haxe
     - [ ] Kotlin or Scala
 
+### Data Structures
+
+- [ ] **Linked Lists**
+- [ ] **Skip Lists** and **Hash Tables**
+- [ ] **stack** and **queues** and **sets**
+- [ ] **Trees** and **Tries**
+    - [ ] Red-Black Trees
+    - [ ] 2-3 Trees
+    - [ ] Self Balancing Trees
+- [ ] **Graphs** and **Multidimentional Graphs**
+    - [ ] Adjacency matrix vs Adjacency list
+
+### Algorithms
+
+- [ ] **Searching**
+    - [ ] Breadth First Search
+    - [ ] Depth First Search
+    - [ ] Breadth First Search
+- [ ] **Sorting**
+    - [ ] Merge Sort
+    - [ ] Quick Sort
+- [ ] **Graph Traversal**
+    - [ ] To BE Added
+- [ ] **Levenshtein Distance** 
+- [ ] **space-time Complexity** 
+
+## Computer Science - II
+
+### Operating Systems
+
+- [ ] **Processes and Threads**
+- [ ] **Scheduling Algorithms**
+    - Round Robin.
+
+### Computer Networks
+
+- [ ] **OSI Layers**
+    - Application.
+    - Presentation.
+    - Session.
+    - Transport.
+    - Network.
+    - Data.
+    - Physical.
+    
+## Computer Science - III
+
+### Cryptography
+
+- [ ] **Boolean Algebra**
+    - Number System.
+    - Addition, Subtraction.
+    - Multiplication, Division.
+    - 1's, 2's compliments.
+    - k-maps.
+    
+### Artificial Intelligence
+
+- [ ] **Knowledge Representation** and **Reasoning**
+- [ ] **State Space search**
+- [ ] **Search**
+    - Hill Climbing.
+    - A*.
+    - MinMax.
+- [ ] **Neural Networks**
+    - See more in [Machine Learning]().
+
+
 
 ## Prerequisite Knowledge
-
-- [ ] **Learn C**
-    - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
-            you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-        - [answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **How computers process a program:**
     - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
@@ -155,8 +218,6 @@
     - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
-
-
 
 ## LICENSE
 
