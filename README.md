@@ -11,14 +11,34 @@
 - [The Plan](#the-plan)
 
 
-### C++
+### Mathematics
 
-I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
+- [ ] **Calculus**
+    - Differentiation.
+    - Integration.
+    - Differential equations.
+    - Limits and Continuity.
 
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+- [ ] **Algebra**
+    - Matrices and  Determinants.
+    - Binomial Series.
+    - Permutations and Combinations.
+    - Sequence and Series.
+    - Probability.
+    - Statistics.
 
-If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
+- [ ] **Sets and Logic**
+    - Sets, Relations and Functions.
+    - Reasoning and Logic.
+    - Knowledge representation.
+
+- [ ] **Functions and Equations**
+    - Quadratic and Cubic equations.
+    - Complex Numbers.
+    - Trigonometry.
+
+- [ ] **Coordinate Geometry**
+    - Lines, Circles, Parabola.
 
 ## Prerequisite Knowledge
 
