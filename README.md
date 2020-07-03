@@ -59,6 +59,27 @@
     - Integrated Circuits.
     - Printed Circuit Boards.
 
+### Computer Organization and Architecture
+
+- [ ] **Computer Organization**
+    - Address Bus, Data Bus.
+    - PCI, SATA, SCSI, USB.
+    - ROM, EPROM, RAM.
+    - Memory : Cache, Virtual, Hierarchy.
+    - Secondary Storage.
+    - Programmable Logic Devices.
+    - Input Output Devices.
+
+- [ ] **Computer Architecture**
+    - Stack.
+    - Registers.
+    - Endianness.
+    - Floating Point Numbers.
+    - Addressing Modes.
+    - Pipelining.
+    - Interrupts.
+    - RISC - CISC.
+    - aarch64, Intel_x86, MIPS.
 
 
 ## Prerequisite Knowledge
