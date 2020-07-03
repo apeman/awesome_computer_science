@@ -28,41 +28,41 @@ Mathematics is divided in two parts :
 
 ## Part I : 
 
-**Matrices and Determinants** : Used exessively in Programming
+**Matrices and Determinants**
 
-**Binomial Equations** : To calculate permutations and Combinations
+**Binomial Equations**
 
-**Permutations and Combinations** : For finding probability and sum of series
+**Permutations and Combinations**
 
-**Sequence and Series** : To find patterns
+**Sequence and Series**
 
-**[Discrete Mathematics](http://home.iitk.ac.in/~arlal/book/mth202.pdf)** : To categorize \_ used a lot in Decision trees and Friends
+**[Discrete Mathematics](http://home.iitk.ac.in/~arlal/book/mth202.pdf)**
 
-**Reasoning and Logic** : AI and Game dev.
+**Reasoning and Logic**
 
-**Probability** : Data Science and Machine Learning
+**Probability**
 
-**[Statistics](https://www.amazon.com/Probability-Statistics-Uncertainty-Michael-Evans/dp/1429224622)** : Data Science
+**[Statistics](https://www.amazon.com/Probability-Statistics-Uncertainty-Michael-Evans/dp/1429224622)**
 
 ## Part II : 
 
-**Complex Numbers and Quadratic, Cubic Equations** : Almost everywhere
+**Complex Numbers and Quadratic, Cubic Equations**
 
-**Trigonometric Functions** : Mostly Graphics and Physics engines 
+**Trigonometric Functions**
 
-**Coordinate Geometry 2D-3D** : Graphics and Physics engines
+**Coordinate Geometry 2D-3D**
 
-**Calculus and Differential Equations** : Graphics and Data Science and Deep Learning
+**Calculus and Differential Equations**
 
-**Limits and Continuity** : see calculus
+**Limits and Continuity**
 
 &#x200B;
 
 # Machine Learning : 
 
-Linear Regression
+Linear and Logistic Regression
 
-Logistic Regression
+Gradients
 
 Decision Trees
 
@@ -71,6 +71,8 @@ Neural Networks
 ### Data Science : 
 
 Data Visualization
+
+Data Mining (ex: web crawling)
 
 ### Natural Language Processing
 
@@ -97,11 +99,7 @@ Reverse Image Search
 **Rendering 2D**
 
 ### Image formats
-PNG
-BMP
-JPG
-TIFF
-GIF
+PNG, BMP, JPG, TIFF, GIF
 
 ### Image Processing
 
