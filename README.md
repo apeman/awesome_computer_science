@@ -40,6 +40,27 @@
 - [ ] **Coordinate Geometry**
     - Lines, Circles, Parabola.
 
+
+### Digital Electronics
+
+- [ ] **Boolean Algebra**
+    - Number System.
+    - Addition, Subtraction.
+    - Multiplication, Division.
+    - 1's, 2's compliments.
+    - k-maps.
+
+- [ ] **Hardware**
+    - Logic Gates.
+    - Flip-Flops and Latches.
+    - Adder - Subtractor.
+    - Encoder - Decoder.
+    - Multiplexer - Demultiplexer.
+    - Integrated Circuits.
+    - Printed Circuit Boards.
+
+
+
 ## Prerequisite Knowledge
 
 - [ ] **Learn C**
