@@ -80,6 +80,64 @@
     - Interrupts.
     - RISC - CISC.
     - aarch64, Intel_x86, MIPS.
+    - Assembly Language.
+
+### Theory of Computation and Automata
+
+- [ ] **Automata and Languages**
+    - NFA - DFA - NDFA.
+    - Regular Expressions.
+    - Context-Free Languages and Grammers.
+    - Pushdown Automata.
+    - Turing Machines.
+    - Decidability of Languages.
+    - Reducibility of Languages.
+    - Complexity Theory : P vs NP
+
+### Compiler Design
+
+- [ ] **Compiler Design**
+    - Lexical analysis.
+    - Syntax analysis
+    - Type Checking
+    - Intermediate code generation.
+    - Machine code generation.
+    - Assembly and linking.
+    - Analysis and optimisation.
+    - Memory management.
+    - Interpreters.
+
+### Programming
+
+- [ ] **Learn C**
+    - The language every computer knows.
+    - [ ] Basics
+
+- [ ] **C++**
+    - Used in almost everything from Games to Browsers to Machine learning and beyond.
+    - [ ] Basics
+
+- [ ] **Ruby**
+    - Programmer's favourite language.
+    - Everything is an Object. With Duck Typing and Monkey Patching :).
+    - GitHub is made in Ruby. The language made in Japan. 
+    - [ ] Basics
+
+- [ ] **Python**
+    - Because Tensorflow and Numpy, Pandas, Scite and syntax.
+    - [ ] Basics
+
+- [ ] **Why learning multiple languages is a good thing?**
+    - It gives you the idea of what works best in one language and what it lacks which others have.
+    - I started exploring multiple languages because I read that in a Google code competetion, 
+      somebody used 21 diffferent languages.
+    - Some suggested Languages to try.
+    - [ ] Go
+    - [ ] R or Julia
+    - [ ] Nim
+    - [ ] D or Rust or Ada
+    - [ ] Lua or Haxe
+    - [ ] Kotlin or Scala
 
 
 ## Prerequisite Knowledge
