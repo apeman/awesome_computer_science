@@ -14,31 +14,38 @@
 ### Mathematics
 
 - [ ] **Calculus**
-    - Differentiation.
-    - Integration.
-    - Differential equations.
-    - Limits and Continuity.
+    - Differentiation
+    - Integration
+    - Differential equations
+    - Maxima and Minima
+    - Limits and Continuity
 
 - [ ] **Algebra**
-    - Matrices and  Determinants.
-    - Binomial Series.
-    - Permutations and Combinations.
-    - Sequence and Series.
-    - Probability.
-    - Statistics.
+    - Matrices and  Determinants
+    - Binomial Series
+    - Permutations and Combinations
+    - Sequence and Series
+    - [ ] **Probability**
+     - Poission and Binomial Distributions
+     - Conditional Probability
+     - Bayes Theorem
+    - [ ] **Statistics**
+     - Mean, Median and Mode
+     - Variance and Standard Deviation
+     - Chi square Test
 
 - [ ] **Sets and Logic**
-    - Sets, Relations and Functions.
-    - Reasoning and Logic.
-    - Knowledge representation.
+    - Sets, Relations and Functions
+    - Reasoning and Logic
+    - Knowledge representation
 
 - [ ] **Functions and Equations**
-    - Quadratic and Cubic equations.
-    - Complex Numbers.
-    - Trigonometry.
+    - Quadratic and Cubic equations
+    - Complex Numbers
+    - Trigonometry
 
 - [ ] **Coordinate Geometry**
-    - Lines, Circles, Parabola.
+    - Lines, Circles, Parabola
 
 
 ## Computer Science - I
@@ -163,28 +170,12 @@
     - [ ] Merge Sort
     - [ ] Quick Sort
 - [ ] **Graph Traversal**
-    - [ ] To BE Added
-- [ ] **Levenshtein Distance** 
+    - [ ] Minimum Spanning Trees
+    - [ ] Shortest Paths
+    - [ ] Levenshtein Distance
 - [ ] **space-time Complexity** 
 
 ## Computer Science - II
-
-### Operating Systems
-
-- [ ] **Processes and Threads**
-- [ ] **Scheduling Algorithms**
-    - Round Robin.
-
-### Computer Networks
-
-- [ ] **OSI Layers**
-    - Application.
-    - Presentation.
-    - Session.
-    - Transport.
-    - Network.
-    - Data.
-    - Physical.
 
 ### DBMS and SQL
 
@@ -206,12 +197,54 @@
      - Primary Key and Foreign key
      - Composite keys
      - All other types of keys
-    - Normal Forms : 1NF to 4 NF is eNF
-    - File Organization.
-    - Indexing (B- Trees and B+ Trees)
-    - Transactions.
-    - Concurrency Control.
+    - [ ] Normal Forms : 1NF to 4 NF is eNF
+    - [ ] File Organization.
+    - [ ] Indexing (B- Trees and B+ Trees)
+    - [ ] Transactions.
+    - [ ] Concurrency Control.
     
+    
+### Operating Systems
+
+- [ ] **Processes and Threads**
+- [ ] **Deadlocks**
+    - MutEx and Locks
+    - Semaphores
+- [ ] **Scheduling Algorithms**
+    - Round Robin.
+- [ ] **Inter Process Communication**
+- [ ] **Memory Management**
+- [ ] **File Systems**
+
+### Computer Networks
+
+- [ ] **Layers of TCP and OSI**
+    - Application.
+    - Presentation.
+    - Session.
+    - Transport.
+    - Network.
+    - Data.
+    - Physical.
+
+- [ ] **Flow Control**
+    - Flow
+    - Congestion
+    - Error
+    
+- [ ] **Routers and Routing Algorithms**
+    - DHCP and static routing
+    - Round Robin and others
+    
+- [ ] **UDP and Sockets**
+    - Application
+    - Presentation
+    
+- [ ] **Application Layer Protocols**
+    - HTTP | FTP
+    - DNS
+    - POP | IMAP
+
 ## Computer Science - III
 
 ### Cryptography
