@@ -190,24 +190,27 @@
 
 - [ ] **SQL**
     - [ ] **Data Definition Language**
-        - Application.
+     - Application.
     - [ ] **Data Query Language**
-        - Application.
+     - Application.
     - [ ] **Data Manipulation Language**
-        - Application.
+     - Application.
     - [ ] **Data Control Language**
-        - Application.
+     - Application.
     - [ ] **Transction Control Language**
-        - Application.
+     - Application.
 
 - [ ] **DataBase Management Systems**
-    - Application.
-    - Presentation.
-    - Session.
-    - Transport.
-    - Network.
-    - Data.
-    - Physical.
+    - Entity-Relationship model.
+    - [ ] **Integrity Constraints**
+     - Primary Key and Foreign key
+     - Composite keys
+     - All other types of keys
+    - Normal Forms : 1NF to 4 NF is eNF
+    - File Organization.
+    - Indexing (B- Trees and B+ Trees)
+    - Transactions.
+    - Concurrency Control.
     
 ## Computer Science - III
 
