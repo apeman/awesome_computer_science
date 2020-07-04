@@ -185,6 +185,29 @@
     - Network.
     - Data.
     - Physical.
+
+### DBMS and SQL
+
+- [ ] **SQL**
+    - [ ] **Data Definition Language**
+        - Application.
+    - [ ] **Data Query Language**
+        - Application.
+    - [ ] **Data Manipulation Language**
+        - Application.
+    - [ ] **Data Control Language**
+        - Application.
+    - [ ] **Transction Control Language**
+        - Application.
+
+- [ ] **DataBase Management Systems**
+    - Application.
+    - Presentation.
+    - Session.
+    - Transport.
+    - Network.
+    - Data.
+    - Physical.
     
 ## Computer Science - III
 
