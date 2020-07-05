@@ -14,38 +14,38 @@
 ### Mathematics
 
 - [ ] **Calculus**
- - Differentiation
- - Integration
- - Differential equations
- - Maxima and Minima
- - Limits and Continuity
+  - Differentiation
+  - Integration
+  - Differential equations
+  - Maxima and Minima
+  - Limits and Continuity
 
 - [ ] **Algebra**
- - Matrices and  Determinants
- - Binomial Series
- - Permutations and Combinations
- - Sequence and Series
- - [ ] **Probability**
-  - Poission and Binomial Distributions
-  - Conditional Probability
-  - Bayes Theorem
- - [ ] **Statistics**
-  - Mean, Median and Mode
-  - Variance and Standard Deviation
-  - Chi square Test
+  - Matrices and  Determinants
+  - Binomial Series
+  - Permutations and Combinations
+  - Sequence and Series
+  - [ ] **Probability**
+   - Poission and Binomial Distributions
+   - Conditional Probability
+   - Bayes Theorem
+  - [ ] **Statistics**
+   - Mean, Median and Mode
+   - Variance and Standard Deviation
+   - Chi square Test 
 
 - [ ] **Sets and Logic**
- - Sets, Relations and Functions
- - Reasoning and Logic
- - Knowledge representation
+  - Sets, Relations and Functions
+  - Reasoning and Logic
+  - Knowledge representation
 
 - [ ] **Functions and Equations**
- - Quadratic and Cubic equations
- - Complex Numbers
- - Trigonometry
+  - Quadratic and Cubic equations
+  - Complex Numbers
+  - Trigonometry
 
 - [ ] **Coordinate Geometry**
- - Lines, Circles, Parabola
+  - Lines, Circles, Parabola
 
 
 ## Computer Science - I
@@ -53,68 +53,68 @@
 ### Digital Electronics
 
 - [ ] **Boolean Algebra**
-    - Number System.
-    - Addition, Subtraction.
-    - Multiplication, Division.
-    - 1's, 2's compliments.
-    - k-maps.
+   - Number System.
+   - Addition, Subtraction.
+   - Multiplication, Division.
+   - 1's, 2's compliments.
+   - k-maps.
 
 - [ ] **Hardware**
-    - Logic Gates.
-    - Flip-Flops and Latches.
-    - Adder - Subtractor.
-    - Encoder - Decoder.
-    - Multiplexer - Demultiplexer.
-    - Integrated Circuits.
-    - Printed Circuit Boards.
+   - Logic Gates.
+   - Flip-Flops and Latches.
+   - Adder - Subtractor.
+   - Encoder - Decoder.
+   - Multiplexer - Demultiplexer.
+   - Integrated Circuits.
+   - Printed Circuit Boards.
 
 ### Computer Organization and Architecture
 
 - [ ] **Computer Organization**
-    - Address Bus, Data Bus.
-    - PCI, SATA, SCSI, USB.
-    - ROM, EPROM, RAM.
-    - Memory : Cache, Virtual, Hierarchy.
-    - Secondary Storage.
-    - Programmable Logic Devices.
-    - Input Output Devices.
+   - Address Bus, Data Bus.
+   - PCI, SATA, SCSI, USB.
+   - ROM, EPROM, RAM.
+   - Memory : Cache, Virtual, Hierarchy.
+   - Secondary Storage.
+   - Programmable Logic Devices.
+   - Input Output Devices.
 
 - [ ] **Computer Architecture**
-    - Stack.
-    - Registers.
-    - Endianness.
-    - Floating Point Numbers.
-    - Addressing Modes.
-    - Pipelining.
-    - Interrupts.
-    - RISC - CISC.
-    - aarch64, Intel_x86, MIPS.
-    - Assembly Language.
+   - Stack.
+   - Registers.
+   - Endianness.
+   - Floating Point Numbers.
+   - Addressing Modes.
+   - Pipelining.
+   - Interrupts.
+   - RISC - CISC.
+   - aarch64, Intel_x86, MIPS.
+   - Assembly Language.
 
 ### Theory of Computation and Automata
 
 - [ ] **Automata and Languages**
-    - NFA - DFA - NDFA.
-    - Regular Expressions.
-    - Context-Free Languages and Grammers.
-    - Pushdown Automata.
-    - Turing Machines.
-    - Decidability of Languages.
-    - Reducibility of Languages.
-    - Complexity Theory : P vs NP
+   - NFA - DFA - NDFA.
+   - Regular Expressions.
+   - Context-Free Languages and Grammers.
+   - Pushdown Automata.
+   - Turing Machines.
+   - Decidability of Languages.
+   - Reducibility of Languages.
+   - Complexity Theory : P vs NP
 
 ### Compiler Design
 
 - [ ] **Compiler Design**
-    - Lexical analysis.
-    - Syntax analysis
-    - Type Checking
-    - Intermediate code generation.
-    - Machine code generation.
-    - Assembly and linking.
-    - Analysis and optimisation.
-    - Memory management.
-    - Interpreters.
+   - Lexical analysis.
+   - Syntax analysis
+   - Type Checking
+   - Intermediate code generation.
+   - Machine code generation.
+   - Assembly and linking.
+   - Analysis and optimisation.
+   - Memory management.
+   - Interpreters.
 
 ### Programming
 
