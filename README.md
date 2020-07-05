@@ -34,10 +34,10 @@
   - Limits and Continuity
 
 - [ ] **Algebra**
-  - Matrices and  Determinants
-  - Binomial Series
-  - Permutations and Combinations
-  - Sequence and Series
+   - Matrices and  Determinants
+   - Binomial Series
+   - Permutations and Combinations
+   - Sequence and Series
   
   - [ ] **Probability**
     - Poission and Binomial Distributions
