@@ -1,6 +1,14 @@
 # Computer Science and Engineering Roadmap and Checklist
 
-> 
+> This is the complete syllabus of Computer Science and Engineering UG.
+> I will add links to learning material as soon as possible. A little busy these days.
+> If you have any suggestions , kindly raise an issue.
+
+#### computer science is divided in 3 parts
+ - Part 1 : Covers everything that is required to write Programs.
+ - Part 2 : Covers the Trinity of Computer Science.
+ - Part 3 : Covers the Real Life Applications of CS.
+
 
 ## Table of Contents
 
@@ -147,7 +155,7 @@
 
 - [ ] **Python**
     - Because Tensorflow and Numpy, Pandas, Scite and syntax.
-    - [ ] Basics
+    - [Quick Tour](https://cs231n.github.io/python-numpy-tutorial/#python-basic)
 
 - [ ] **Why learning multiple languages is a good thing?**
     - It gives you the idea of what works best in one language and what it lacks which others have.
@@ -215,7 +223,7 @@
     - [ ] Concurrency Control.
     
     
-### Operating Systems
+### [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 - [ ] **Processes and Threads**
 - [ ] **Deadlocks**
