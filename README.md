@@ -18,10 +18,10 @@
 - [Computer Networks](#computer-networks)
 - [Cryptography](#cryptography)
 - [Artificial Intelligence](#artificial-intelligence)
-- [Machine Learning](#E)
-- [Computer Graphics](#EE)
-- [Web Dev](#Oo)
-- [Interviews](#Oo)
+- [Machine Learning](#machine-learning)
+- [Computer Graphics](#computer-graphics)
+- [Web Dev](#web-dev)
+- [Interviews](#interviews)
 
 
 ### Mathematics
@@ -315,12 +315,12 @@
     - [ ] [Web Design]( )
     - [ ] [DNS and Domain Names]( )
 
-## Work In Progress
+## Interviews
 
-- [ ] **Most of the syllabus is covered**
-    - [ ] [ ]( )
-    - [ ] [ ]( )
-    - [ ] [ ]( )
+- [ ] **Things to remember**
+    - [ ] [A]( )
+    - [ ] [B]( )
+    - [ ] [C]( )
 
 ## LICENSE
 
