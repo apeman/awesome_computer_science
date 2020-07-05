@@ -4,48 +4,48 @@
 
 ## Table of Contents
 
-- [Before you Get Started](#before-you-get-started)
-- [What is here](#what-is-here)
-- [What is not here](#what-is-not-here)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Plan](#the-plan)
+- [A](#A)
+- [AA](#AA)
+- [E](#E)
+- [EE](#EE)
+- [Oo](#Oo)
 
 
 ### Mathematics
 
 - [ ] **Calculus**
-    - Differentiation
-    - Integration
-    - Differential equations
-    - Maxima and Minima
-    - Limits and Continuity
+ - Differentiation
+ - Integration
+ - Differential equations
+ - Maxima and Minima
+ - Limits and Continuity
 
 - [ ] **Algebra**
-    - Matrices and  Determinants
-    - Binomial Series
-    - Permutations and Combinations
-    - Sequence and Series
-    - [ ] **Probability**
-     - Poission and Binomial Distributions
-     - Conditional Probability
-     - Bayes Theorem
-    - [ ] **Statistics**
-     - Mean, Median and Mode
-     - Variance and Standard Deviation
-     - Chi square Test
+ - Matrices and  Determinants
+ - Binomial Series
+ - Permutations and Combinations
+ - Sequence and Series
+ - [ ] **Probability**
+  - Poission and Binomial Distributions
+  - Conditional Probability
+  - Bayes Theorem
+ - [ ] **Statistics**
+  - Mean, Median and Mode
+  - Variance and Standard Deviation
+  - Chi square Test
 
 - [ ] **Sets and Logic**
-    - Sets, Relations and Functions
-    - Reasoning and Logic
-    - Knowledge representation
+ - Sets, Relations and Functions
+ - Reasoning and Logic
+ - Knowledge representation
 
 - [ ] **Functions and Equations**
-    - Quadratic and Cubic equations
-    - Complex Numbers
-    - Trigonometry
+ - Quadratic and Cubic equations
+ - Complex Numbers
+ - Trigonometry
 
 - [ ] **Coordinate Geometry**
-    - Lines, Circles, Parabola
+ - Lines, Circles, Parabola
 
 
 ## Computer Science - I
