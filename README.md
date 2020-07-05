@@ -34,17 +34,17 @@
   - Limits and Continuity
 
 - [ ] **Algebra**
-     - Matrices and  Determinants
-     - Binomial Series
-     - Permutations and Combinations
-     - Sequence and Series
-  
-  - [ ] **Probability**
+  - Matrices and  Determinants
+  - Binomial Series
+  - Permutations and Combinations
+  - Sequence and Series
+
+  - **Probability**
     - Poission and Binomial Distributions
     - Conditional Probability
     - Bayes Theorem
     
-  - [ ] **Statistics**
+  - **Statistics**
     - Mean, Median and Mode
     - Variance and Standard Deviation
     - T test, F test, Z test, CHI square test
