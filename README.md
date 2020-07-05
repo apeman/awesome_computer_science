@@ -4,11 +4,23 @@
 
 ## Table of Contents
 
-- [A](#A)
-- [AA](#AA)
-- [E](#E)
-- [EE](#EE)
-- [Oo](#Oo)
+- [Mathematics](https://github.com/apeman/awesome_computer_science#mathematics)
+- [Digital Electronics](https://github.com/apeman/awesome_computer_science#digital-electronics)
+- [Computer Organization and Architecture](https://github.com/apeman/awesome_computer_science#computer-organization-and-architecture)
+- [Theory of Computation and Automata](https://github.com/apeman/awesome_computer_science#theory-of-computation-and-automata)
+- [Compiler Design](https://github.com/apeman/awesome_computer_science#compiler-design)
+- [Programming](https://github.com/apeman/awesome_computer_science#programming)
+- [Data Structures](https://github.com/apeman/awesome_computer_science#data-structures)
+- [Algorithms](https://github.com/apeman/awesome_computer_science#algorithms)
+- [DBMS and SQL](https://github.com/apeman/awesome_computer_science#dbms-and-sql)
+- [Operating Systems](https://github.com/apeman/awesome_computer_science#operating-systems)
+- [Computer Networks](https://github.com/apeman/awesome_computer_science#computer-networks)
+- [Cryptography](https://github.com/apeman/awesome_computer_science#cryptography)
+- [Artificial Intelligence](https://github.com/apeman/awesome_computer_science#artificial-intelligence)
+- [Machine Learning](#E)
+- [Computer Graphics](#EE)
+- [Web Dev](#Oo)
+- [Interviews](#Oo)
 
 
 ### Mathematics
@@ -271,11 +283,40 @@
 
 
 
+## Machine Learning
+
+- [ ] **Bias and Variance**
+
+- [ ] **Supervised Learning**
+   - [ ] [Classification]( )
+   - [ ] [Regression]( )
+
+- [ ] **Un-supervised Learning**
+   - [ ] [Clustering]( )
+   - [ ] [k-Nearest Neighbours]( )
+
+## Computer Graphics
+
+- [ ] **Concepts and principles**
+    - [ ] [Pixels]( )
+    - [ ] [Rendering]( )
+    - [ ] [Shading]( )
+    - [ ] [Texturing]( )
+    - [ ] [Ray Tracing]() and [Raycasting]( )
+    - [ ] [Transformation]() and [Trnslation]( )
+
+## Web Dev
+
+- [ ] **Front-End**
+    - [ ] [HTML5]( )
+    - [ ] [CSS3]( )
+    - [ ] [JavaScript]( )
+    - [ ] [Web Design]( )
+    - [ ] [DNS and Domain Names]( )
+
 ## Work In Progress
 
 - [ ] **Most of the syllabus is covered**
-    - [ ] [ ]( )
-    - [ ] [ ]( )
     - [ ] [ ]( )
     - [ ] [ ]( )
     - [ ] [ ]( )
