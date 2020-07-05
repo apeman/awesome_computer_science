@@ -151,9 +151,7 @@
 
 - [ ] **Why learning multiple languages is a good thing?**
     - It gives you the idea of what works best in one language and what it lacks which others have.
-    - I started exploring multiple languages because I read that in a Google code competetion, 
-      somebody used 21 diffferent languages.
-    - Some suggested Languages to try.
+    - Some suggested Languages to try :
     - [ ] Go
     - [ ] R or Julia
     - [ ] Nim
@@ -170,7 +168,7 @@
     - [ ] Red-Black Trees
     - [ ] 2-3 Trees
     - [ ] Self Balancing Trees
-- [ ] **Graphs** and **Multidimentional Graphs**
+- [ ] **Graphs**
     - [ ] Adjacency matrix vs Adjacency list
 
 ### Algorithms
