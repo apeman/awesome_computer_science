@@ -1,6 +1,6 @@
 # Computer Science and Engineering Roadmap and Checklist
 
-> This is the complete syllabus of Computer Science and Engineering UG.
+> This is the complete syllabus of [Computer Science and Engineering UG](https://www.cl.cam.ac.uk/teaching/1011/CST/node1.html).
 > I will add links to learning material as soon as possible. A little busy these days.
 > If you have any suggestions , kindly raise an issue.
 
@@ -54,6 +54,7 @@
     - Mean, Median and Mode
     - Variance and Standard Deviation
     - T test, F test, Z test, CHI square test
+- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
 
 - [ ] **Sets and Logic**
   - Sets, Relations and Functions
@@ -179,13 +180,13 @@
 - [ ] **Graphs**
     - [ ] Adjacency matrix vs Adjacency list
 
-### Algorithms
+### [Algorithms](https://xlinux.nist.gov/dads/)
 
 - [ ] **Searching**
     - [ ] Breadth First Search
     - [ ] Depth First Search
     - [ ] Breadth First Search
-- [ ] **Sorting**
+- [ ] **[Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)**
     - [ ] Merge Sort
     - [ ] Quick Sort
 - [ ] **Graph Traversal**
@@ -224,7 +225,7 @@
     
     
 ### [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-
+ - [Cambridge Uni. Course by Dr Steven Hand](https://www.cl.cam.ac.uk/teaching/1011/OpSystems/)
 - [ ] **Processes and Threads**
 - [ ] **Deadlocks**
     - MutEx and Locks
@@ -266,14 +267,19 @@
 
 ## Computer Science - III
 
-### Cryptography
+### Cryptography (needs editing)
 
-- [ ] **Boolean Algebra**
-    - Number System.
-    - Addition, Subtraction.
-    - Multiplication, Division.
-    - 1's, 2's compliments.
-    - k-maps.
+- [ ] **Hashing Algorithms**
+    - SHA family
+
+- [ ] **Key Distribution**
+    - RSA
+
+- [ ] **Digital Signatures**
+    - Message Digest
+    
+ - [ ] **Compression**
+    - [History](https://www.hanshq.net/zip.html#huffman).
     
 ### Artificial Intelligence
 
@@ -304,7 +310,7 @@
 
 - [ ] **Concepts and principles**
     - [ ] [Pixels]( )
-    - [ ] [Rendering]( )
+    - [ ] [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
     - [ ] [Shading]( )
     - [ ] [Texturing]( )
     - [ ] [Ray Tracing]() and [Raycasting]( )
