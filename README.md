@@ -299,31 +299,31 @@
 - [ ] **Bias and Variance**
 
 - [ ] **Supervised Learning**
-   - [ ] [Classification]( )
-   - [ ] [Regression]( )
+   - [ ] [Classification]
+   - [ ] [Regression]
 
 - [ ] **Un-supervised Learning**
-   - [ ] [Clustering]( )
-   - [ ] [k-Nearest Neighbours]( )
+   - [ ] [Clustering]
+   - [ ] [k-Nearest Neighbours]
 
 ## Computer Graphics
 
 - [ ] **Concepts and principles**
-    - [ ] [Pixels]( )
+    - [ ] [Pixels]
     - [ ] [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
-    - [ ] [Shading]( )
-    - [ ] [Texturing]( )
-    - [ ] [Ray Tracing]() and [Raycasting]( )
-    - [ ] [Transformation]() and [Trnslation]( )
+    - [ ] [Shading]
+    - [ ] [Texturing]
+    - [ ] [Ray Tracing] and [Raycasting]
+    - [ ] [Transformation] and [Trnslation]
 
 ## Web Dev
 
 - [ ] **Front-End**
-    - [ ] [HTML5]( )
-    - [ ] [CSS3]( )
-    - [ ] [JavaScript]( )
-    - [ ] [Web Design]( )
-    - [ ] [DNS and Domain Names]( )
+    - [ ] [HTML5]
+    - [ ] [CSS3]
+    - [ ] [JavaScript]
+    - [ ] [Web Design]
+    - [ ] [DNS and Domain Names]
 
 ## Interviews
 
