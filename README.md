@@ -142,11 +142,34 @@
 
 - [ ] **Learn C**
     - The language every computer knows.
-    - [ ] Basics
+    - [ ] Character constants, escape sequences, and string constants
+    - [ ] Data types
+    - [ ] Type conversion
+    - [ ] Operators
+    - [ ] Precedence and associativity of operators
+    - [ ] C identifiers
+    - [ ] Functions
+    - [ ] Mathematical functions <Math.h>
+    - [ ] storage class and variable scope
+    - [ ] if, for, while, switch_case
+    - [ ] break, continue, goto
+    - [ ] Arrays, Strings, Pointers
+    - [ ] Structs, Union, enum, typedef
+    - [ ] Header files, #MACROS
+    - [ ] malloc, calloc, realloc, argc argv
+    - [ ] file iO, streams
+    
+    
 
 - [ ] **C++**
     - Used in almost everything from Games to Browsers to Machine learning and beyond.
-    - [ ] Basics
+    - [ ] Everything C
+    - [ ] Classes and Objects
+    - [ ] Member Functions
+    - [ ] Function Overloading
+    - [ ] Constructor and Destructors
+    - [ ] Inheritence
+    - [ ] Access Controls
 
 - [ ] **Ruby**
     - Programmer's favourite language.
