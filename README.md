@@ -141,7 +141,7 @@
 ### Programming
 
 - [ ] **Learn C**
-    - The language every computer knows.
+    > The language every computer knows.
     - Character constants, escape sequences, and string constants
     - Data types
     - Type conversion
