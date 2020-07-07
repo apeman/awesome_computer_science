@@ -162,7 +162,7 @@
     
 
 - [ ] **C++**
-    - Used in almost everything from Games to Browsers to Machine learning and beyond.
+    > Used in almost everything from Games to Browsers to Machine learning and beyond.
     - Everything C
     - Classes and Objects
     - Member Functions
@@ -172,13 +172,13 @@
     - Access Controls
 
 - [ ] **Ruby**
-    - Programmer's favourite language.
-    - Everything is an Object. With Duck Typing and Monkey Patching :).
-    - GitHub is made in Ruby. The language made in Japan. 
+    > Programmer's favourite language.
+    > Everything is an Object. With Duck Typing and Monkey Patching :).
+    > GitHub is made in Ruby. The language made in Japan. 
     - [ ] Basics
 
 - [ ] **Python**
-    - Because Tensorflow and Numpy, Pandas, Scite and syntax.
+    > Because Tensorflow and Numpy, Pandas and syntax.
     - [Quick Tour](https://cs231n.github.io/python-numpy-tutorial/#python-basic)
 
 - [ ] **Why learning multiple languages is a good thing?**
