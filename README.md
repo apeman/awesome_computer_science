@@ -43,8 +43,8 @@
 
 - [ ] **Algebra**
   - Matrices and  Determinants
-  - Binomial Series
   - Permutations and Combinations
+  - Binomial Series
   - Sequence and Series
   - **Probability**
     - Poission and Binomial Distributions
@@ -94,24 +94,23 @@
 
 - [ ] **Computer Organization**
    - Address Bus, Data Bus.
-   - PCI, SATA, SCSI, USB.
    - ROM, EPROM, RAM.
-   - Memory : Cache, Virtual, Hierarchy.
+   - Memory Hierarchy, Cache Memory, Virtual Memory.
    - Secondary Storage.
    - Programmable Logic Devices.
-   - Input Output Devices.
+   - Input - Output Devices.
 
 - [ ] **Computer Architecture**
    - Stack.
    - Registers.
-   - Endianness.
+   - Endian_ness.
    - Floating Point Numbers.
    - Addressing Modes.
    - Pipelining.
    - Interrupts.
    - RISC - CISC.
-   - aarch64, Intel_x86, MIPS.
-   - Assembly Language.
+   - aarch64, Intel_x86, MIPS. (Know the Architectures)
+   - Assembly Language. (only basic instructions are enough)
 
 ### Theory of Computation and Automata
 
@@ -224,15 +223,15 @@
 
 - [ ] **SQL**
     - [ ] **Data Definition Language**
-     - Application.
+     - .
     - [ ] **Data Query Language**
-     - Application.
+     - .
     - [ ] **Data Manipulation Language**
-     - Application.
+     - .
     - [ ] **Data Control Language**
-     - Application.
+     - .
     - [ ] **Transction Control Language**
-     - Application.
+     - .
 
 - [ ] **DataBase Management Systems**
     - Entity-Relationship model.
@@ -248,16 +247,18 @@
     
     
 ### [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
- - [Cambridge Uni. Course by Dr Steven Hand](https://www.cl.cam.ac.uk/teaching/1011/OpSystems/)
 - [ ] **Processes and Threads**
 - [ ] **Deadlocks**
     - MutEx and Locks
     - Semaphores
 - [ ] **Scheduling Algorithms**
     - Round Robin.
+    - Shortest Remaining Time First.
+    - Least Recently Used.    
 - [ ] **Inter Process Communication**
 - [ ] **Memory Management**
 - [ ] **File Systems**
+    - File Allocation Tables.
 
 ### Computer Networks
 
@@ -271,9 +272,9 @@
     - Physical.
 
 - [ ] **Flow Control**
-    - Flow
-    - Congestion
-    - Error
+    - Flow Control
+    - Congestion Control
+    - Error Control
     
 - [ ] **Routers and Routing Algorithms**
     - DHCP and static routing
