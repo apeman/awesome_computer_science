@@ -58,6 +58,7 @@
 
 - [ ] **Sets and Logic**
   - Sets, Relations and Functions
+  - (Inverse)Trigonometric Functions
   - Reasoning and Logic
   - Knowledge representation
 
@@ -67,7 +68,30 @@
   - Trigonometry
 
 - [ ] **Coordinate Geometry**
-  - Lines, Circles, Parabola
+  - **Lines**
+    - General Equation of a Line
+    - Slope
+    - Distance of a Point From a Line
+  - **Conic Sections**
+    - Sections of a Cone
+    - Parabola
+    - Ellipse
+  - **Vector Algebra**
+    - Types of Vectors
+    - Addition of Vectors
+    - Multiplication of a Vector by a Scalar
+    - Product of Two Vectors
+  - **Three  Dimensional  Geometry**
+    - Coordinate Axes and Coordinate Planes in Three Dimensional Space
+    - Section Formula
+    - Direction Cosines and Direction Ratios of a Line
+    - Equation of a Line in Space
+    - Angle between Two Lines
+    - Shortest Distance between Two Lines
+    - Plane and co-planarity
+    - Angle between Two Planes
+    - Distance of a Point from a Plane
+    - Angle between a Line and a Plane
 
 
 ## Computer Science - I
