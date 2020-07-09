@@ -45,16 +45,22 @@
   - Matrices and  Determinants
   - Permutations and Combinations
   - Binomial Series
+  
   - **Sequence and Series**
-    - 
+    - A.P.
+    - G.P.
+    - A.M., G.M.
+    
   - **Probability**
     - Conditional Probability
     - Bayes Theorem
     - Bernoulli Trials  Poission and Binomial Distributions
+    
   - **Statistics**
     - Mean, Median and Mode
     - Variance and Standard Deviation
     - T test, F test, Z test, CHI square test
+    
 - [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
 
 - [ ] **Functions and Equations**
