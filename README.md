@@ -215,11 +215,10 @@
     - It gives you the idea of what works best in one language and what it lacks which others have.
     - Some suggested Languages to try :
     - [ ] Go
-    - [ ] R or Julia
+    - [ ] R
     - [ ] Nim
-    - [ ] D or Rust or Ada
-    - [ ] Lua or Haxe
-    - [ ] Kotlin or Scala
+    - [ ] D or Rust
+    - [ ] Lua
 
 ### Data Structures
 
