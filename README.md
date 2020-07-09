@@ -9,6 +9,10 @@
  - Part 2 : Covers the Trinity of Computer Science.
  - Part 3 : Covers the Real Life Applications of CS.
 
+#### Mathematics is divided in 2 parts
+ - Part 1 : For General programming and Machine Learning.
+ - Part 2 : Mainly for graphics.
+
 
 ## Table of Contents
 
@@ -32,7 +36,7 @@
 - [Interviews](#interviews)
 
 
-### [Mathematics](http://ncert.nic.in/textbook/textbook.htm?kemh1=ps-16)
+### [Mathematics1](http://ncert.nic.in/textbook/textbook.htm?kemh1=ps-16)
 
 - [ ] **Calculus**
   - Limits and Continuity
@@ -42,37 +46,38 @@
   - Maxima and Minima
 
 - [ ] **Algebra**
-  - Matrices and  Determinants
-  - Permutations and Combinations
-  - Binomial Series
-  
+  - **Permutations and Combinations**
+  - **Binomial Series**
   - **Sequence and Series**
     - A.P.
     - G.P.
     - A.M., G.M.
-    
-  - **Probability**
+- [ ] **Probability**
     - Conditional Probability
     - Bayes Theorem
     - Bernoulli Trials  Poission and Binomial Distributions
-    
-  - **Statistics**
+- [ ] **Statistics**
     - Mean, Median and Mode
     - Variance and Standard Deviation
     - T test, F test, Z test, CHI square test
     
-- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
-
-- [ ] **Functions and Equations**
-  - Quadratic and Cubic equations
-  - Complex Numbers
-  - Trigonometry
-
 - [ ] **Sets and Logic**
   - Sets, Relations and Functions
   - (Inverse)Trigonometric Functions
   - Reasoning and Logic
   - Knowledge representation
+
+- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
+
+
+### [Mathematics2]
+
+- [ ] **Matrices and  Determinants**
+
+- [ ] **Functions and Equations**
+  - Quadratic and Cubic equations
+  - Complex Numbers
+  - Trigonometry
 
 - [ ] **Coordinate Geometry**
   - **Lines**
