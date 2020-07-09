@@ -35,37 +35,38 @@
 ### [Mathematics](http://ncert.nic.in/textbook/textbook.htm?kemh1=ps-16)
 
 - [ ] **Calculus**
+  - Limits and Continuity
   - Differentiation
   - Integration
   - Differential equations
   - Maxima and Minima
-  - Limits and Continuity
 
 - [ ] **Algebra**
   - Matrices and  Determinants
   - Permutations and Combinations
   - Binomial Series
-  - Sequence and Series
+  - **Sequence and Series**
+    - 
   - **Probability**
-    - Poission and Binomial Distributions
     - Conditional Probability
     - Bayes Theorem
+    - Bernoulli Trials  Poission and Binomial Distributions
   - **Statistics**
     - Mean, Median and Mode
     - Variance and Standard Deviation
     - T test, F test, Z test, CHI square test
 - [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
 
+- [ ] **Functions and Equations**
+  - Quadratic and Cubic equations
+  - Complex Numbers
+  - Trigonometry
+
 - [ ] **Sets and Logic**
   - Sets, Relations and Functions
   - (Inverse)Trigonometric Functions
   - Reasoning and Logic
   - Knowledge representation
-
-- [ ] **Functions and Equations**
-  - Quadratic and Cubic equations
-  - Complex Numbers
-  - Trigonometry
 
 - [ ] **Coordinate Geometry**
   - **Lines**
