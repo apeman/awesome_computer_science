@@ -4,14 +4,16 @@
 > I will add links to learning material as soon as possible. A little busy these days.
 > If you have any suggestions , kindly raise an issue.
 
-#### computer science is divided in 3 parts
- - Part 1 : Covers everything that is required to write Programs.
- - Part 2 : Covers the Trinity of Computer Science.
- - Part 3 : Covers the Real Life Applications of CS.
+#### computer science is divided in 4 parts
+ - Part 1 : Covers the Engineering Part.
+ - Part 2 : Covers everything that is required to write Programs.
+ - Part 3 : Covers the Trinity of Computer Science.
+ - Part 4 : Covers the Real Life Applications of CS.
 
-#### Mathematics is divided in 2 parts
- - Part 1 : For General programming and Machine Learning.
- - Part 2 : Mainly for graphics.
+#### Mathematics is divided in 3 parts
+ - Part 1 : For General programming
+ - Part 2 : Machine Learning.
+ - Part 3 : For graphics.
 
 
 ## Table of Contents
@@ -35,7 +37,7 @@
 - [Web Dev](#web-dev)
 - [Interviews](#interviews)
 
-## Computer Science - I
+## Computer Science - 1
 
 ### Digital Electronics
 
@@ -88,6 +90,8 @@
    - Decidability of Languages.
    - Reducibility of Languages.
    - Complexity Theory : P vs NP
+
+## Computer Science - 2
 
 ### Compiler Design
 
@@ -181,7 +185,7 @@
     - [ ] Levenshtein Distance
 - [ ] **space-time Complexity** 
 
-## Computer Science - II
+## Computer Science - 3
 
 ### DBMS and SQL
 
@@ -253,7 +257,7 @@
     - DNS
     - POP | IMAP
 
-## Computer Science - III
+## Computer Science - 4
 
 ### Cryptography (needs editing)
 
@@ -317,6 +321,57 @@
 
 ### [Mathematics1](http://ncert.nic.in/textbook/textbook.htm?kemh1=ps-16)
 
+- [ ] **Algebra**
+    - Permutations and Combinations
+    - Binomial Series
+    - Sequence and Series
+     - Infinite  Series
+     - Binomial Theorem for any Index
+     - Infinite Geometric Series
+     - Exponential Series
+     - Logarithmic Series
+  
+- [ ] **Sets and Logic**
+    - Sets and Relations
+    - **Functions**
+    - Reasoning and Logic
+    - Knowledge representation
+
+- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
+
+- [ ] **Matrices**
+    - Matrix
+    - Types of Matrices
+    - Operations on Matrices
+    - Transpose of a Matrix
+    - Symmetric and Skew Symmetric Matrices
+    - Elementary Operation (Transformation) of a Matrix
+    - Invertible Matrices
+
+- [ ] **Determinants**
+    - Determinant
+    - Properties of Determinants
+    - Area of a Triangle
+    - Minors and Cofactors
+    - Adjoint and Inverse of a Matrix
+    - Applications of Determinants and Matrices
+
+### [Mathematics 2]()
+
+- [ ] **Probability**
+    - Events and Random Experiments
+    - Conditional Probability
+    - Multiplication Theorem on Probability
+    - Bayes' Theorem
+    - Bernoulli Trials
+    - Poission and Binomial Distributions
+    
+- [ ] **Statistics**
+    - Mean, Median and Mode
+    - Range, Dispersion, Deviation
+    - Variance and Standard Deviation
+    - T test, F test, Z test, CHI square test
+    
 - [ ] **Calculus**
   - [ ] **Limits**
   - [ ] **Continuity**
@@ -349,57 +404,7 @@
    - Formation of a Differential Equation whose General Solution is given
    - Methods of Solving First order, First Degree Differential Equations
 
-- [ ] **Sets and Logic**
-    - Sets and Relations
-    - **Functions**
-    - Reasoning and Logic
-    - Knowledge representation
-
-- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
-
-- [ ] **Matrices**
-    - Matrix
-    - Types of Matrices
-    - Operations on Matrices
-    - Transpose of a Matrix
-    - Symmetric and Skew Symmetric Matrices
-    - Elementary Operation (Transformation) of a Matrix
-    - Invertible Matrices
-
-- [ ] **Determinants**
-    - Determinant
-    - Properties of Determinants
-    - Area of a Triangle
-    - Minors and Cofactors
-    - Adjoint and Inverse of a Matrix
-    - Applications of Determinants and Matrices
-
-- [ ] **Algebra**
-    - Permutations and Combinations
-    - Binomial Series
-    - Sequence and Series
-     - Infinite  Series
-     - Binomial Theorem for any Index
-     - Infinite Geometric Series
-     - Exponential Series
-     - Logarithmic Series
-  
-- [ ] **Probability**
-    - Events and Random Experiments
-    - Conditional Probability
-    - Multiplication Theorem on Probability
-    - Bayes' Theorem
-    - Bernoulli Trials
-    - Poission and Binomial Distributions
-    
-- [ ] **Statistics**
-    - Mean, Median and Mode
-    - Range, Dispersion, Deviation
-    - Variance and Standard Deviation
-    - T test, F test, Z test, CHI square test
-    
-
-### [Mathematics2]()
+### [Mathematics 3]()
 
 - [ ] **Functions and Equations**
   - Quadratic and Cubic equations
