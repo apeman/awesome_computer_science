@@ -5,14 +5,14 @@
 > If you have any suggestions , kindly raise an issue.
 
 #### computer science is divided in 4 parts
- - [Part 1](#computer-science---1) : Covers the Engineering Part.
+ - [Part 1](#computer-science---1) : Covers hardware and Engineering.
  - [Part 2](#computer-science---2) : Covers everything that is required to write Programs.
  - [Part 3](#computer-science---3) : Covers the Trinity of Computer Science.
  - [Part 4](#computer-science---4) : Covers the Real Life Applications of CS.
 
 #### Mathematics is divided in 3 parts
  - [Part 1](#mathematics-1) : For General programming
- - [Part 2](#mathematics-2) : Machine Learning.
+ - [Part 2](#mathematics-2) : For Machine Learning.
  - [Part 3](#mathematics-3) : For graphics.
 
 
