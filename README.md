@@ -10,11 +10,11 @@ _You could finish this all in just 1 year with continuity_
 
 ~~If you have any suggestions , you can message me on twitter @apemanoffcial~~
 
-#### computer science is divided in 4 parts
- - [Part 1](#computer-science---1) : Covers hardware and Engineering.
- - [Part 2](#computer-science---2) : Covers everything that is required to write Programs.
- - [Part 3](#computer-science---3) : Covers the Trinity of Computer Science.
- - [Part 4](#computer-science---4) : Covers the Real Life Applications of CS.
+#### Computer Science is divided in 4 parts
+ - [Computer Science 1](#computer-science---1) : Covers the Hardware and Engineering part.
+ - [Computer Science 2](#computer-science---2) : Covers everything that is required to write Programs.
+ - [Computer Science 3](#computer-science---3) : Covers the Trinity of Computer Science.
+ - [Computer Science 4](#computer-science---4) : Covers the Real Life Applications of CS.
 
 #### Mathematics is divided in 3 parts
  - [Part 1](#mathematics-1) : For General programming
@@ -24,18 +24,21 @@ _You could finish this all in just 1 year with continuity_
 
 ## Table of Contents
 
-
 - [Mathematics](#mathematics)
+ - [###Computer Science 1](#computer-science---1)
 - [Digital Electronics](#digital-electronics)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
 - [Theory of Computation and Automata](#theory-of-computation-and-automata)
+ - [###Computer Science 2](#computer-science---2)
 - [Compiler Design](#compiler-design)
 - [Programming](#programming)
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
+ - [###Computer Science 3](#computer-science---3)
 - [DBMS and SQL](#dbms-and-sql)
 - [Operating Systems](#operating-systems)
 - [Computer Networks](#computer-networks)
+ - [###Computer Science 4](#computer-science---4)
 - [Cryptography](#cryptography)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
