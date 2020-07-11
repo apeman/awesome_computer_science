@@ -154,25 +154,27 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **[Ruby](https://ruby-doc.org/)**
     > GitHub is made in Ruby.
     - [Basics](https://www.udemy.com/course/learn-to-code-with-ruby-lang/ "Udemy course : Very good for beginners")<sup>Video</sup>
-    - [Learn on Codecademy](https://www.codecademy.com/learn/learn-ruby/)
+    - [Learn on Codecademy](https://www.codecademy.com/learn/learn-ruby/)<sup>Learn By Doing</sup>
 
-- [ ] **Python**
+- [ ] **[Python](https://www.python.org/downloads/)**
     > Because Tensorflow and Numpy, Pandas and syntax.
-    - [Quick Tour](https://cs231n.github.io/python-numpy-tutorial/#python-basic)
+    - [Official Tutorial](https://docs.python.org/3/tutorial/)<sup>Prefer this</sup>
 
 - [ ] **Why learning multiple languages is a good thing?**
     - It gives you the idea of what works best in one language and what it lacks which others have.
     - Some suggested Languages to try :
-    - [ ] Go or Nim
-    - [ ] R
-    - [ ] D or Rust
-    - [ ] Lua
+    - [Nim](nim-lang.org/) or [Go](https://golang.org/)
+    - [R](https://www.r-project.org/)
+    - [D](https://dlang.org/) or [Rust](https://www.rust-lang.org/)
+    - [Lua](http://www.lua.org/)
 
 ### Data Structures
 
-- [ ] **Linked Lists**
-- [ ] **Skip Lists** and **Hash Tables**
-- [ ] **stack** and **queues** and **sets**
+- **[Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)**
+- **[Skip Lists](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)**<sup>PDF</sup>
+  - [Skip-Lists done right](http://ticki.github.io/blog/skip-lists-done-right/)<sup>Must Read</sup>
+- **Hash Tables**
+- **stack** and **queues** and **sets**
 - [ ] **Trees** and **Tries**
     - [ ] Self Balancing Trees
     - [ ] Red-Black Trees
