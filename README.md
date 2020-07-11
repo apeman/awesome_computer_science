@@ -24,7 +24,7 @@ _You could finish this all in just 1 year with continuity_
 
 ## Table of Contents
 
-- [Mathematics](#mathematics)
+ #### [Mathematics](#mathematics)
  - [Mathematics 1](#mathematics-1)
  - [Mathematics 2](#mathematics-2)
  - [Mathematics 3](#mathematics-3)
