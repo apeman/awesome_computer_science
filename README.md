@@ -338,7 +338,7 @@ _You could finish this all in just 1 year with continuity_
     
 - [ ] **Virtual Reality**
     - [Tutorial]()
-    - [A-Frame](https://aframe.io/ "Web VR framework from Mozilla")<sup>Web VR framework from Mozilla</sup>
+    - [A-Frame](https://aframe.io/)<sup>Web VR framework from Mozilla</sup>
 
 ## Web Dev
 > It is highly recommended that you study Web Development from 
