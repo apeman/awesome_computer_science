@@ -151,11 +151,10 @@ _You could finish this all in just 1 year with continuity_
     - Inheritence
     - Access Controls
 
-- [ ] **Ruby**
-    > Programmer's favourite language.
-    > Everything is an Object. With Duck Typing and Monkey Patching :).
-    > GitHub is made in Ruby. The language made in Japan. 
+- [ ] **[Ruby](https://ruby-doc.org/)**
+    > GitHub is made in Ruby.
     - [ ] [Basics](https://www.udemy.com/course/learn-to-code-with-ruby-lang/ "Udemy course : Very good for beginners")<sup>Video</sup>
+    - [Learn on Codecademy](https://www.codecademy.com/learn/learn-ruby/)
 
 - [ ] **Python**
     > Because Tensorflow and Numpy, Pandas and syntax.
@@ -164,9 +163,8 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **Why learning multiple languages is a good thing?**
     - It gives you the idea of what works best in one language and what it lacks which others have.
     - Some suggested Languages to try :
-    - [ ] Go
+    - [ ] Go or Nim
     - [ ] R
-    - [ ] Nim
     - [ ] D or Rust
     - [ ] Lua
 
@@ -176,9 +174,9 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **Skip Lists** and **Hash Tables**
 - [ ] **stack** and **queues** and **sets**
 - [ ] **Trees** and **Tries**
+    - [ ] Self Balancing Trees
     - [ ] Red-Black Trees
     - [ ] 2-3 Trees
-    - [ ] Self Balancing Trees
 - [ ] **Graphs**
     - [ ] Adjacency matrix vs Adjacency list
 
@@ -200,19 +198,27 @@ _You could finish this all in just 1 year with continuity_
 
 ### DBMS and SQL
 
-- [ ] **SQL**
+- [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
     - [ ] **Data Definition Language**
-     - .
+     - CREATE
+     - DROP
+     - ALTER
+     - TRUNCATE
     - [ ] **Data Query Language**
-     - .
+     - SELECT
     - [ ] **Data Manipulation Language**
-     - .
+     - INSERT
+     - UPDATE
+     - DELETE
     - [ ] **Data Control Language**
-     - .
+     - GRANT
+     - REVOKE
     - [ ] **Transction Control Language**
-     - .
+     - COMMIT
+     - ROLLBACK
+     - SAVEPOINT
 
-- [ ] **DataBase Management Systems**
+- [ ] **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
     - Entity-Relationship model.
     - [ ] **Integrity Constraints**
      - Primary Key and Foreign key
