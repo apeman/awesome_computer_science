@@ -278,17 +278,20 @@ _You could finish this all in just 1 year with continuity_
 
 ## Computer Science - 4
 
-### Cryptography (needs editing)
+### Cryptography
 
+- [ ] **Encryption Algorithms**
+    - DES
+    - AES
+    - Whirlpool
+    - BlowFish
+    - One Time Pad
 - [ ] **Hashing Algorithms**
     - SHA family
-
 - [ ] **Key Distribution**
     - RSA
-
 - [ ] **Digital Signatures**
-    - Message Digest
-    
+    - Message Digest    
  - [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
     
@@ -325,8 +328,8 @@ _You could finish this all in just 1 year with continuity_
     - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
     - [Texturing](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/TextureMapping.html)
     - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
-     - [The Best Tutorial out there](https://raytracing.github.io/) 
-     - [Kevin's Blog](http://kevinbeason.com/ "A lot of Examples")<sup>Worth visiting</sup>
+      - [The Best Tutorial out there](https://raytracing.github.io/) 
+      - [Kevin's Blog](http://kevinbeason.com/ "A lot of Examples")<sup>Worth visiting</sup>
     - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
 
 - [ ] **Image Processing**
