@@ -25,6 +25,9 @@ _You could finish this all in just 1 year with continuity_
 ## Table of Contents
 
 - [Mathematics](#mathematics)
+ - [Mathematics 1](#mathematics-1)
+ - [Mathematics 2](#mathematics-2)
+ - [Mathematics 3](#mathematics-3)
 
  #### [Computer Science 1](#computer-science---1)
 - [Digital Electronics](#digital-electronics)
@@ -152,7 +155,7 @@ _You could finish this all in just 1 year with continuity_
     > Programmer's favourite language.
     > Everything is an Object. With Duck Typing and Monkey Patching :).
     > GitHub is made in Ruby. The language made in Japan. 
-    - [ ] Basics
+    - [ ] [Basics](https://www.udemy.com/course/learn-to-code-with-ruby-lang/ "Udemy course : Very good for beginners")<sup>Video</sup>
 
 - [ ] **Python**
     > Because Tensorflow and Numpy, Pandas and syntax.
@@ -184,7 +187,6 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **Searching**
     - [ ] Breadth First Search
     - [ ] Depth First Search
-    - [ ] Breadth First Search
 - [ ] **[Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)**
     - [ ] Merge Sort
     - [ ] Quick Sort
