@@ -2,11 +2,11 @@
 
 > This is the complete syllabus of [Computer Science and Engineering UG](https://www.cl.cam.ac.uk/teaching/1011/CST/node1.html).
 
-~~I will add links to learning material as soon as possible.~~
-
 > Do not get overwhelmed by the long list. This is the roadmap for 4 years of degree course.
 
 _You could finish this all in just 1 year with continuity_
+
+~~I will add links to learning material as soon as possible.~~
 
 ~~If you have any suggestions , you can message me on twitter @apemanoffcial~~
 
