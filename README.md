@@ -478,4 +478,4 @@ _You could finish this all in just 1 year with continuity_
 
 ## LICENSE
 
-[CC-BY-SA-4.0](./LICENSE.txt)
+[Mozilla-Public-License](./LICENSE.txt)
