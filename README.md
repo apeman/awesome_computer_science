@@ -163,7 +163,7 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **Why learning multiple languages is a good thing?**
     - It gives you the idea of what works best in one language and what it lacks which others have.
     - Some suggested Languages to try :
-    - [Nim](nim-lang.org/) or [Go](https://golang.org/)
+    - [Nim](https://www.nim-lang.org/) or [Go](https://golang.org/)
     - [R](https://www.r-project.org/)
     - [D](https://dlang.org/) or [Rust](https://www.rust-lang.org/)
     - [Lua](http://www.lua.org/)
@@ -317,18 +317,25 @@ _You could finish this all in just 1 year with continuity_
    - [ ] [Clustering]
    - [ ] [k-Nearest Neighbours]
 
-## Computer Graphics
+## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
 
 - [ ] **Concepts and principles**
-    - [Pixels]
+    - [Pixels](http://math.hws.edu/graphicsbook/c2/s1.html)
     - [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
-    - [Shading]
-    - [Texturing]
+    - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
+    - [Texturing](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/TextureMapping.html)
     - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
      - [The Best Tutorial out there](https://raytracing.github.io/) 
      - [Kevin's Blog](http://kevinbeason.com/ "A lot of Examples")<sup>Worth visiting</sup>
-    - [Raycasting]
-    - [Transformation] and [Translation]
+    - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
+
+- [ ] **Image Processing**
+    - [Tutorial]()
+    - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation]
+    
+- [ ] **Virtual Reality**
+    - [Tutorial]()
+    - [A-Frame](https://aframe.io/ "Web VR framework from Mozilla")<sup>Web VR framework from Mozilla</sup>
 
 ## Web Dev
 > It is highly recommended that you study Web Development from 
