@@ -153,7 +153,7 @@ _You could finish this all in just 1 year with continuity_
 
 - [ ] **[Ruby](https://ruby-doc.org/)**
     > GitHub is made in Ruby.
-    - [ ] [Basics](https://www.udemy.com/course/learn-to-code-with-ruby-lang/ "Udemy course : Very good for beginners")<sup>Video</sup>
+    - [Basics](https://www.udemy.com/course/learn-to-code-with-ruby-lang/ "Udemy course : Very good for beginners")<sup>Video</sup>
     - [Learn on Codecademy](https://www.codecademy.com/learn/learn-ruby/)
 
 - [ ] **Python**
