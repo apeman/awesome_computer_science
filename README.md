@@ -320,21 +320,29 @@ _You could finish this all in just 1 year with continuity_
 ## Computer Graphics
 
 - [ ] **Concepts and principles**
-    - [ ] [Pixels]
-    - [ ] [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
-    - [ ] [Shading]
-    - [ ] [Texturing]
-    - [ ] [Ray Tracing] and [Raycasting]
-    - [ ] [Transformation] and [Trnslation]
+    - [Pixels]
+    - [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
+    - [Shading]
+    - [Texturing]
+    - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+     - [The Best Tutorial out there](https://raytracing.github.io/) 
+     - [Kevin's Blog](http://kevinbeason.com/ "A lot of Examples")<sup>Worth visiting</sup>
+    - [Raycasting]
+    - [Transformation] and [Translation]
 
 ## Web Dev
+> It is highly recommended that you study Web Development from 
+> [Mozilla Developer Network Website](https://developer.mozilla.org/en-US/docs/Web/Tutorials).
 
+- [MDN Getting Started Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [ ] **Front-End**
-    - [ ] [HTML5]
-    - [ ] [CSS3]
-    - [ ] [JavaScript]
-    - [ ] [Web Design]
-    - [ ] [DNS and Domain Names]
+    - [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [CSS3](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+    - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    - [Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms) 
+    - [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) 
+    - [Tools and Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
+    - [DNS and Domain Names]
 
 
 
