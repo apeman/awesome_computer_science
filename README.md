@@ -6,10 +6,6 @@
 
 _You could finish this all in just 1 year with continuity_
 
-~~I will add links to learning material as soon as possible.~~
-
-~~If you have any suggestions , you can message me on twitter @apemanoffcial~~
-
 #### Computer Science is divided in 4 parts
  - [Computer Science 1](#computer-science---1) : Covers the Hardware and Engineering part.
  - [Computer Science 2](#computer-science---2) : Covers everything that is required to write Programs.
