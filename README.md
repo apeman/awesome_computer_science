@@ -20,11 +20,6 @@ _You could finish this all in just 1 year with continuity_
 
 ## Table of Contents
 
- #### [Mathematics](#mathematics)
- - [Mathematics 1](#mathematics-1)
- - [Mathematics 2](#mathematics-2)
- - [Mathematics 3](#mathematics-3)
-
  #### [Computer Science 1](#computer-science---1)
 - [Digital Electronics](#digital-electronics)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
@@ -44,6 +39,11 @@ _You could finish this all in just 1 year with continuity_
 - [Machine Learning](#machine-learning)
 - [Computer Graphics](#computer-graphics)
 - [Web Dev](#web-dev)
+ #### [Mathematics](#mathematics)
+ - [Mathematics 1](#mathematics-1)
+ - [Mathematics 2](#mathematics-2)
+ - [Mathematics 3](#mathematics-3)
+
 
 ## Computer Science - 1
 
