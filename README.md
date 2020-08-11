@@ -156,14 +156,6 @@ _You could finish this all in just 1 year with continuity_
     > Because Tensorflow and Numpy, Pandas and syntax.
     - [Official Tutorial](https://docs.python.org/3/tutorial/)<sup>Prefer this</sup>
 
-- [ ] **Why learning multiple languages is a good thing?**
-    - It gives you the idea of what works best in one language and what it lacks which others have.
-    - Some suggested Languages to try :
-    - [Nim](https://www.nim-lang.org/) or [Go](https://golang.org/)
-    - [R](https://www.r-project.org/)
-    - [D](https://dlang.org/) or [Rust](https://www.rust-lang.org/)
-    - [Lua](http://www.lua.org/)
-
 ### Data Structures
 
 - **[Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)**
