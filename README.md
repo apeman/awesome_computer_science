@@ -333,7 +333,6 @@ _You could finish this all in just 1 year with continuity_
     - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation]
     
 - [ ] **Virtual Reality**
-    - [Tutorial]()
     - [A-Frame](https://aframe.io/)<sup>Web VR framework from Mozilla</sup>
 
 ## Web Dev
