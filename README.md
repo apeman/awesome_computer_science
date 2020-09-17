@@ -121,7 +121,6 @@ _You could finish this all in just 1 year with continuity_
     - Character constants, escape sequences, and string constants
     - Data types
     - Type conversion
-    - Operators
     - Precedence and associativity of operators
     - C identifiers
     - Functions
@@ -136,7 +135,6 @@ _You could finish this all in just 1 year with continuity_
     - file iO, streams
     
     
-
 - [ ] **C++**
     > Used in almost everything from Games to Browsers to Machine learning and beyond.
     - Everything C
@@ -153,7 +151,7 @@ _You could finish this all in just 1 year with continuity_
     - [Learn on Codecademy](https://www.codecademy.com/learn/learn-ruby/)<sup>Learn By Doing</sup>
 
 - [ ] **[Python](https://www.python.org/downloads/)**
-    > Because Tensorflow and Numpy, Pandas and syntax.
+    > Because Tensorflow, Numpy, Pandas and easy syntax.
     - [Official Tutorial](https://docs.python.org/3/tutorial/)<sup>Prefer this</sup>
 
 ### Data Structures
@@ -165,7 +163,7 @@ _You could finish this all in just 1 year with continuity_
 - **stack** and **queues** and **sets**
 - [ ] **Trees** and **Tries**
     - [ ] Self Balancing Trees
-    - [ ] Red-Black Trees
+    - [ ] n-ary Trees
     - [ ] 2-3 Trees
 - [ ] **Graphs**
     - [ ] Adjacency matrix vs Adjacency list
@@ -214,7 +212,7 @@ _You could finish this all in just 1 year with continuity_
      - Primary Key and Foreign key
      - Composite keys
      - All other types of keys
-    - [ ] Normal Forms : 1NF to 4 NF is eNF
+    - [ ] Normal Forms : 1NF to 4 NF
     - [ ] File Organization.
     - [ ] Indexing (B- Trees and B+ Trees)
     - [ ] Transactions.
@@ -254,15 +252,16 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **Routers and Routing Algorithms**
     - DHCP and static routing
     - Round Robin and others
+    - DHCP | ICMP
     
 - [ ] **UDP and Sockets**
-    - Application
-    - Presentation
+
+- [ ] **IPv4 | IPv6**
     
 - [ ] **Application Layer Protocols**
     - HTTP | FTP
-    - DNS
-    - POP | IMAP
+    - DNS | SMTP
+    - Email : MIME Types | POP | IMAP
 
 ## Computer Science - 4
 
@@ -272,7 +271,6 @@ _You could finish this all in just 1 year with continuity_
     - DES
     - AES
     - Whirlpool
-    - BlowFish
     - One Time Pad
 - [ ] **Hashing Algorithms**
     - SHA family
@@ -310,6 +308,8 @@ _You could finish this all in just 1 year with continuity_
 
 ## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
 
+> Not mandatory but just get the overview
+
 - [ ] **Concepts and principles**
     - [Pixels](http://math.hws.edu/graphicsbook/c2/s1.html)
     - [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
@@ -320,11 +320,11 @@ _You could finish this all in just 1 year with continuity_
       - [Kevin's Blog](http://kevinbeason.com/ "A lot of Examples")<sup>Worth visiting</sup>
     - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
 
-- [ ] **Image Processing**
+- [ ] **Image Processing**<sup>Worth learning</sup>
     - [Tutorial]()
     - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation]
     
-- [ ] **Virtual Reality**
+- [ ] **Virtual Reality**<sup>Just for fun</sup>
     - [A-Frame](https://aframe.io/)<sup>Web VR framework from Mozilla</sup>
 
 ## Web Dev
@@ -438,7 +438,7 @@ _You could finish this all in just 1 year with continuity_
 
 - [ ] **Coordinate Geometry**
   - **Lines**
-    - General Equation of a Line
+   - General Equation of a Line
     - Slope
     - Distance of a Point From a Line
   - **Conic Sections**
