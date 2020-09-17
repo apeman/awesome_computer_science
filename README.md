@@ -438,7 +438,7 @@ _You could finish this all in just 1 year with continuity_
 
 - [ ] **Coordinate Geometry**
   - **Lines**
-   - General Equation of a Line
+    - General Equation of a Line
     - Slope
     - Distance of a Point From a Line
   - **Conic Sections**
