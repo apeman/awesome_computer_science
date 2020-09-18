@@ -13,7 +13,7 @@ _You could finish this all in just 1 year with continuity_
  - [Computer Science 4](#computer-science---4) : Covers the Real Life Applications of CS.
 
 
-- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
+[**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
 
 **Mathematics is not mandatory but will be of good help while programming**
  - [Mathematics Syllabus can be found here](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)
@@ -320,8 +320,6 @@ _You could finish this all in just 1 year with continuity_
     - [Tutorial]()
     - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation]
     
-- [ ] **Virtual Reality**<sup>Just for fun</sup>
-    - [A-Frame](https://aframe.io/)<sup>Web VR framework from Mozilla</sup>
 
 ## Web Dev
 > It is highly recommended that you study Web Development from 
@@ -337,6 +335,8 @@ _You could finish this all in just 1 year with continuity_
     - [Tools and Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
     - [DNS and Domain Names]
 
+- [ ] **Virtual Reality**<sup>Just for fun</sup>
+    - [A-Frame](https://aframe.io/)<sup>Web VR framework from Mozilla</sup>
 
 ## LICENSE
 
