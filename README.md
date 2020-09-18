@@ -12,6 +12,8 @@ _You could finish this all in just 1 year with continuity_
  - [Computer Science 3](#computer-science---3) : Covers the Trinity of Computer Science.
  - [Computer Science 4](#computer-science---4) : Covers the Real Life Applications of CS.
 
+- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
+
 **Mathematics is not mandatory but will be of good help while programming**
  - [Mathematics Syllabus can be found here](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)
  - It includes everrything from High school to Secondary Level.
