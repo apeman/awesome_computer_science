@@ -17,7 +17,7 @@ _You could finish this all in just 1 year with continuity_
 
 **Mathematics is not mandatory but will be of good help while programming**
  - [Mathematics Syllabus can be found here](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)
- - It includes everrything from High school to Secondary Level.
+ - It includes everything from High school to Secondary Level.
 
 ## Table of Contents
 
