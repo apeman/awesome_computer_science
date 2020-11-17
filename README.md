@@ -175,7 +175,6 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **Graph Traversal**
     - [ ] Minimum Spanning Trees
     - [ ] Shortest Paths
-    - [ ] Levenshtein Distance
 - [ ] **space-time Complexity** 
 
 ## Computer Science - 3
