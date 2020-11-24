@@ -218,33 +218,33 @@ _You could finish this all in just 1 year with continuity_
     
     
 ### [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-    - The Boot Process
+   - The Boot Process
 - [ ] **Processes and Threads**
-    - Process Control Block
-    - Dispatcher and Scheduler
+  - Process Control Block
+  - Dispatcher and Scheduler
 - [ ] **Inter Process Communication**
-    - Mesage Passing
-    - Shared Memory 
+  - Mesage Passing
+  - Shared Memory 
 - [ ] **Scheduling Algorithms**
-    - Round Robin.
-    - Shortest Remaining Time First.
-    - Least Recently Used.  
+  - Round Robin.
+  - Shortest Remaining Time First.
+  - Least Recently Used.  
 - [ ] **Deadlocks**
-    - MutEx and Locks
-    - Semaphores
-    - Banker's Algorithm
+  - MutEx and Locks
+  - Semaphores
+  - Banker's Algorithm
 - [ ] **Memory Management**
-    - Paging and Page tables
-    - Segmentation
-    - First Fit, Next Fit, Best Fit
-    - Non-continuous Allocation
+  - Paging and Page tables
+  - Segmentation
+  - First Fit, Next Fit, Best Fit
+  - Non-continuous Allocation
 - [ ] **Virtual memory**
-    - Page Faults
-    - Page Replacement Algorithms
-    - Belady’s Anomaly
+  - Page Faults
+  - Page Replacement Algorithms
+  - Belady’s Anomaly
 - [ ] **File Systems**
-    - File Allocation Tables.
-    - Disk Scheduling Algorithms
+  - File Allocation Tables.
+  - Disk Scheduling Algorithms
 
 ### Computer Networks
 
