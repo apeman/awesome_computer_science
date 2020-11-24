@@ -201,32 +201,50 @@ _You could finish this all in just 1 year with continuity_
      - ROLLBACK
      - SAVEPOINT
 
-- [ ] **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
+- **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
     - Entity-Relationship model.
     - [ ] **Integrity Constraints**
      - Primary Key and Foreign key
      - Composite keys
      - All other types of keys
     - [ ] Normal Forms : 1NF to 4 NF
+    - [ ] JOINS
     - [ ] File Organization.
     - [ ] Indexing (B- Trees and B+ Trees)
-    - [ ] Transactions.
-    - [ ] Concurrency Control.
+    - [ ] **Transactions and Concurrency Control**
+    - Conflict Serializability
+    - Locking
+    - ACID | BASE
     
     
 ### [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+    - The Boot Process
 - [ ] **Processes and Threads**
-- [ ] **Deadlocks**
-    - MutEx and Locks
-    - Semaphores
+    - Process Control Block
+    - Dispatcher and Scheduler
+- [ ] **Inter Process Communication**
+    - Mesage Passing
+    - Shared Memory 
 - [ ] **Scheduling Algorithms**
     - Round Robin.
     - Shortest Remaining Time First.
-    - Least Recently Used.    
-- [ ] **Inter Process Communication**
+    - Least Recently Used.  
+- [ ] **Deadlocks**
+    - MutEx and Locks
+    - Semaphores
+    - Banker's Algorithm
 - [ ] **Memory Management**
+    - Paging and Page tables
+    - Segmentation
+    - First Fit, Next Fit, Best Fit
+    - Non-continuous Allocation
+- [ ] **Virtual memory**
+    - Page Faults
+    - Page Replacement Algorithms
+    - Belady’s Anomaly
 - [ ] **File Systems**
     - File Allocation Tables.
+    - Disk Scheduling Algorithms
 
 ### Computer Networks
 
