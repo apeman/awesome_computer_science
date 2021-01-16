@@ -141,12 +141,12 @@ _You could finish this all in just 1 year with continuity_
     - Inheritence
     - Access Controls
 
-- [ ] **[Ruby](https://ruby-doc.org/)**
+- [ ] **[Ruby](https://ruby-doc.org/)**<sup>Optional</sup>
     > GitHub is made in Ruby.
     - [Basics](https://www.udemy.com/course/learn-to-code-with-ruby-lang/ "Udemy course : Very good for beginners")<sup>Video</sup>
     - [Learn on Codecademy](https://www.codecademy.com/learn/learn-ruby/)<sup>Learn By Doing</sup>
 
-- [ ] **[Python](https://www.python.org/downloads/)**
+- [ ] **[Python](https://www.python.org/downloads/)**<sup>Optional</sup>
     > Because Tensorflow, Numpy, Pandas and easy syntax.
     - [Official Tutorial](https://docs.python.org/3/tutorial/)<sup>Prefer this</sup>
 
