@@ -10,7 +10,7 @@ _You could finish this all in just 1 year with continuity_
  - [Computer Science 1](#computer-science---1) : Covers the Hardware and Engineering part.
  - [Computer Science 2](#computer-science---2) : Covers everything that is required to write Programs.
  - [Computer Science 3](#computer-science---3) : Covers the Trinity of Computer Science.
- - [Computer Science 4](#computer-science---4) : Covers the Real Life Applications of CS.
+ - [Computer Science 4](#computer-science---4) : Covers the Real Life Applications of CS. **This is optional**
 
 
 [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
