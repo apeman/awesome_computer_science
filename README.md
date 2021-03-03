@@ -276,7 +276,8 @@ _You could finish this all in just 1 year with continuity_
     - DNS | SMTP
     - Email : MIME Types | POP | IMAP
 
-## Computer Science - 4
+## Computer Science - 4 
+_This is what gets you high paycheck_
 
 ### Cryptography
 
