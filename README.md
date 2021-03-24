@@ -1,6 +1,6 @@
 # Computer Science and Engineering Roadmap and Checklist
 
-> This is the complete syllabus of [Computer Science and Engineering UG](https://www.cl.cam.ac.uk/teaching/1011/CST/node1.html).
+> This is the complete syllabus of _Computer Science and Engineering UG_.
 
 > Do not get overwhelmed by the long list. This is the roadmap for 4 years of degree course.
 
