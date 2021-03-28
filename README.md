@@ -200,6 +200,13 @@ _You could finish this all in just 1 year with continuity_
      - COMMIT
      - ROLLBACK
      - SAVEPOINT
+    - [ ] **JOINS**
+     - FULL OUTER JOIN
+     - LEFT JOIN
+     - RIGHT JOIN
+     - NATURAL JOIN
+     - LEFT OUTER JOIN
+     - RIGHT OUTER JOIN
 
 - **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
     - Entity-Relationship model.
@@ -208,7 +215,6 @@ _You could finish this all in just 1 year with continuity_
      - Composite keys
      - All other types of keys
     - [ ] Normal Forms : 1NF to 4 NF
-    - [ ] JOINS
     - [ ] File Organization.
     - [ ] Indexing (B- Trees and B+ Trees)
     - [ ] **Transactions and Concurrency Control**
