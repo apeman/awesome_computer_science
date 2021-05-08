@@ -2,10 +2,6 @@
 
 > This is the complete syllabus of _Computer Science and Engineering UG_.
 
-> Do not get overwhelmed by the long list. This is the roadmap for 4 years of degree course.
-
-_You could finish this all in just 1 year with continuity_
-
 #### Computer Science is divided in 4 parts
  - [Computer Science 1](#computer-science---1) : Hardware and Engineering part.
  - [Computer Science 2](#computer-science---2) : Everything that is required to write Programs.
@@ -13,11 +9,11 @@ _You could finish this all in just 1 year with continuity_
  - [Computer Science 4](#computer-science---4) : Real Life Applications of CS. **This is optional**
 
 
+**Mathematics is not mandatory but will be of good help while programming**
+
 [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
 
-**Mathematics is not mandatory but will be of good help while programming**
  - [Mathematics Syllabus can be found here](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)
- - It includes everything from High school to Secondary Level.
 
 ## Table of Contents
 
@@ -46,53 +42,53 @@ _You could finish this all in just 1 year with continuity_
 ### Digital Electronics
 
 - [ ] **Boolean Algebra**
-   - Number System.
-   - Addition, Subtraction.
-   - Multiplication, Division.
-   - 1's, 2's compliments.
-   - k-maps.
+   - Number System
+   - Addition, Subtraction
+   - Multiplication, Division
+   - 1's, 2's compliments
+   - k-maps
 
 - [ ] **Hardware**
-   - Logic Gates.
-   - Flip-Flops and Latches.
-   - Adder - Subtractor.
-   - Encoder - Decoder.
-   - Multiplexer - Demultiplexer.
-   - Integrated Circuits.
-   - Printed Circuit Boards.
+   - Logic Gates
+   - Flip-Flops and Latches
+   - Adder - Subtractor
+   - Encoder - Decoder
+   - Multiplexer - Demultiplexer
+   - Integrated Circuits
+   - [Printed Circuit Boards](https://www.youtube.com/watch?v=ljOoGyCso8s)
 
 ### Computer Organization and Architecture
 
 - [ ] **Computer Organization**
-   - Address Bus, Data Bus.
-   - ROM, EPROM, RAM.
-   - Memory Hierarchy, Cache Memory, Virtual Memory.
-   - Secondary Storage.
-   - Programmable Logic Devices.
-   - Input - Output Devices.
+   - Address Bus, Data Bus
+   - ROM, EPROM, RAM
+   - Memory Hierarchy, Cache Memory, Virtual Memory
+   - Secondary Storage
+   - Programmable Logic Devices and Controllers
+   - Input - Output Devices
 
 - [ ] **Computer Architecture**
-   - Stack.
-   - Registers.
-   - Endian_ness.
-   - Floating Point Numbers.
-   - Addressing Modes.
-   - Pipelining.
-   - Interrupts.
-   - RISC - CISC.
-   - aarch64, Intel_x86, MIPS. (Know the Architectures)
-   - Assembly Language. (only basic instructions are enough)
+   - Stack
+   - Registers
+   - Endian_ness
+   - Floating Point Numbers
+   - Addressing Modes
+   - Pipelining
+   - Interrupts
+   - RISC - CISC
+   - aarch64, Intel_x86, MIPS, RISC-V (Know the Architectures)
+   - Assembly Language (basic instructions)
 
 ### Theory of Computation and Automata
 
 - [ ] **Automata and Languages**
-   - NFA - DFA - NDFA.
-   - Regular Expressions.
-   - Context-Free Languages and Grammers.
-   - Pushdown Automata.
-   - Turing Machines.
-   - Decidability of Languages.
-   - Reducibility of Languages.
+   - NFA - DFA - NDFA
+   - Regular Expressions
+   - Context-Free Languages and Grammers
+   - Pushdown Automata
+   - Turing Machines
+   - Decidability of Languages
+   - Reducibility of Languages
    - Complexity Theory : P vs NP
 
 ## Computer Science - 2
@@ -100,27 +96,24 @@ _You could finish this all in just 1 year with continuity_
 ### Compiler Design
 
 - [ ] **Compiler Design**
-   - Lexical analysis.
+   - Lexical analysis
    - Syntax analysis
    - Type Checking
-   - Intermediate code generation.
-   - Machine code generation.
-   - Assembly and linking.
-   - Analysis and optimisation.
-   - Memory management.
-   - Interpreters.
+   - Intermediate code generation
+   - Machine code generation
+   - Assembly and linking
+   - Analysis and optimisation
+   - Memory management
+   - Interpreters
 
 ### Programming
 
 - [ ] **Learn C**
-    > The language every computer knows.
-    - Character constants, escape sequences, and string constants
-    - Data types
-    - Type conversion
+    > The language every computer knows
+    - Character constants, escape sequences, string constants
+    - Data types and Type conversion
     - Precedence and associativity of operators
-    - C identifiers
     - Functions
-    - Mathematical functions <Math.h>
     - storage class and variable scope
     - if, for, while, switch_case
     - break, continue, goto
@@ -129,26 +122,18 @@ _You could finish this all in just 1 year with continuity_
     - Header files, #MACROS
     - malloc, calloc, realloc, argc argv
     - file iO, streams
+    - <Math.h>
     
     
 - [ ] **C++**
-    > Used in almost everything from Games to Browsers to Machine learning and beyond.
-    - Everything C
+    > Used in almost everything from Games to Browsers to Machine learning and beyond
+    - Everything mentioned in C
     - Classes and Objects
     - Member Functions
     - Function Overloading
     - Constructor and Destructors
-    - Inheritence
+    - Inheritence, Polymorphism
     - Access Controls
-
-- [ ] **[Ruby](https://ruby-doc.org/)**<sup>Optional</sup>
-    > GitHub is made in Ruby.
-    - [Basics](https://www.udemy.com/course/learn-to-code-with-ruby-lang/ "Udemy course : Very good for beginners")<sup>Video</sup>
-    - [Learn on Codecademy](https://www.codecademy.com/learn/learn-ruby/)<sup>Learn By Doing</sup>
-
-- [ ] **[Python](https://www.python.org/downloads/)**<sup>Optional</sup>
-    > Because Tensorflow, Numpy, Pandas and easy syntax.
-    - [Official Tutorial](https://docs.python.org/3/tutorial/)<sup>Prefer this</sup>
 
 ### Data Structures
 
@@ -172,6 +157,8 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **[Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)**
     - [ ] Merge Sort
     - [ ] Quick Sort
+    - [ ] Insertion Sort
+    - [ ] Selection Sort
 - [ ] **Graph Traversal**
     - [ ] Minimum Spanning Trees
     - [ ] Shortest Paths
@@ -280,7 +267,7 @@ _You could finish this all in just 1 year with continuity_
 - [ ] **Application Layer Protocols**
     - HTTP | FTP
     - DNS | SMTP
-    - Email : MIME Types | POP | IMAP
+    - Email MIME Types | POP | IMAP
 
 ## Computer Science - 4 
 _This is what gets you high paycheck_
@@ -288,14 +275,11 @@ _This is what gets you high paycheck_
 ### Cryptography
 
 - [ ] **Encryption Algorithms**
-    - DES
-    - AES
-    - Whirlpool
-    - One Time Pad
+    - DES, AES, Whirlpool, One Time Pad
 - [ ] **Hashing Algorithms**
     - SHA family
 - [ ] **Key Distribution**
-    - RSA
+    - RSA, Kerberos
 - [ ] **Digital Signatures**
     - Message Digest    
  - [ ] **Compression**
@@ -304,17 +288,17 @@ _This is what gets you high paycheck_
 ### Artificial Intelligence
 
 - [ ] **Knowledge Representation** and **Reasoning**
-- [ ] **State Space search**
+- [ ] **State Space**
 - [ ] **Search**
     - Hill Climbing.
     - A*.
     - MinMax.
 - [ ] **Neural Networks**
-    - See more in [Machine Learning]().
+    - Weights and Layers
 
 
 
-## Machine Learning
+## Data Science and Machine Learning
 
 - [ ] **Bias and Variance**
 
@@ -328,7 +312,7 @@ _This is what gets you high paycheck_
 
 ## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
 
-> Not mandatory but just get the overview
+> Not mandatory, just get the overview
 
 - [ ] **Concepts and principles**
     - [Pixels](http://math.hws.edu/graphicsbook/c2/s1.html)
@@ -336,7 +320,6 @@ _This is what gets you high paycheck_
     - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
     - [Texturing](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/TextureMapping.html)
     - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
-      - [The Best Tutorial out there](https://raytracing.github.io/) 
       - [Kevin's Blog](http://kevinbeason.com/ "A lot of Examples")<sup>Worth visiting</sup>
     - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
 
@@ -358,9 +341,6 @@ _This is what gets you high paycheck_
     - [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) 
     - [Tools and Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
     - [DNS and Domain Names]
-
-- [ ] **Virtual Reality**<sup>Just for fun</sup>
-    - [A-Frame](https://aframe.io/)<sup>Web VR framework from Mozilla</sup>
 
 ## LICENSE
 
