@@ -39,7 +39,7 @@
 
 ## Computer Science - 1
 
-### Digital Electronics
+## Digital Electronics
 
 - [ ] **Boolean Algebra**
    - Number System
@@ -57,7 +57,7 @@
    - Integrated Circuits
    - [Printed Circuit Boards](https://www.youtube.com/watch?v=ljOoGyCso8s)
 
-### Computer Organization and Architecture
+## Computer Organization and Architecture
 
 - [ ] **Computer Organization**
    - Address Bus, Data Bus
@@ -79,7 +79,7 @@
    - aarch64, Intel_x86, MIPS, RISC-V (Know the Architectures)
    - Assembly Language (basic instructions)
 
-### Theory of Computation and Automata
+## Theory of Computation and Automata
 
 - [ ] **Automata and Languages**
    - NFA - DFA - NDFA
@@ -93,7 +93,7 @@
 
 ## Computer Science - 2
 
-### Compiler Design
+## Compiler Design
 
 - [ ] **Compiler Design**
    - Lexical analysis
@@ -106,7 +106,7 @@
    - Memory management
    - Interpreters
 
-### Programming
+## Programming
 
 - [ ] **Learn C**
     > The language every computer knows
@@ -135,7 +135,7 @@
     - Inheritence, Polymorphism
     - Access Controls
 
-### Data Structures
+## Data Structures
 
 - **[Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)**
 - **[Skip Lists](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)**<sup>PDF</sup>
@@ -149,7 +149,7 @@
 - [ ] **Graphs**
     - [ ] Adjacency matrix vs Adjacency list
 
-### [Algorithms](https://xlinux.nist.gov/dads/)
+## [Algorithms](https://xlinux.nist.gov/dads/)
 
 - [ ] **Searching**
     - [ ] Breadth First Search
@@ -166,7 +166,7 @@
 
 ## Computer Science - 3
 
-### DBMS and SQL
+## DBMS and SQL
 
 - [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
     - [ ] **Data Definition Language**
@@ -210,7 +210,7 @@
     - ACID | BASE
     
     
-### [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+## [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
    - The Boot Process
 - [ ] **Processes and Threads**
   - Process Control Block
@@ -239,7 +239,7 @@
   - File Allocation Tables.
   - Disk Scheduling Algorithms
 
-### Computer Networks
+## Computer Networks
 
 - [ ] **Layers of TCP and OSI**
     - Application.
@@ -272,7 +272,7 @@
 ## Computer Science - 4 
 _This is what gets you high paycheck_
 
-### Cryptography
+## Cryptography
 
 - [ ] **Encryption Algorithms**
     - DES, AES, Whirlpool, One Time Pad
@@ -285,7 +285,7 @@ _This is what gets you high paycheck_
  - [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
     
-### Artificial Intelligence
+## Artificial Intelligence
 
 - [ ] **Knowledge Representation** and **Reasoning**
 - [ ] **State Space**
@@ -297,8 +297,7 @@ _This is what gets you high paycheck_
     - Weights and Layers
 
 
-
-## Data Science and Machine Learning
+### Data Science and Machine Learning
 
 - [ ] **Bias and Variance**
 
@@ -320,11 +319,10 @@ _This is what gets you high paycheck_
     - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
     - [Texturing](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/TextureMapping.html)
     - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
-      - [Kevin's Blog](http://kevinbeason.com/ "A lot of Examples")<sup>Worth visiting</sup>
+      - [Kevin's Blog](http://kevinbeason.com/)<sup>A lot of Examples</sup>
     - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
 
 - [ ] **Image Processing**<sup>Worth learning</sup>
-    - [Tutorial]()
     - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation]
     
 
@@ -340,7 +338,8 @@ _This is what gets you high paycheck_
     - [Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms) 
     - [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) 
     - [Tools and Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
-    - [DNS and Domain Names]
+    - DNS and Domain Names
+    - JSON and YAML
 
 ## LICENSE
 
