@@ -295,6 +295,7 @@ _This is what gets you high paycheck_
     - MinMax.
 - [ ] **Neural Networks**
     - Weights and Layers
+    - Gradient Descent
 
 
 ### Data Science and Machine Learning
