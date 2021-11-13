@@ -269,6 +269,39 @@
     - DNS | SMTP
     - Email MIME Types | POP | IMAP
 
+## Software Engineering <sup>After learning the above</sup>
+
+- [ ] **Software development models**
+    - Waterfall
+    - Spiral
+    - Iterative
+    - Agile
+
+- [ ] **Software Cost Estimation**
+
+- [ ] **COCOMO Model**
+
+- [ ] **Risk Management**
+
+- [ ] **Personnel Planning**
+
+- [ ] **Software Requirement**
+    - Software Requirement Specifications
+    - Data Flow Diagrams
+
+- [ ] **Software Quality**
+    - ISO standards 9001, 14001
+    - SEICMM
+    - Six Sigma
+
+- [ ] **Software Design**
+    - Software Design Principles
+    - Coupling and Cohesion
+    - Object-Oriented Design
+    - User Interface Design
+
+- [ ] **Testing**
+
 ## Computer Science - 4 
 _This is what gets you high paycheck_
 
