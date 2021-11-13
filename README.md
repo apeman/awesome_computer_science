@@ -30,6 +30,7 @@
 - [DBMS and SQL](#dbms-and-sql)
 - [Operating Systems](#operating-systems)
 - [Computer Networks](#computer-networks)
+- [Software Engineering](#software-engineering-after-learning-the-above)
  #### [Computer Science 4](#computer-science---4)
 - [Cryptography](#cryptography)
 - [Artificial Intelligence](#artificial-intelligence)
