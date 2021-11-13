@@ -78,7 +78,7 @@
    - Interrupts
    - RISC - CISC
    - aarch64, Intel_x86, MIPS, RISC-V (Know the Architectures)
-   - Assembly Language (basic instructions)
+   - [Assembly Language](https://stackoverflow.com/questions/1933801/x86-assembly-reference-sheet) (basic instructions)
 
 ## Theory of Computation and Automata
 
@@ -354,7 +354,6 @@ _This is what gets you high paycheck_
     - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
     - [Texturing](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/TextureMapping.html)
     - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
-      - [Kevin's Blog](http://kevinbeason.com/)<sup>A lot of Examples</sup>
     - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
 
 - [ ] **Image Processing**<sup>Worth learning</sup>
