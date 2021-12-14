@@ -77,7 +77,7 @@
    - Pipelining
    - Interrupts
    - RISC - CISC
-   - aarch64, Intel_x86, MIPS, RISC-V (Know the Architectures)
+   - aarch64, Intel_x86 / AMD64, MIPS / RISC-V (learn the differences)
    - [Assembly Language](https://stackoverflow.com/questions/1933801/x86-assembly-reference-sheet) (basic instructions)
 
 ## Theory of Computation and Automata
@@ -97,6 +97,7 @@
 ## Compiler Design
 
 - [ ] **Compiler Design**
+    > Also used in NLP
    - Lexical analysis
    - Syntax analysis
    - Type Checking
@@ -110,7 +111,7 @@
 ## Programming
 
 - [ ] **Learn C**
-    > The language every computer knows
+    > The language almost every computer knows
     - Character constants, escape sequences, string constants
     - Data types and Type conversion
     - Precedence and associativity of operators
@@ -140,7 +141,7 @@
 
 - **[Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)**
 - **[Skip Lists](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)**<sup>PDF</sup>
-  - [Skip-Lists done right](http://ticki.github.io/blog/skip-lists-done-right/)<sup>Must Read</sup>
+  - [Skip-Lists done right](http://ticki.github.io/blog/skip-lists-done-right/)<sup>Suggested Reading</sup>
 - **Hash Tables**
 - **stack** and **queues** and **sets**
 - [ ] **Trees** and **Tries**
@@ -304,7 +305,7 @@
 - [ ] **Testing**
 
 ## Computer Science - 4 
-_This is what gets you high paycheck_
+_You will need these when you make projects_
 
 ## Cryptography
 
@@ -337,12 +338,12 @@ _This is what gets you high paycheck_
 - [ ] **Bias and Variance**
 
 - [ ] **Supervised Learning**
-   - [ ] [Classification]
-   - [ ] [Regression]
+   - [ ] Classification
+   - [ ] Regression
 
 - [ ] **Un-supervised Learning**
-   - [ ] [Clustering]
-   - [ ] [k-Nearest Neighbours]
+   - [ ] Clustering
+   - [ ] k-Nearest Neighbours
 
 ## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
 
@@ -361,8 +362,7 @@ _This is what gets you high paycheck_
     
 
 ## Web Dev
-> It is highly recommended that you study Web Development from 
-> [Mozilla Developer Network Website](https://developer.mozilla.org/en-US/docs/Web/Tutorials).
+> You can study Web Development from [Mozilla Developer Network Website](https://developer.mozilla.org/en-US/docs/Web/Tutorials).
 
 - [MDN Getting Started Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [ ] **Front-End**
