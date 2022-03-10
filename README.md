@@ -345,23 +345,11 @@ _You will need these when you make projects_
    - [ ] Clustering
    - [ ] k-Nearest Neighbours
 
-## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
-
-> Not mandatory, just get the overview
-
-- [ ] **Concepts and principles**
-    - [Pixels](http://math.hws.edu/graphicsbook/c2/s1.html)
-    - [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
-    - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
-    - [Texturing](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/TextureMapping.html)
-    - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
-    - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
-
 - [ ] **Image Processing**<sup>Worth learning</sup>
     - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation]
     
 
-## Web Dev
+## Web Development
 > You can study Web Development from [Mozilla Developer Network Website](https://developer.mozilla.org/en-US/docs/Web/Tutorials).
 
 - [MDN Getting Started Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
@@ -374,6 +362,20 @@ _You will need these when you make projects_
     - [Tools and Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
     - DNS and Domain Names
     - JSON and YAML
+
+
+## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
+
+> Not mandatory, just get the overview
+
+- [ ] **Concepts and principles**
+    - [Pixels](http://math.hws.edu/graphicsbook/c2/s1.html)
+    - [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
+    - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
+    - [Texturing](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/TextureMapping.html)
+    - [Ray Tracing](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+    - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
+
 
 ## LICENSE
 
