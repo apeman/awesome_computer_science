@@ -12,7 +12,6 @@
     - Sequence and Series
      - Infinite  Series
      - Binomial Theorem for any Index
-     - Infinite Geometric Series
      - Exponential Series
      - Logarithmic Series
   
@@ -98,20 +97,20 @@
   - Inverse Trigonometric Functions
 
 - [ ] **Coordinate Geometry**
-  - **Lines**
+  -   **Lines**
     - General Equation of a Line
     - Slope
     - Distance of a Point From a Line
-  - **Conic Sections**
+  -   **Conic Sections**
     - Sections of a Cone
     - Parabola
     - Ellipse
-  - **Vector Algebra**
+  -  **Vector Algebra**
     - Types of Vectors
     - Addition of Vectors
     - Multiplication of a Vector by a Scalar
     - Product of Two Vectors
-  - **Three  Dimensional  Geometry**
+  -  **Three  Dimensional  Geometry**
     - Coordinate Axes and Coordinate Planes in Three Dimensional Space
     - Section Formula
     - Direction Cosines and Direction Ratios of a Line
