@@ -210,7 +210,7 @@
     - Conflict Serializability
     - Locking
     - ACID | BASE
-    
+[DMBS Tutorial Reference](https://www.scaler.com/topics/dbms/)
     
 ## [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
    - The Boot Process
