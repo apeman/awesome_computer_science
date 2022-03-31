@@ -42,7 +42,7 @@
 
 ## Digital Electronics
 
-- [ ] **Boolean Algebra**
+- [ ] **[Boolean Algebra](http://www.uop.edu.pk/ocontents/ELEC-DIGE-S3%20Boolean%20Algebra%20Laws%20.pdf)**
    - Number System
    - Addition, Subtraction
    - Multiplication, Division
@@ -335,18 +335,18 @@ _You will need these when you make projects_
 
 ### Data Science and Machine Learning
 
-- [ ] **Bias and Variance**
+- [ ] **[Bias and Variance](https://svivek.com/teaching/lectures/slides/loss-minimization/bias-variance.pdf)**
 
 - [ ] **Supervised Learning**
-   - [ ] Classification
-   - [ ] Regression
+   - [ ] [Classification](https://cogitoai.home.blog/2019/08/21/what-is-classification-in-machine-learning/)
+   - [ ] [Regression](https://www.topcoder.com/thrive/articles/introduction-to-linear-regression)
 
 - [ ] **Un-supervised Learning**
-   - [ ] Clustering
-   - [ ] k-Nearest Neighbours
+   - [ ] [Clustering](https://scikit-learn.org/stable/modules/clustering.html)
+   - [ ] [k-Nearest Neighbours](https://web.iitd.ac.in/~bspanda/KNN%20presentation.pdf)
 
-- [ ] **Image Processing**<sup>Worth learning</sup>
-    - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation]
+- [ ] **[Image Processing](https://homepages.inf.ed.ac.uk/rbf/HIPR2/wksheets.htm)**<sup>Worth learning</sup>
+    - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/translte.htm)
     
 
 ## Web Development
@@ -360,8 +360,8 @@ _You will need these when you make projects_
     - [Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms) 
     - [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) 
     - [Tools and Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
-    - DNS and Domain Names
-    - JSON and YAML
+    - [DNS and Domain Names](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+    - [JSON and other formats](https://www.zionandzion.com/json-vs-xml-vs-toml-vs-cson-vs-yaml/) and [YAML](https://yaml.org/)
 
 
 ## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
