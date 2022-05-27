@@ -25,3 +25,12 @@
 ## Image Processing
 - Make images using mathematical formulas
 - Image editor
+
+## JavaScript
+- Gradient Generator
+- Image editor using canvas
+- Browser Extensions
+
+## Misc
+- Google Input Tools OFFLINE replacement
+- Visualize classes / functions as a map or 3D space
