@@ -377,7 +377,7 @@ _You will need these when you make projects_
     - [Raycasting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
 
 
-After you are done with all this and want to make projects, check out what-shouldi-code.md
+After you are done with all this and want to make projects, check out [Projects you can make](https://github.com/apeman/awesome_computer_science/blob/master/what-should-i-code.md)
 
 ## LICENSE
 
