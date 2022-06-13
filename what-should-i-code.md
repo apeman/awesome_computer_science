@@ -1,5 +1,7 @@
 # Projects you can make after learning programming
 
+<p> Even though I have mentioned these under specific languages, you can make anything in any language of your choice.</p>
+
 ## Assembly
 - Bootloader
 - OS
@@ -14,7 +16,15 @@
 ## Python
 - Your personal website using Flask
 - Attendance register
-- Operating System (Virtual)
+- File Explorer
+- Image Viewer
+
+## CRUD Apps (Create Read Update Delete)
+- Wikipedia clone
+- News portal / Blog
+- Notes taking app
+- URL Shortener
+- Soundcloud Clone
 
 ## Lua
 - Games ( Love2D, Solar SDK )
