@@ -8,9 +8,6 @@
  - [Computer Science 3](#computer-science---3) : Trinity of Computer Science.
  - [Computer Science 4](#computer-science---4) : Real Life Applications of CS. **This is optional**
 
-
-**Mathematics is not mandatory but will be of good help while programming**
-
 [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
 
  - [Mathematics Syllabus can be found here](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)
@@ -325,9 +322,9 @@ _You will need these when you make projects_
 - [ ] **Knowledge Representation** and **Reasoning**
 - [ ] **State Space**
 - [ ] **Search**
-    - Hill Climbing.
-    - A*.
-    - MinMax.
+    - [Hill Climbing](https://www.javatpoint.com/hill-climbing-algorithm-in-ai)<sup>Must know</sup>
+    - [A*](https://www.ics.uci.edu/~kkask/Fall-2016%20CS271/slides/03-InformedHeuristicSearch.pdf)<sup>Must know</sup>
+    - [MinMax](http://web.mit.edu/sp.268/www/gamesearch.pdf)<sup>Easiest Algorithm in AI</sup>
 - [ ] **Neural Networks**
     - Weights and Layers
     - Gradient Descent
