@@ -2,11 +2,25 @@
 
 > This is the complete syllabus of _Computer Science and Engineering UG_.
 
+Everything is in a sequence. By following this syllabus, you will understand:
+- What are the components that make a computer
+- How all the different hardware units work together
+- How does the computer read instructions
+- How programming languages are made
+- How to code and program and design softwares
+- How operating systems 'operate'
+- How the internet works
+- How data gets stored, retrieved and controlled
+- How software is made; What goes behind the scenes in making of a software
+- How to secure the computers
+- How graphics, Audio, Video and other media work
+- How technology can be used to fool people (Machine Learning huh)
+
 #### Computer Science is divided in 4 parts
  - [Computer Science 1](#computer-science---1) : Hardware and Engineering part.
  - [Computer Science 2](#computer-science---2) : Everything that is required to write Programs.
- - [Computer Science 3](#computer-science---3) : Trinity of Computer Science.
- - [Computer Science 4](#computer-science---4) : Real Life Applications of CS. **This is optional**
+ - [Computer Science 3](#computer-science---3) : The Computer Science.
+ - [Computer Science 4](#computer-science---4) : Real Life Applications of CS.
 
 [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
 
@@ -23,14 +37,14 @@
 - [Programming](#programming)
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
+- [Artificial Intelligence](#artificial-intelligence)
  #### [Computer Science 3](#computer-science---3)
-- [DBMS and SQL](#dbms-and-sql)
 - [Operating Systems](#operating-systems)
 - [Computer Networks](#computer-networks)
+- [DBMS and SQL](#dbms-and-sql)
 - [Software Engineering](#software-engineering-after-learning-the-above)
  #### [Computer Science 4](#computer-science---4)
 - [Cryptography](#cryptography)
-- [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
 - [Computer Graphics](#computer-graphics)
 - [Web Dev](#web-dev)
@@ -68,7 +82,7 @@
 - [ ] **Computer Architecture**
    - Stack
    - Registers
-   - Endian_ness
+   - Endianness (Big, Little)
    - Floating Point Numbers
    - Addressing Modes
    - Pipelining
@@ -94,7 +108,6 @@
 ## Compiler Design
 
 - [ ] **Compiler Design**
-    > Also used in NLP
    - Lexical analysis
    - Syntax analysis
    - Type Checking
@@ -124,7 +137,7 @@
     - <Math.h>
     
     
-- [ ] **C++**
+- [ ] **C++** (You can try ***Python** for same topics)
     > Used in almost everything from Games to Browsers to Machine learning and beyond
     - Everything mentioned in C
     - Classes and Objects
@@ -162,6 +175,18 @@
     - [ ] Minimum Spanning Trees
     - [ ] Shortest Paths
 - [ ] **space-time Complexity** 
+    
+## Artificial Intelligence
+
+- [ ] **Knowledge Representation** and **Reasoning**
+- [ ] **State Space**
+- [ ] **Search**
+    - [Hill Climbing](https://www.javatpoint.com/hill-climbing-algorithm-in-ai)<sup>Must know</sup>
+    - [A*](https://www.ics.uci.edu/~kkask/Fall-2016%20CS271/slides/03-InformedHeuristicSearch.pdf)<sup>Must know</sup>
+    - [MinMax](http://web.mit.edu/sp.268/www/gamesearch.pdf)<sup>Easiest Algorithm in AI</sup>
+- [ ] **Neural Networks**
+    - Weights and Layers
+    - Gradient Descent
 
 ## Computer Science - 3
 
@@ -316,18 +341,6 @@ _You will need these when you make projects_
     - Message Digest    
  - [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
-    
-## Artificial Intelligence
-
-- [ ] **Knowledge Representation** and **Reasoning**
-- [ ] **State Space**
-- [ ] **Search**
-    - [Hill Climbing](https://www.javatpoint.com/hill-climbing-algorithm-in-ai)<sup>Must know</sup>
-    - [A*](https://www.ics.uci.edu/~kkask/Fall-2016%20CS271/slides/03-InformedHeuristicSearch.pdf)<sup>Must know</sup>
-    - [MinMax](http://web.mit.edu/sp.268/www/gamesearch.pdf)<sup>Easiest Algorithm in AI</sup>
-- [ ] **Neural Networks**
-    - Weights and Layers
-    - Gradient Descent
 
 
 ### Data Science and Machine Learning
