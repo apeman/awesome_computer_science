@@ -19,7 +19,7 @@ Everything is in a sequence. By following this syllabus, you will understand:
 #### Computer Science is divided in 4 parts
  - [Computer Science 1](#computer-science---1) : Hardware and Engineering part.
  - [Computer Science 2](#computer-science---2) : Everything that is required to write Programs.
- - [Computer Science 3](#computer-science---3) : The Computer Science.
+ - [Computer Science 3](#computer-science---3) : Daily Computer Science.
  - [Computer Science 4](#computer-science---4) : Real Life Applications of CS.
 
 [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
