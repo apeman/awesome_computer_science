@@ -2,20 +2,6 @@
 
 > This is the complete syllabus of _Computer Science and Engineering UG_.
 
-Everything is in a sequence. By following this syllabus, you will understand:
-- What are the components that make a computer
-- How all the different hardware units work together
-- How does the computer read instructions
-- How programming languages are made
-- How to code and program and design softwares
-- How operating systems 'operate'
-- How the internet works
-- How data gets stored, retrieved and controlled
-- How software is made; What goes behind the scenes in making of a software
-- How to secure the computers
-- How graphics, Audio, Video and other media work
-- How technology can be used to fool people (Machine Learning huh)
-
 #### Computer Science is divided in 4 parts
  - [Computer Science 1](#computer-science---1) : Hardware and Engineering part.
  - [Computer Science 2](#computer-science---2) : Everything that is required to write Programs.
