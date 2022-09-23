@@ -315,7 +315,7 @@
 ## Computer Science - 4 
 _You will need these when you make projects_
 
-## Cryptography
+## Cryptography and Network Security
 
 - [ ] **Encryption Algorithms**
     - DES, AES, Whirlpool, One Time Pad
@@ -327,6 +327,7 @@ _You will need these when you make projects_
     - Message Digest    
  - [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
+ - [ ] **Firewalls**
 
 
 ### Data Science and Machine Learning
