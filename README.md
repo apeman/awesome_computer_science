@@ -219,6 +219,8 @@
     - Conflict Serializability
     - Locking
     - ACID | BASE
+    - Database security
+    - SQL Injection
 [DMBS Tutorial Reference](https://www.scaler.com/topics/dbms/)
     
 ## [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -249,6 +251,9 @@
 - [ ] **File Systems**
   - File Allocation Tables.
   - Disk Scheduling Algorithms
+- [ ] **OS Security**
+  - Firewall
+  - Malware and Antiviruses
 
 ## Computer Networks
 
@@ -329,6 +334,10 @@ _You will need these when you make projects_
  - [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
  - [ ] **Firewalls**
+ - [ ] **Network Security**
+    - Honeypots
+    - Man in the middle attacks
+    - DDOS prevention
 
 
 ### Data Science and Machine Learning
