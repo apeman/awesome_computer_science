@@ -174,6 +174,7 @@
 - [ ] **Neural Networks**
     - Weights and Layers
     - Gradient Descent
+- [ ] [Game Dev Basics](https://sheepolution.com/learn/book/contents)
 
 ## Computer Science - 3
 
