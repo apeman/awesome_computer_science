@@ -222,7 +222,8 @@
     - ACID | BASE
     - Database security
     - SQL Injection
-[DMBS Tutorial Reference](https://www.scaler.com/topics/dbms/)
+    - Flat file / document database
+    - Object / JSON based database
     
 ## [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
    - The Boot Process
