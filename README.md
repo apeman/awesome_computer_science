@@ -381,6 +381,7 @@ _You will need these when you make projects_
 > Not mandatory, just get the overview
 
 - [ ] **Concepts and principles**
+    - OpenGL basics : lines, planes, vertex and edges
     - [Pixels](http://math.hws.edu/graphicsbook/c2/s1.html)
     - [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
     - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
