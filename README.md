@@ -111,7 +111,7 @@
     - Character constants, escape sequences, string constants
     - Data types and Type conversion
     - Precedence and associativity of operators
-    - Functions
+    - Functions and ffi
     - storage class and variable scope
     - if, for, while, switch_case
     - break, continue, goto
@@ -140,7 +140,7 @@
 - **[Skip Lists](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)**<sup>PDF</sup>
   - [Skip-Lists done right](http://ticki.github.io/blog/skip-lists-done-right/)<sup>Suggested Reading</sup>
 - **Hash Tables**
-- **stack** and **queues** and **sets**
+- **stack** and **queue** and **set**
 - [ ] **Trees** and **Tries**
     - [ ] Self Balancing Trees
     - [ ] n-ary Trees
@@ -301,8 +301,6 @@
 
 - [ ] **Risk Management**
 
-- [ ] **Personnel Planning**
-
 - [ ] **Software Requirement**
     - Software Requirement Specifications
     - Data Flow Diagrams
@@ -314,7 +312,7 @@
 
 - [ ] **Software Design**
     - Software Design Principles
-    - Coupling and Cohesion
+    - **Coupling and Cohesion**
     - Object-Oriented Design
     - User Interface Design
 
