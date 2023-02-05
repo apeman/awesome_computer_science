@@ -108,24 +108,24 @@
 
 - [ ] **Learn C**
     > The language almost every computer knows
-    - Character constants, escape sequences, string constants
-    - Data types and Type conversion
+    - [Character constants, escape sequences, string constants](https://www.cs.fsu.edu/~myers/c++/notes/basics1.html)
+    - [Data types and Type conversion](https://www.cs.fsu.edu/~myers/c++/notes/basics2.html)
     - Precedence and associativity of operators
-    - Functions and ffi
+    - [Functions](https://www.cs.fsu.edu/~myers/c++/notes/functions1.html) and ffi
     - storage class and variable scope
-    - if, for, while, switch_case
+    - [if, for, while, switch_case](https://www.cs.fsu.edu/~myers/c++/notes/control1.html)
     - break, continue, goto
-    - Arrays, Strings, Pointers
-    - Structs, Union, enum, typedef
+    - [Arrays](https://www.cs.fsu.edu/~myers/c++/notes/arrays.html), [Strings](https://www.cs.fsu.edu/~myers/c++/notes/strings.html), [Pointers](https://www.cs.fsu.edu/~myers/c++/notes/pointers1.html)
+    - [Structs](https://www.cs.fsu.edu/~myers/c++/notes/structs1.html), Union, enum, typedef
     - Header files, #MACROS
-    - malloc, calloc, realloc, argc argv
-    - file iO, streams
+    - malloc, calloc, realloc, [new](https://www.cs.fsu.edu/~myers/c++/notes/dma.html), argc argv
+    - [input/output](https://www.cs.fsu.edu/~myers/c++/notes/c_io.html), [file io](https://www.cs.fsu.edu/~myers/c++/notes/fileio.html), [streams](https://www.cs.fsu.edu/~myers/c++/notes/formatting.html)
     - <Math.h>
     
     
-- [ ] **C++** (You can try ***Python** for same topics)
+- [ ] **[C++](https://en.cppreference.com/w/Main_Page)** (You can try ***Python** for same topics)
     > Used in almost everything from Games to Browsers to Machine learning and beyond
-    - Everything mentioned in C
+    - [Everything mentioned in C](https://google.github.io/styleguide/cppguide.html)
     - Classes and Objects
     - Member Functions
     - Function Overloading
@@ -141,11 +141,11 @@
   - [Skip-Lists done right](http://ticki.github.io/blog/skip-lists-done-right/)<sup>Suggested Reading</sup>
 - **Hash Tables**
 - **stack** and **queue** and **set**
-- [ ] **Trees** and **Tries**
+- [ ] **[Trees](http://math.hws.edu/eck/cs225/s03/binary_trees/)** and **Tries**
     - [ ] Self Balancing Trees
     - [ ] n-ary Trees
     - [ ] 2-3 Trees
-- [ ] **Graphs**
+- [ ] **[Graphs](http://www-h.eng.cam.ac.uk/help/tpl/talks/C++graphs.html)**
     - [ ] Adjacency matrix vs Adjacency list
 
 ## [Algorithms](https://xlinux.nist.gov/dads/)
@@ -171,9 +171,11 @@
     - [Hill Climbing](https://www.javatpoint.com/hill-climbing-algorithm-in-ai)<sup>Must know</sup>
     - [A*](https://www.ics.uci.edu/~kkask/Fall-2016%20CS271/slides/03-InformedHeuristicSearch.pdf)<sup>Must know</sup>
     - [MinMax](http://web.mit.edu/sp.268/www/gamesearch.pdf)<sup>Easiest Algorithm in AI</sup>
-- [ ] **Neural Networks**
+- [ ] **[Neural Networks](https://stackoverflow.com/questions/2019056/getting-a-simple-neural-network-to-work-from-scratch-in-c)**
     - Weights and Layers
     - Gradient Descent
+    - Convolutional neural networks(https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
+- [ ] [Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
 - [ ] [Game Dev Basics](https://sheepolution.com/learn/book/contents)
 
 ## Computer Science - 3
@@ -256,7 +258,7 @@
 - [ ] **OS Security**
   - Firewall
   - Malware and Antiviruses
-
+- [ ] [Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 ## Computer Networks
 
 - [ ] **Layers of TCP and OSI**
@@ -337,7 +339,7 @@ _You will need these when you make projects_
  - [ ] **Network Security**
     - Honeypots
     - Man in the middle attacks
-    - DDOS prevention
+    - [DDOS prevention](https://www.researchgate.net/figure/DDoS-Mitigation-Module_fig3_220939734)
 
 
 ### Data Science and Machine Learning
@@ -379,7 +381,7 @@ _You will need these when you make projects_
 > Not mandatory, just get the overview
 
 - [ ] **Concepts and principles**
-    - OpenGL basics : lines, planes, vertex and edges
+    - [OpenGL basics : lines, planes, vertex and edges](https://learnopengl.com/)
     - [Pixels](http://math.hws.edu/graphicsbook/c2/s1.html)
     - [Rendering](https://github.com/ssloy/tinyrenderer/wiki)
     - [Shading](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/LightingAndShading.html)
