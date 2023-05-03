@@ -22,6 +22,7 @@
 ## Golang
 - Gfycat Clone (file upload, saving files, return files to user)
 - TitanPad Clone (TCP or UDP sockets)
+- Event management website
 
 ## CRUD Apps (Create Read Update Delete)
 - Wikipedia clone
