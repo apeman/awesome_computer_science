@@ -140,8 +140,8 @@
 - **[Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)**
 - **[Skip Lists](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)**<sup>PDF</sup>
   - [Skip-Lists done right](http://ticki.github.io/blog/skip-lists-done-right/)<sup>Suggested Reading</sup>
-- **Hash Tables**
-- **stack** and **queue** and **set**
+- **[Hash Tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)**
+- **stack** and **queue** and **[set](https://www.geeksforgeeks.org/introduction-to-set-data-structure-and-algorithm-tutorials/)**
 - [ ] **[Trees](http://math.hws.edu/eck/cs225/s03/binary_trees/)** and **Tries**
     - [ ] Self Balancing Trees
     - [ ] n-ary Trees
@@ -152,17 +152,18 @@
 ## [Algorithms](https://xlinux.nist.gov/dads/)
 
 - [ ] **Searching**
-    - [ ] Breadth First Search
-    - [ ] Depth First Search
+    - [ ] [Breadth First Search](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
+    - [ ] [Depth First Search](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 - [ ] **[Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)**
     - [ ] Merge Sort
     - [ ] Quick Sort
     - [ ] Insertion Sort
     - [ ] Selection Sort
 - [ ] **Graph Traversal**
-    - [ ] Minimum Spanning Trees
+    - [ ] [Minimum Spanning Trees](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
     - [ ] Shortest Paths
-- [ ] **space-time Complexity** 
+    - [ ] [Dijkstra's algorithm, also see the recommended problems below for more practice](https://www.geeksforgeeks.org/introduction-to-dijkstras-shortest-path-algorithm/?ref=lbp)
+- [ ] **[space-time Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/)** 
     
 ## Artificial Intelligence
 
@@ -262,7 +263,7 @@
 - [ ] [Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 ## Computer Networks
 
-- [ ] **Layers of TCP and OSI**
+- [ ] **[Layers of TCP and OSI](https://www.javatpoint.com/osi-vs-tcp-ip)**
     - Application.
     - Presentation.
     - Session.
