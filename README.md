@@ -8,7 +8,7 @@
  - [Computer Science 3](#computer-science---3) : Daily Computer Science.
  - [Computer Science 4](#computer-science---4) : Real Life Applications of CS.
 
-[**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is necessary for understanding Graphs.
+[**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)<sup>PDF</sup> is necessary for understanding Graphs.
 
  - [Mathematics Syllabus can be found here](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)
 
@@ -103,6 +103,7 @@
    - Analysis and optimisation
    - Memory management
    - Interpreters
+   - [Golang reference specifications](https://go.dev/ref/spec)<sup>If you want to red an easy specification</sup>
 
 ## Programming
 
