@@ -182,33 +182,35 @@
 ## Computer Science - 3
 
 ## DBMS and SQL
-
+[FCC quick commands](https://www.freecodecamp.org/news/basic-sql-commands/) | [Graphical view](https://www.guru99.com/sql-commands-dbms-query.html)
 - [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
     - [ ] **Data Definition Language**
-     - CREATE
-     - DROP
-     - ALTER
-     - TRUNCATE
+     - [CREATE](https://www.1keydata.com/sql/sqlcreate.html)
+     - [DROP](https://www.1keydata.com/sql/drop-table.html)
+     - [ALTER](https://www.1keydata.com/sql/sql-alter-table.html)
+     - [TRUNCATE](https://www.1keydata.com/sql/sqltruncate.html)
     - [ ] **Data Query Language**
-     - SELECT
+     - [SELECT](https://www.1keydata.com/sql/sqlselect.html)
     - [ ] **Data Manipulation Language**
-     - INSERT
-     - UPDATE
-     - DELETE
+     - [INSERT](https://www.1keydata.com/sql/sqlinsert.html)
+     - [UPDATE](https://www.1keydata.com/sql/update.html)
+     - [DELETE](https://www.1keydata.com/sql/sqldelete.html)
     - [ ] **Data Control Language**
-     - GRANT
-     - REVOKE
+     - [GRANT](https://www.1keydata.com/sql/sql-grant.html)
+     - [REVOKE](https://www.1keydata.com/sql/sql-revoke.html)
     - [ ] **Transction Control Language**
-     - COMMIT
-     - ROLLBACK
-     - SAVEPOINT
+     - [COMMIT](https://www.1keydata.com/sql/sql-commit.html)
+     - [ROLLBACK](https://dev.mysql.com/doc/refman/8.0/en/savepoint.html)
+     - [SAVEPOINT](https://www.postgresql.org/docs/current/sql-savepoint.html)
+    - [ ] **AGGREGATE FUNCTIONS**
+     - [COUNT](https://www.1keydata.com/sql/sqlcount.html) | [SUM](https://www.1keydata.com/sql/sum-function.html) | [AVG](https://www.1keydata.com/sql/sql-average.html) | [MAX](https://www.1keydata.com/sql/max-function.html) | [MIN](https://www.1keydata.com/sql/min-function.html)
     - [ ] **JOINS**
-     - FULL OUTER JOIN
-     - LEFT JOIN
-     - RIGHT JOIN
-     - NATURAL JOIN
-     - LEFT OUTER JOIN
-     - RIGHT OUTER JOIN
+     - [FULL OUTER JOIN](https://www.ibm.com/docs/en/db2-for-zos/12?topic=jdfmtot-full-outer-join)
+     - [INNER JOIN](https://www.ibm.com/docs/en/db2-for-zos/12?topic=table-inner-joins)
+     - [LEFT JOIN](https://stackoverflow.com/questions/5706437/) | [RIGHT JOIN](https://stackoverflow.com/questions/5706437/)
+     - [NATURAL JOIN](https://docs.oracle.com/javadb/10.6.2.1/ref/rrefsqljnaturaljoin.html)
+     - [LEFT OUTER JOIN](https://www.1keydata.com/sql/left-outer-join.html)
+     - [RIGHT OUTER JOIN](https://docs.oracle.com/javadb/10.6.2.1/ref/rrefsqlj57522.html)
 
 - **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
     - Entity-Relationship model.
