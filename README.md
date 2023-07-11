@@ -119,16 +119,16 @@
     - [Arrays](https://www.cs.fsu.edu/~myers/c++/notes/arrays.html), [Strings](https://www.cs.fsu.edu/~myers/c++/notes/strings.html), [Pointers](https://www.cs.fsu.edu/~myers/c++/notes/pointers1.html)
     - [Structs](https://www.cs.fsu.edu/~myers/c++/notes/structs1.html), [Union, enum, typedef](http://www.cs.cornell.edu/courses/cs2022/2009fa/lectures/lec06.pdf)
     - [Header files, #MACROS](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?source=apeman)
-    - [malloc, calloc, realloc](https://www.cs.cmu.edu/~ab/15-123S09/lectures/Lecture%2008%20-%20%20Dealing%20with%20Dynamic%20Memory.pdf) | [2](https://manpages.ubuntu.com/manpages/xenial/man3/malloc.3.html), [new](https://www.cs.fsu.edu/~myers/c++/notes/dma.html), argc argv
+    - [malloc, calloc, realloc](https://www.cs.cmu.edu/~ab/15-123S09/lectures/Lecture%2008%20-%20%20Dealing%20with%20Dynamic%20Memory.pdf) | [2](https://manpages.ubuntu.com/manpages/xenial/man3/malloc.3.html), [new](https://www.cs.fsu.edu/~myers/c++/notes/dma.html), [argc argv](https://learn.microsoft.com/en-us/cpp/cpp/main-function-command-line-args?source=apeman)
     - [input/output](https://www.cs.fsu.edu/~myers/c++/notes/c_io.html), [file io](https://www.cs.fsu.edu/~myers/c++/notes/fileio.html), [streams](https://www.cs.fsu.edu/~myers/c++/notes/formatting.html)
     - [<Math.h>](https://pubs.opengroup.org/onlinepubs/009695399/basedefs/math.h.html)
     
     
-- [ ] **[C++](https://en.cppreference.com/w/Main_Page)** (You can try **Python** for same topics)
+- [ ] **[C++](https://www.cs.nmsu.edu/~jcook/tags/c/c++/)** (You can try **Python** for same topics)
     > Used in almost everything from Games to Browsers to Machine learning and beyond
     - [Everything mentioned in C](https://google.github.io/styleguide/cppguide.html)
     - [namespaces](https://learn.microsoft.com/en-us/cpp/cpp/namespaces-cpp?source=apeman)
-    - [Classes](https://learn.microsoft.com/en-us/cpp/cpp/class-cpp?source=apeman) and Objects
+    - [Classes](https://learn.microsoft.com/en-us/cpp/cpp/class-cpp?source=apeman) and [Objects](https://en.cppreference.com/w/cpp/language/object)
     - [Access Controls : Public, Private, Protected](https://learn.microsoft.com/en-us/cpp/cpp/member-access-control-cpp?source=apeman)
     - [Member Functions](https://learn.microsoft.com/en-us/cpp/cpp/overview-of-member-functions?source=apeman) and [Friend Functions](https://learn.microsoft.com/en-us/cpp/cpp/friend-cpp?source=apeman)
     - [Function Overloading](https://learn.microsoft.com/en-us/cpp/cpp/function-overloading?source=apeman)
@@ -138,11 +138,11 @@
 
 ## Data Structures
 
-- **Arrays**
+- **[Arrays](https://www.digitalocean.com/community/tutorials/how-to-work-with-arrays-in-ruby)**
 - **[Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)**
 - **[Skip Lists](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)**<sup>PDF</sup>
   - [Skip-Lists done right](http://ticki.github.io/blog/skip-lists-done-right/)<sup>Suggested Reading</sup>
-- **Hash Tables**
+- **[Hash Tables](https://www.cs.cornell.edu/courses/cs3110/2014fa/lectures/13/lec13.html), [2](https://www.eecs.umich.edu/courses/eecs380/ALG/hash_tables.html)**
 - **stack** and **queue** and **set**
 - [ ] **[Trees](http://math.hws.edu/eck/cs225/s03/binary_trees/)** and **Tries**
     - [ ] Self Balancing Trees
