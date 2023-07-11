@@ -107,32 +107,34 @@
 
 ## Programming
 
-- [ ] **Learn C**
+- [ ] **[Learn C](https://codescracker.com/c/)**
     > The language almost every computer knows
     - [Character constants, escape sequences, string constants](https://www.cs.fsu.edu/~myers/c++/notes/basics1.html)
     - [Data types and Type conversion](https://www.cs.fsu.edu/~myers/c++/notes/basics2.html)
-    - Precedence and associativity of operators
-    - [Functions](https://www.cs.fsu.edu/~myers/c++/notes/functions1.html) and ffi
-    - storage class and variable scope
+    - [Precedence and associativity](https://learn.microsoft.com/en-us/cpp/cpp/cpp-built-in-operators-precedence-and-associativity?source=apeman) of [Operators](https://learn.microsoft.com/en-us/cpp/cpp/cpp-built-in-operators-precedence-and-associativity?source=apeman)
+    - [Functions](https://www.cs.fsu.edu/~myers/c++/notes/functions1.html)
+    - [storage class](https://learn.microsoft.com/en-us/cpp/cpp/storage-classes-cpp?source=apeman) and [variable scope](https://learn.microsoft.com/en-us/cpp/cpp/scope-visual-cpp?source=apeman)
     - [if, for, while, switch_case](https://www.cs.fsu.edu/~myers/c++/notes/control1.html)
-    - break, continue, goto
+    - [break, continue, goto](https://codescracker.com/c/c-jump-statements.htm?source=apeman)
     - [Arrays](https://www.cs.fsu.edu/~myers/c++/notes/arrays.html), [Strings](https://www.cs.fsu.edu/~myers/c++/notes/strings.html), [Pointers](https://www.cs.fsu.edu/~myers/c++/notes/pointers1.html)
-    - [Structs](https://www.cs.fsu.edu/~myers/c++/notes/structs1.html), Union, enum, typedef
-    - Header files, #MACROS
-    - malloc, calloc, realloc, [new](https://www.cs.fsu.edu/~myers/c++/notes/dma.html), argc argv
+    - [Structs](https://www.cs.fsu.edu/~myers/c++/notes/structs1.html), [Union, enum, typedef](http://www.cs.cornell.edu/courses/cs2022/2009fa/lectures/lec06.pdf)
+    - [Header files, #MACROS](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?source=apeman)
+    - [malloc, calloc, realloc](https://www.cs.cmu.edu/~ab/15-123S09/lectures/Lecture%2008%20-%20%20Dealing%20with%20Dynamic%20Memory.pdf) | [2](https://manpages.ubuntu.com/manpages/xenial/man3/malloc.3.html), [new](https://www.cs.fsu.edu/~myers/c++/notes/dma.html), argc argv
     - [input/output](https://www.cs.fsu.edu/~myers/c++/notes/c_io.html), [file io](https://www.cs.fsu.edu/~myers/c++/notes/fileio.html), [streams](https://www.cs.fsu.edu/~myers/c++/notes/formatting.html)
-    - <Math.h>
+    - [<Math.h>](https://pubs.opengroup.org/onlinepubs/009695399/basedefs/math.h.html)
     
     
-- [ ] **[C++](https://en.cppreference.com/w/Main_Page)** (You can try ***Python** for same topics)
+- [ ] **[C++](https://en.cppreference.com/w/Main_Page)** (You can try **Python** for same topics)
     > Used in almost everything from Games to Browsers to Machine learning and beyond
     - [Everything mentioned in C](https://google.github.io/styleguide/cppguide.html)
-    - Classes and Objects
-    - Member Functions
-    - Function Overloading
-    - Constructor and Destructors
-    - Inheritence, Polymorphism
-    - Access Controls
+    - [namespaces](https://learn.microsoft.com/en-us/cpp/cpp/namespaces-cpp?source=apeman)
+    - [Classes](https://learn.microsoft.com/en-us/cpp/cpp/class-cpp?source=apeman) and Objects
+    - [Access Controls : Public, Private, Protected](https://learn.microsoft.com/en-us/cpp/cpp/member-access-control-cpp?source=apeman)
+    - [Member Functions](https://learn.microsoft.com/en-us/cpp/cpp/overview-of-member-functions?source=apeman) and [Friend Functions](https://learn.microsoft.com/en-us/cpp/cpp/friend-cpp?source=apeman)
+    - [Function Overloading](https://learn.microsoft.com/en-us/cpp/cpp/function-overloading?source=apeman)
+    - [Constructor](https://learn.microsoft.com/en-us/cpp/cpp/constructors-cpp?source=apeman) and [Destructors](https://learn.microsoft.com/en-us/cpp/cpp/destructors-cpp?source=apeman)
+    - [Inheritence](https://learn.microsoft.com/en-us/cpp/cpp/inheritance-cpp?source=apeman), [Polymorphism](https://www.cs.nmsu.edu/~jcook/posts/cpp-polymorphism/)
+    - [Templates](https://learn.microsoft.com/en-us/cpp/cpp/templates-cpp?source=apeman)
 
 ## Data Structures
 
