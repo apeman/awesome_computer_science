@@ -124,7 +124,7 @@
     - [<Math.h>](https://pubs.opengroup.org/onlinepubs/009695399/basedefs/math.h.html)
     
     
-- [ ] **[C++](https://www.cs.nmsu.edu/~jcook/tags/c/c++/)** (You can try **Python** for same topics)
+- [ ] **[C++](https://www.cs.nmsu.edu/~jcook/tags/c/c++/)** (You can try **[Python](https://docs.python.org/3/tutorial/index.html)** for same topics)
     > Used in almost everything from Games to Browsers to Machine learning and beyond
     - [Everything mentioned in C](https://google.github.io/styleguide/cppguide.html)
     - [namespaces](https://learn.microsoft.com/en-us/cpp/cpp/namespaces-cpp?source=apeman)
