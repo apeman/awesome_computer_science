@@ -222,7 +222,7 @@
      - All other types of keys
     - [ ] Normal Forms : 1NF to 4 NF
     - [ ] File Organization.
-    - [ ] Indexing (B- Trees and B+ Trees)
+    - [ ] Indexing ([B- Trees and B+ Trees](https://www.javatpoint.com/b-tree-vs-bplus-tree))
     - [ ] **Transactions and Concurrency Control**
     - Conflict Serializability
     - Locking
@@ -336,15 +336,16 @@ _You will need these when you make projects_
     - SHA family
 - [ ] **Key Distribution**
     - RSA, Kerberos
-- [ ] **Digital Signatures**
-    - Message Digest    
+- [ ] **[Digital Signatures](https://cloud.google.com/kms/docs/digital-signatures#:~:text=A%20digital%20signature%20is%20a,a%20signature%20over%20raw%20data)**
+    - [Message Digest](https://www.ibm.com/docs/en/ibm-mq/7.5?topic=concepts-message-digests)    
  - [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
  - [ ] **Firewalls**
  - [ ] **Network Security**
-    - Honeypots
-    - Man in the middle attacks
+    - [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
+    - [Man in the middle attacks](https://owasp.org/www-community/attacks/Manipulator-in-the-middle_attack)
     - [DDOS prevention](https://www.researchgate.net/figure/DDoS-Mitigation-Module_fig3_220939734)
+    - [SSL and TLS](https://www.ibm.com/docs/en/ibm-mq/7.5?topic=mechanisms-cryptographic-security-protocols-tls-ssl)
 
 
 ### Data Science and Machine Learning
