@@ -80,14 +80,14 @@
 ## Theory of Computation and Automata
 
 - [ ] **Automata and Languages**
-   - NFA - DFA - NDFA
-   - Regular Expressions
-   - Context-Free Languages and Grammers
-   - Pushdown Automata
-   - Turing Machines
-   - Decidability of Languages
-   - Reducibility of Languages
-   - Complexity Theory : P vs NP
+   - [NFA](https://www.javatpoint.com/non-deterministic-finite-automata) - [DFA](https://www.javatpoint.com/deterministic-finite-automata)
+   - [Regular Expressions](https://www.javatpoint.com/examples-of-regular-expression)
+   - [Context-Free Languages and Grammers](https://www.javatpoint.com/automata-context-free-grammar)
+   - [Pushdown Automata](https://www.javatpoint.com/pushdown-automata)
+   - [Turing Machines](https://www.javatpoint.com/automata-basic-model-of-turing-machine)
+   - [Decidability of Languages](https://www.javatpoint.com/introduction-to-undecidability)
+   - [Reducibility of Languages](http://www2.lawrence.edu/fast/GREGGJ/CMSC515/chapt05/Reducibility.html#:~:text=We%20say%20that%20a%20language,that%20B%20must%20be%20undecidable.)<sup>Ignore if too complex</sup>
+   - [Complexity Theory : P vs NP](https://stackoverflow.com/questions/111307/whats-p-np-and-why-is-it-such-a-famous-question)
 
 ## Computer Science - 2
 
