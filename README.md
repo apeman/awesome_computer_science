@@ -169,11 +169,17 @@
 ## Artificial Intelligence
 
 - [ ] **Knowledge Representation** and **Reasoning**
+- [ ] **First Order Logic**
+    - Predicate Logic
+    - Forward Chaining and backward chaining
 - [ ] **State Space**
+    - [State Space Search](https://formal.kastel.kit.edu/~beckert/teaching/Einfuehrung-KI-WS0304/04ProblemSolving.pdf)
 - [ ] **Search**
+    - [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
     - [Hill Climbing](https://www.javatpoint.com/hill-climbing-algorithm-in-ai)<sup>Must know</sup>
     - [A*](https://www.ics.uci.edu/~kkask/Fall-2016%20CS271/slides/03-InformedHeuristicSearch.pdf)<sup>Must know</sup>
     - [MinMax](http://web.mit.edu/sp.268/www/gamesearch.pdf)<sup>Easiest Algorithm in AI</sup>
+- [ ] Bayes' Theorem of Probability
 - [ ] **[Neural Networks](https://stackoverflow.com/questions/2019056/getting-a-simple-neural-network-to-work-from-scratch-in-c)**
     - Weights and Layers (Neural Networks)
     - Gradient Descent
