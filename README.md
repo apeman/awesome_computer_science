@@ -23,6 +23,7 @@
 - [Programming](#programming)
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
+- [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/)<sup>Opens in new Tab</sup>
 - [Artificial Intelligence](#artificial-intelligence)
  #### [Computer Science 3](#computer-science---3)
 - [Operating Systems](#operating-systems)
@@ -103,7 +104,7 @@
    - Analysis and optimisation
    - Memory management
    - Interpreters
-   - [Golang reference specifications](https://go.dev/ref/spec)<sup>If you want to red an easy specification</sup>
+   - [Golang reference specifications](https://go.dev/ref/spec)<sup>If you want to read an easy specification</sup>
 
 ## Programming
 
@@ -165,6 +166,10 @@
     - [ ] Minimum Spanning Trees
     - [ ] Shortest Paths
 - [ ] **space-time Complexity** 
+
+
+## [Design and Analysis of Algorithms]([https://xlinux.nist.gov/dads/](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/)<sup>Opens in new tab</sup>
+
     
 ## Artificial Intelligence
 
@@ -178,7 +183,7 @@
     - [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
     - [Hill Climbing](https://www.javatpoint.com/hill-climbing-algorithm-in-ai)<sup>Must know</sup>
     - [A*](https://www.ics.uci.edu/~kkask/Fall-2016%20CS271/slides/03-InformedHeuristicSearch.pdf)<sup>Must know</sup>
-    - [MinMax](http://web.mit.edu/sp.268/www/gamesearch.pdf)<sup>Easiest Algorithm in AI</sup>
+    - [MinMax](http://web.mit.edu/sp.268/www/gamesearch.pdf)
 - [ ] Bayes' Theorem of Probability
 - [ ] **[Neural Networks](https://stackoverflow.com/questions/2019056/getting-a-simple-neural-network-to-work-from-scratch-in-c)**
     - Weights and Layers (Neural Networks)
