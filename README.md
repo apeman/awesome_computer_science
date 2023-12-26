@@ -23,9 +23,9 @@
 - [Programming](#programming)
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
-- [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/)<sup>Opens in new Tab</sup>
 - [Artificial Intelligence](#artificial-intelligence)
  #### [Computer Science 3](#computer-science---3)
+- [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/)<sup>Opens in new Tab</sup>
 - [Operating Systems](#operating-systems)
 - [Computer Networks](#computer-networks)
 - [DBMS and SQL](#dbms-and-sql)
