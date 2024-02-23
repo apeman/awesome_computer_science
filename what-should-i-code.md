@@ -34,7 +34,6 @@
 ## Lua
 - Games ( Love2D, Solar SDK )
 - GUI utility widgets using LuaIUP
-- Anything else you can imagine of.
 - Operating System (Virtual)
 
 ## Image Processing
