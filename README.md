@@ -390,9 +390,10 @@ _You will need these when you make projects_
     - [DNS and Domain Names](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
     - [JSON and other formats](https://www.zionandzion.com/json-vs-xml-vs-toml-vs-cson-vs-yaml/) and [YAML](https://yaml.org/)
 
-- [ ] **BackEnd**
-    - [Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
-    - [Todd Mcleod's Udemy Course](https://www.udemy.com/course/learn-how-to-code/) OR [Python Flask](https://flask.palletsprojects.com/en/2.3.x/tutorial/)
+- [ ] **BackEnd** <sup>Choose any language</sup>
+    - [Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) OR [Todd Mcleod's Udemy Course](https://www.udemy.com/course/learn-how-to-code/)
+    - [Python Flask](https://flask.palletsprojects.com/en/2.3.x/tutorial/)
+    - [Git internals](https://eagain.net/articles/git-for-computer-scientists/)
 
 
 ## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
