@@ -157,6 +157,7 @@
 - [ ] **Searching**
     - [ ] Breadth First Search
     - [ ] Depth First Search
+    - [ ] BDFS == BFS + DFS <sup>Move in both directions</sup>
 - [ ] **[Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)**
     - [ ] Merge Sort
     - [ ] Quick Sort
@@ -268,9 +269,11 @@
   - Page Faults
   - Page Replacement Algorithms
   - Belady’s Anomaly
+- [ ] **[IO Scheduling](https://en.wikipedia.org/wiki/I/O_scheduling)**
+  - Shortest Seek Time First
+  - Disk Scheduling Algorithms
 - [ ] **File Systems**
   - File Allocation Tables.
-  - Disk Scheduling Algorithms
 - [ ] **OS Security**
   - Firewall
   - Malware and Antiviruses
@@ -305,7 +308,7 @@
     - DNS | SMTP
     - Email MIME Types | POP | IMAP
 
-## Software Engineering <sup>After learning the above</sup>
+## Software Engineering
 
 - [ ] **Software development models**
     - Waterfall
@@ -341,10 +344,11 @@ _You will need these when you make projects_
 
 ## Cryptography and Network Security
 
-- [ ] **Encryption Algorithms**
-    - DES, AES, Whirlpool, One Time Pad
+- [ ] **[Encryption Algorithms](https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050916X00026/1-s2.0-S1877050916001101/main.pdf)**
+    - DES, AES, Blowfish, Whirlpool, One Time Pad
+    - Avalanche effect, Entropy
 - [ ] **Hashing Algorithms**
-    - SHA family
+    - SHA family, MD5
 - [ ] **Key Distribution**
     - RSA, Kerberos
 - [ ] **[Digital Signatures](https://cloud.google.com/kms/docs/digital-signatures#:~:text=A%20digital%20signature%20is%20a,a%20signature%20over%20raw%20data)**
@@ -352,6 +356,7 @@ _You will need these when you make projects_
  - [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
  - [ ] **Firewalls**
+ - [ ] **Steganography**
  - [ ] **Network Security**
     - [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
     - [Man in the middle attacks](https://owasp.org/www-community/attacks/Manipulator-in-the-middle_attack)
@@ -394,6 +399,7 @@ _You will need these when you make projects_
     - [Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) OR [Todd Mcleod's Udemy Course](https://www.udemy.com/course/learn-how-to-code/)
     - [Python Flask](https://flask.palletsprojects.com/en/2.3.x/tutorial/)
     - [Git internals](https://eagain.net/articles/git-for-computer-scientists/)
+    - Messaging Queues
 
 
 ## [Computer Graphics](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/)
