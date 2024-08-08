@@ -14,6 +14,8 @@
      - Binomial Theorem for any Index
      - Exponential Series
      - Logarithmic Series
+       
+- [ ] Mean, Median and Mode
   
 - [ ] **Sets and Logic**
     - Sets and Relations
