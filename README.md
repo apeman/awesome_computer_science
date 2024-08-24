@@ -148,7 +148,7 @@
 - [ ] **[Trees](http://math.hws.edu/eck/cs225/s03/binary_trees/)** and **Tries**
     - [ ] Self Balancing Trees
     - [ ] n-ary Trees
-    - [ ] 2-3 Trees
+    - [ ] Segment Trees
 - [ ] **[Graphs](https://www.softwaretestinghelp.com/graph-implementation-cpp/) , [Some Code](http://www-h.eng.cam.ac.uk/help/tpl/talks/C++graphs.html)**
     - [ ] Adjacency matrix vs Adjacency list
 
