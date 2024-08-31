@@ -146,7 +146,7 @@
 - **[Hash Tables](https://www.cs.cornell.edu/courses/cs3110/2014fa/lectures/13/lec13.html), [2](https://www.eecs.umich.edu/courses/eecs380/ALG/hash_tables.html)**
 - **stack** and **queue** and **set**
 - [ ] **[Trees](http://math.hws.edu/eck/cs225/s03/binary_trees/)** and **Tries**
-    - [ ] Self Balancing Trees
+    - [ ] Self Balancing Trees (BST, AVL, Splay)
     - [ ] n-ary Trees
     - [ ] Segment Trees
 - [ ] **[Graphs](https://www.softwaretestinghelp.com/graph-implementation-cpp/) , [Some Code](http://www-h.eng.cam.ac.uk/help/tpl/talks/C++graphs.html)**
@@ -155,17 +155,20 @@
 ## [Algorithms](https://xlinux.nist.gov/dads/)
 
 - [ ] **Searching**
-    - [ ] Breadth First Search
-    - [ ] Depth First Search
-    - [ ] BDFS == BFS + DFS <sup>Move in both directions</sup>
+    - [ ] Binary Search
+    - [ ] Priority Queues
 - [ ] **[Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)**
     - [ ] Merge Sort
     - [ ] Quick Sort
     - [ ] Insertion Sort
     - [ ] Selection Sort
 - [ ] **Graph Traversal**
-    - [ ] Minimum Spanning Trees
+    - [ ] Breadth First Search
+    - [ ] Depth First Search
+    - [ ] Dijkstra's Algorithm
+    - [ ] Bellman Ford (Cycle detection & Negative edges)
     - [ ] Shortest Paths
+    - [ ] Minimum Spanning Trees
 - [ ] **space-time Complexity** 
 
 
