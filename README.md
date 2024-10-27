@@ -294,19 +294,24 @@
     - Data.
     - Physical.
 
-- [ ] **Flow Control**
+- [ ] **Flow and Congestion Control**
     - Flow Control
     - Congestion Control
     - Error Control
     
 - [ ] **Routers and Routing Algorithms**
     - DHCP and static routing
-    - Round Robin and others
     - DHCP | ICMP
+    - Bellman Ford
+    - Round Robin and others
     
 - [ ] **UDP and Sockets**
 
 - [ ] **IPv4 | IPv6**
+    
+- [ ] **Autonomous Systems**
+    - [Border Gateway Protocol](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+    - OSPF
     
 - [ ] **Application Layer Protocols**
     - HTTP | FTP
