@@ -11,6 +11,7 @@
 [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)<sup>PDF</sup> is necessary for understanding Graphs.
 
  - [Mathematics Syllabus can be found here](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)
+ - Cloud computing can be a subject in itself. The basics are listed under Computer Networks 
 
 ## Table of Contents
 
@@ -318,6 +319,12 @@
     - DNS | SMTP
     - Email MIME Types | POP | IMAP
 
+- [ ] **Cloud Computing**   
+    - SAAS | PAAS | IAAS (AAS : As A Service)
+    - Full and Para Virtualization : KVM/QEMU
+    - Virtual Machines and Hypervisors ( Bare Metal | Hosted )
+    - Clones | Snapshots | Scaling
+
 ## Software Engineering
 
 - [ ] **Software development models**
@@ -407,7 +414,7 @@ _You will need these when you make projects_
 
 - [ ] **BackEnd** <sup>Choose any language</sup>
     - [Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) OR [Todd Mcleod's Udemy Course](https://www.udemy.com/course/learn-how-to-code/)
-    - [Python Flask](https://flask.palletsprojects.com/en/2.3.x/tutorial/)
+    - [Python Flask](https://flask.palletsprojects.com/en/stable/)
     - [Git internals](https://eagain.net/articles/git-for-computer-scientists/)
     - Messaging Queues
 
