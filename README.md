@@ -173,8 +173,10 @@
 - [ ] **space-time Complexity** 
 
 
-## [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/)<sup>Opens in new tab</sup>
-
+## [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/)
+- [ ] Book Recommendations: 
+    - **The Algorithm Design Manual** by Steven Skiena
+    - **Algorithms** by Jeff Erickson
     
 ## Artificial Intelligence
 
