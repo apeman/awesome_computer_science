@@ -24,6 +24,7 @@
 - TitanPad Clone (TCP or UDP sockets)
 - Event management website
 - Local place discovery website
+- Messaging Queue
 
 ## CRUD Apps (Create Read Update Delete)
 - Wikipedia clone
@@ -31,6 +32,7 @@
 - Notes taking app
 - URL Shortener
 - Soundcloud Clone
+- Live ticketing website using sockets
 
 ## Lua
 - Games ( Love2D, Solar SDK )
