@@ -202,7 +202,7 @@
 ## Computer Science - 3
 
 ## DBMS and SQL
-[FCC quick commands](https://www.freecodecamp.org/news/basic-sql-commands/) | [Graphical view](https://www.guru99.com/sql-commands-dbms-query.html)
+[FCC quick commands](https://www.freecodecamp.org/news/basic-sql-commands/) | [Graphical view](https://www.guru99.com/sql-commands-dbms-query.html) | [ALL SQL Commands](https://www.postgresql.org/docs/17/sql-commands.html)
 - [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
     - [ ] **Data Definition Language**
      - [CREATE](https://www.1keydata.com/sql/sqlcreate.html)
@@ -231,6 +231,10 @@
      - [NATURAL JOIN](https://docs.oracle.com/javadb/10.6.2.1/ref/rrefsqljnaturaljoin.html)
      - [LEFT OUTER JOIN](https://www.1keydata.com/sql/left-outer-join.html)
      - [RIGHT OUTER JOIN](https://docs.oracle.com/javadb/10.6.2.1/ref/rrefsqlj57522.html)
+    - [ ] **SUBQUERIES**
+     - [Subqueries](https://www.ibm.com/docs/en/qmf/13.1.0?topic=ddfmtuss-creating-subquery-retrieve-data-from-more-than-one-table)
+    - [ ] **WINDOW FUNCTIONS**<sup>(Optional) Advanced SQL</sup>
+     - [Window Functions](https://mode.com/sql-tutorial/sql-window-functions)
 
 - **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
     - Entity-Relationship model.
