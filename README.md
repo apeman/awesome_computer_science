@@ -148,7 +148,7 @@
 - **stack** and **queue** and **set**
 - [ ] **[Trees](http://math.hws.edu/eck/cs225/s03/binary_trees/)** and **Tries**
     - [ ] Self Balancing Trees (BST, AVL, Splay)
-    - [ ] n-ary Trees
+    - [ ] Red-Black Trees
     - [ ] Segment Trees
 - [ ] **[Graphs](https://www.softwaretestinghelp.com/graph-implementation-cpp/) , [Some Code](http://www-h.eng.cam.ac.uk/help/tpl/talks/C++graphs.html)**
     - [ ] Adjacency matrix vs Adjacency list
