@@ -329,7 +329,7 @@
     - SAAS | PAAS | IAAS (AAS : As A Service)
     - Full and Para Virtualization : KVM/QEMU
     - Virtual Machines and Hypervisors ( Bare Metal | Hosted )
-    - Clones | Snapshots | Scaling
+    - Clones | Snapshots | Horizontal and Vertical Scaling
 
 ## Software Engineering
 
