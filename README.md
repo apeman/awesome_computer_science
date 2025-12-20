@@ -35,7 +35,7 @@
 - [Cryptography](#cryptography)
 - [Machine Learning](#machine-learning)
 - [Computer Graphics](#computer-graphics)
-- [Web Dev](#web-dev)
+- [Web Dev](#web-development)
 
 ## Computer Science - 1
 
