@@ -4,13 +4,9 @@
 
 ## Assembly
 - Bootloader
-- OS
-- Games
-- Malware :)
 
-## CXX
+## C++
 - Task scheduler
-- Rainmeter-ish tool
 - Your own UNIX like short commands
 
 ## Python
@@ -20,11 +16,14 @@
 - Image Viewer
 
 ## Golang
-- Gfycat Clone (file upload, saving files, return files to user)
+- Imgur Clone (file upload, saving files, return files to user)
 - TitanPad Clone (TCP or UDP sockets)
 - Event management website
 - Local place discovery website
 - Messaging Queue
+- P2P file sharing via HTTPS, WebSockets
+- Setting up a QUIC client and Server
+
 
 ## CRUD Apps (Create Read Update Delete)
 - Wikipedia clone
@@ -51,3 +50,4 @@
 ## Misc
 - Google Input Tools OFFLINE replacement
 - Visualize classes / functions as a map or 3D space
+- WebRTC/HLS/RTMP based live streaming website
