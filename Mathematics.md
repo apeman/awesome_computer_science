@@ -1,130 +1,158 @@
-#### Mathematics is divided in 3 parts
- - [Mathematics 1](#mathematics-1) : For General programming
- - [Mathematics 2](#mathematics-2) : For Machine Learning.
- - [Mathematics 3](#mathematics-3) : For graphics.
+# 📘 Mathematics Roadmap
 
+Mathematics is divided into **three focused parts**, depending on application area:
 
-### [Mathematics 1](http://ncert.nic.in/textbook/textbook.htm?kemh1=ps-16)
+- **Mathematics 1** – General Programming
+- **Mathematics 2** – Machine Learning
+- **Mathematics 3** – Graphics & Geometry
 
-- [ ] **Algebra**
-    - Permutations and Combinations
-    - Binomial Series
-    - Sequence and Series
-     - Infinite  Series
-     - Binomial Theorem for any Index
-     - Exponential Series
-     - Logarithmic Series
-       
-- [ ] Mean, Median and Mode
-  
-- [ ] **Sets and Logic**
-    - Sets and Relations
-    - **Functions**
-    - Reasoning and Logic
-    - Knowledge representation
+---
 
-- [**Discrete Mathematics**](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
+## 📐 Mathematics 1 – General Programming
+**Reference:** http://ncert.nic.in/textbook/textbook.htm?kemh1=ps-16
 
-- [ ] **Matrices**
-    - Matrix
-    - Types of Matrices
-    - Operations on Matrices
-    - Transpose of a Matrix
-    - Symmetric and Skew Symmetric Matrices
-    - Elementary Operation (Transformation) of a Matrix
-    - Invertible Matrices
+### ☐ Algebra
+- [ ] Permutations and Combinations
+- [ ] Binomial Series
+- [ ] Sequences and Series
+  - [ ] Infinite Series
+  - [ ] Binomial Theorem (any index)
+  - [ ] Exponential Series
+  - [ ] Logarithmic Series
 
-- [ ] **Determinants**
-    - Determinant
-    - Properties of Determinants
-    - Area of a Triangle
-    - Minors and Cofactors
-    - Adjoint and Inverse of a Matrix
-    - Applications of Determinants and Matrices
+### ☐ Statistics (Basics)
+- [ ] Mean
+- [ ] Median
+- [ ] Mode
 
-### [Mathematics 2]()
+### ☐ Sets and Logic
+- [ ] Sets and Relations
+- [ ] Functions
+- [ ] Reasoning and Logic
+- [ ] Knowledge Representation
 
-- [ ] **Probability**
-    - Events and Random Experiments
-    - Conditional Probability
-    - Multiplication Theorem on Probability
-    - Bayes' Theorem
-    - Bernoulli Trials
-    - Poission and Binomial Distributions
-    
-- [ ] **Statistics**
-    - Mean, Median and Mode
-    - Range, Dispersion, Deviation
-    - Variance and Standard Deviation
-    - T test, F test, Z test, CHI square test
-    
-- [ ] **Calculus**
-  - [ ] **Limits**
-  - [ ] **Continuity**
-  - [ ] **Differentiability**
-   - Exponential and Logarithmic Functions
-   - Logarithmic Differentiation
-   - Derivatives of Functions in Parametric Forms
-   - Second Order Derivative
-   - Mean Value Theorem
-  - [ ] **Differentiation**
-   - Rate of Change of Quantities
-   - Increasing and Decreasing Functions
-   - Tangents and Normals
-   - Approximations
-   - Maxima and Minima
-  - [ ] **Integration**
-   - Integration as an Inverse Process of Differentiation
-   - Methods of Integration
-   - Integrals of some Particular Functions
-   - Integration by Partial Fractions
-   - Integration by Parts
-   - Definite Integral
-   - Fundamental Theorem of Calculus
-   - Evaluation of Definite Integrals by Substitution
-    - Area under Simple Curves
-    - Area  between  Two  Curves
-  - [ ] **Differential equations**
-   - Basic Concepts
-   - General and Particular Solutions of a Differential Equation
-   - Formation of a Differential Equation whose General Solution is given
-   - Methods of Solving First order, First Degree Differential Equations
+### ☐ Discrete Mathematics
+**Reference:** http://home.iitk.ac.in/~arlal/book/mth202.pdf
 
-### [Mathematics 3]()
+### ☐ Matrices
+- [ ] Matrix and Types of Matrices
+- [ ] Matrix Operations
+- [ ] Transpose of a Matrix
+- [ ] Symmetric and Skew-Symmetric Matrices
+- [ ] Elementary Row/Column Operations
+- [ ] Invertible Matrices
 
-- [ ] **Functions and Equations**
-  - Quadratic and Cubic equations
-  - Complex Numbers
-  - Trigonometry
-  - Inverse Trigonometric Functions
+### ☐ Determinants
+- [ ] Determinant and Properties
+- [ ] Minors and Cofactors
+- [ ] Adjoint and Inverse of a Matrix
+- [ ] Area of a Triangle
+- [ ] Applications of Determinants and Matrices
 
-- [ ] **Coordinate Geometry**
-  -   **Lines**
-    - General Equation of a Line
-    - Slope
-    - Distance of a Point From a Line
-  -   **Conic Sections**
-    - Sections of a Cone
-    - Parabola
-    - Ellipse
-  -  **Vector Algebra**
-    - Types of Vectors
-    - Addition of Vectors
-    - Multiplication of a Vector by a Scalar
-    - Product of Two Vectors
-  -  **Three  Dimensional  Geometry**
-    - Coordinate Axes and Coordinate Planes in Three Dimensional Space
-    - Section Formula
-    - Direction Cosines and Direction Ratios of a Line
-    - Equation of a Line in Space
-    - Angle between Two Lines
-    - Shortest Distance between Two Lines
-    - Plane and co-planarity
-    - Angle between Two Planes
-    - Distance of a Point from a Plane
-    - Angle between a Line and a Plane
+---
 
+## 📊 Mathematics 2 – Machine Learning
 
-## LICENSE
+### ☐ Probability
+- [ ] Random Experiments and Events
+- [ ] Conditional Probability
+- [ ] Multiplication Theorem
+- [ ] Bayes’ Theorem
+- [ ] Bernoulli Trials
+- [ ] Binomial Distribution
+- [ ] Poisson Distribution
 
-[Mozilla-Public-License](./LICENSE.txt)
+### ☐ Statistics
+- [ ] Mean, Median, Mode
+- [ ] Range and Dispersion
+- [ ] Deviation
+- [ ] Variance and Standard Deviation
+- [ ] Hypothesis Testing
+  - [ ] Z-Test
+  - [ ] T-Test
+  - [ ] F-Test
+  - [ ] Chi-Square Test
+
+### ☐ Calculus
+
+#### Limits & Continuity
+- [ ] Limits
+- [ ] Continuity
+
+#### Differentiation
+- [ ] Differentiability
+- [ ] Exponential and Logarithmic Functions
+- [ ] Logarithmic Differentiation
+- [ ] Parametric Differentiation
+- [ ] Second Order Derivatives
+- [ ] Mean Value Theorem
+- [ ] Rate of Change
+- [ ] Increasing & Decreasing Functions
+- [ ] Tangents and Normals
+- [ ] Approximations
+- [ ] Maxima and Minima
+
+#### Integration
+- [ ] Integration as Inverse of Differentiation
+- [ ] Methods of Integration
+- [ ] Standard Integrals
+- [ ] Partial Fractions
+- [ ] Integration by Parts
+- [ ] Definite Integrals
+- [ ] Fundamental Theorem of Calculus
+- [ ] Substitution Method
+- [ ] Area Under Curves
+- [ ] Area Between Two Curves
+
+#### Differential Equations
+- [ ] Basic Concepts
+- [ ] General and Particular Solutions
+- [ ] Formation of Differential Equations
+- [ ] First Order, First Degree Equations
+
+---
+
+## 🎮 Mathematics 3 – Graphics & Geometry
+
+### ☐ Functions and Equations
+- [ ] Quadratic Equations
+- [ ] Cubic Equations
+- [ ] Complex Numbers
+- [ ] Trigonometry
+- [ ] Inverse Trigonometric Functions
+
+### ☐ Coordinate Geometry
+
+#### Lines
+- [ ] General Equation of a Line
+- [ ] Slope of a Line
+- [ ] Distance of a Point from a Line
+
+#### Conic Sections
+- [ ] Cone and Its Sections
+- [ ] Parabola
+- [ ] Ellipse
+
+#### Vector Algebra
+- [ ] Types of Vectors
+- [ ] Vector Addition
+- [ ] Scalar Multiplication
+- [ ] Dot Product
+- [ ] Cross Product
+
+#### Three-Dimensional Geometry
+- [ ] Coordinate Axes and Planes
+- [ ] Section Formula
+- [ ] Direction Cosines and Ratios
+- [ ] Equation of a Line in Space
+- [ ] Angle Between Two Lines
+- [ ] Shortest Distance Between Two Lines
+- [ ] Planes and Co-Planarity
+- [ ] Angle Between Two Planes
+- [ ] Distance of a Point from a Plane
+- [ ] Angle Between a Line and a Plane
+
+---
+
+## 📄 License
+[Mozilla Public License](./LICENSE.txt)
