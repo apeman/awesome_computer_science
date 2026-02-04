@@ -1,358 +1,324 @@
-# 🧠 Computer Science and Engineering Roadmap & Checklist
+# 🧠 Computer Science and Engineering Roadmap and Checklist
 
-> Complete **UG-level Computer Science & Engineering syllabus**, structured as a practical checklist.
+> Complete syllabus of **Computer Science and Engineering (UG)**, structured as a practical checklist.
 
 ---
 
 ## 📚 Overview
 
-Computer Science is divided into **four major parts**:
+Computer Science is divided into **4 parts**:
 
-- **Computer Science 1** – Hardware & Engineering Foundations  
-- **Computer Science 2** – Programming & Core CS  
-- **Computer Science 3** – Systems & Daily CS  
-- **Computer Science 4** – Applied & Real-World CS  
+- **[Computer Science 1](#computer-science---1)** – Hardware & Engineering  
+- **[Computer Science 2](#computer-science---2)** – Programming & Core CS  
+- **[Computer Science 3](#computer-science---3)** – Daily / Systems CS  
+- **[Computer Science 4](#computer-science---4)** – Real-World Applications  
 
-**Notes**
-- 📘 [Discrete Mathematics (PDF)](http://home.iitk.ac.in/~arlal/book/mth202.pdf) is essential for graphs & algorithms  
-- 📐 [Mathematics Syllabus](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)  
-- ☁️ Cloud Computing basics are covered under **Computer Networks**
+📘 **[Discrete Mathematics](http://home.iitk.ac.in/~arlal/book/mth202.pdf)** <sup>PDF</sup> is required for understanding graphs  
+📐 **[Mathematics Syllabus](https://github.com/apeman/awesome_computer_science/blob/master/Mathematics.md)**  
+☁️ Cloud computing basics are covered under **Computer Networks**
 
 ---
 
 ## 📑 Table of Contents
 
 ### Computer Science 1
-- Digital Electronics  
-- Computer Organization & Architecture  
-- Theory of Computation & Automata  
+- [Digital Electronics](#digital-electronics)
+- [Computer Organization and Architecture](#computer-organization-and-architecture)
+- [Theory of Computation and Automata](#theory-of-computation-and-automata)
 
 ### Computer Science 2
-- Compiler Design  
-- Programming  
-- Data Structures  
-- Algorithms  
-- Artificial Intelligence  
+- [Compiler Design](#compiler-design)
+- [Programming](#programming)
+- [Data Structures](#data-structures)
+- [Algorithms](#algorithms)
+- [Artificial Intelligence](#artificial-intelligence)
 
 ### Computer Science 3
-- Design & Analysis of Algorithms  
-- Operating Systems  
-- Computer Networks  
-- DBMS & SQL  
-- Software Engineering  
+- [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/)
+- [Operating Systems](#operating-systems)
+- [Computer Networks](#computer-networks)
+- [DBMS and SQL](#dbms-and-sql)
+- [Software Engineering](#software-engineering)
 
 ### Computer Science 4
-- Cryptography & Network Security  
-- Machine Learning & Data Science  
-- Web Development  
-- Computer Graphics  
+- [Cryptography](#cryptography-and-network-security)
+- [Machine Learning](#data-science-and-machine-learning)
+- [Computer Graphics](#computer-graphics)
+- [Web Development](#web-development)
 
 ---
 
-# 🖥️ Computer Science 1
+# Computer Science - 1
 
 ## Digital Electronics
 
-### ☐ Boolean Algebra
-- Number Systems
-- Arithmetic Operations
-- 1’s & 2’s Complement
-- Karnaugh Maps (K-Maps)
+- [ ] **[Boolean Algebra](http://www.uop.edu.pk/ocontents/ELEC-DIGE-S3%20Boolean%20Algebra%20Laws%20.pdf)**
+  - Number Systems
+  - Arithmetic Operations
+  - 1’s & 2’s Complement
+  - Karnaugh Maps
 
-### ☐ Hardware
-- Logic Gates
-- Flip-Flops & Latches
-- Adders & Subtractors
-- Encoders & Decoders
-- Multiplexers & Demultiplexers
-- Integrated Circuits
-- Printed Circuit Boards
-
----
-
-## Computer Organization & Architecture
-
-### ☐ Computer Organization
-- Address & Data Bus
-- ROM, EPROM, RAM
-- Memory Hierarchy & Cache
-- Virtual Memory
-- Secondary Storage
-- PLDs & Controllers
-- Input / Output Devices
-
-### ☐ Computer Architecture
-- Stack & Registers
-- Endianness
-- Floating-Point Numbers
-- Addressing Modes
-- Pipelining
-- Interrupts
-- RISC vs CISC
-- Architectures: x86, AMD64, ARM64, MIPS, RISC-V
-- Assembly Language (basic instructions)
+- [ ] **Hardware**
+  - Logic Gates
+  - Flip-Flops & Latches
+  - Adder / Subtractor
+  - Encoder / Decoder
+  - Multiplexer / Demultiplexer
+  - Integrated Circuits
+  - [Printed Circuit Boards](https://www.youtube.com/watch?v=ljOoGyCso8s)
 
 ---
 
-## Theory of Computation & Automata
+## Computer Organization and Architecture
 
-### ☐ Automata & Languages
-- NFA & DFA
-- Regular Expressions
-- Context-Free Grammars
-- Pushdown Automata
-- Turing Machines
-- Decidability
-- Reducibility (optional)
-- Complexity Theory (P vs NP)
+- [ ] **Computer Organization**
+  - Address Bus, Data Bus
+  - ROM, EPROM, RAM
+  - Memory Hierarchy & Cache
+  - Virtual Memory
+  - Secondary Storage
+  - PLDs & Controllers
+  - Input / Output Devices
+
+- [ ] **Computer Architecture**
+  - Stack & Registers
+  - Endianness
+  - Floating Point Numbers
+  - Addressing Modes
+  - Pipelining
+  - Interrupts
+  - RISC vs CISC
+  - aarch64, x86 / AMD64, MIPS, RISC-V
+  - [Assembly Language](https://stackoverflow.com/questions/1933801/x86-assembly-reference-sheet)
 
 ---
 
-# 💻 Computer Science 2
+## Theory of Computation and Automata
+
+- [ ] **Automata and Languages**
+  - [NFA](https://www.javatpoint.com/non-deterministic-finite-automata)
+  - [DFA](https://www.javatpoint.com/deterministic-finite-automata)
+  - [Regular Expressions](https://www.javatpoint.com/examples-of-regular-expression)
+  - [Context-Free Grammars](https://www.javatpoint.com/automata-context-free-grammar)
+  - [Pushdown Automata](https://www.javatpoint.com/pushdown-automata)
+  - [Turing Machines](https://www.javatpoint.com/automata-basic-model-of-turing-machine)
+  - [Decidability](https://www.javatpoint.com/introduction-to-undecidability)
+  - [Reducibility](http://www2.lawrence.edu/fast/GREGGJ/CMSC515/chapt05/Reducibility.html)
+  - [P vs NP](https://stackoverflow.com/questions/111307/whats-p-np-and-why-is-it-such-a-famous-question)
+
+---
+
+# Computer Science - 2
 
 ## Compiler Design
 
-### ☐ Compiler Phases
-- Lexical Analysis
-- Syntax Analysis
-- Type Checking
-- Intermediate Code Generation
-- Optimization
-- Code Generation
-- Assembly & Linking
-- Memory Management
-- Interpreters
-- Language Specifications (Go spec recommended)
+- [ ] Lexical Analysis
+- [ ] Syntax Analysis
+- [ ] Type Checking
+- [ ] Intermediate Code Generation
+- [ ] Optimization
+- [ ] Code Generation
+- [ ] Assembly & Linking
+- [ ] Memory Management
+- [ ] Interpreters
+- [ ] [Golang Specification](https://go.dev/ref/spec)
 
 ---
 
 ## Programming
 
-### ☐ C Programming
-- Constants & Data Types
-- Operators & Precedence
-- Functions & Scope
-- Control Flow
-- Arrays, Strings, Pointers
-- Structs, Union, Enum
-- Memory Allocation
-- File I/O
-- Math Library
+- [ ] **[C](https://codescracker.com/c/)**
+  - Data Types & Type Conversion
+  - Operators & Precedence
+  - Functions & Scope
+  - Control Flow
+  - Arrays, Strings, Pointers
+  - Structs, Union, Enum
+  - Dynamic Memory
+  - File I/O
+  - [math.h](https://pubs.opengroup.org/onlinepubs/009695399/basedefs/math.h.html)
 
-### ☐ C++
-- Namespaces
-- Classes & Objects
-- Access Modifiers
-- Constructors & Destructors
-- Inheritance & Polymorphism
-- Templates
+- [ ] **[C++](https://www.cs.nmsu.edu/~jcook/tags/c/c++/)**
+  - Namespaces
+  - Classes & Objects
+  - Access Control
+  - Constructors & Destructors
+  - Inheritance & Polymorphism
+  - Templates
 
 ---
 
 ## Data Structures
 
-- Arrays
-- Linked Lists
-- Skip Lists
-- Hash Tables
-- Stack, Queue, Set
+- [ ] Arrays
+- [ ] Linked Lists
+- [ ] [Skip Lists](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)
+- [ ] Hash Tables
+- [ ] Stack, Queue, Set
 
-### ☐ Trees
-- BST, AVL, Splay
-- Red-Black Trees
-- Segment Trees
-- Tries
+- [ ] **Trees**
+  - BST, AVL, Splay
+  - Red-Black Trees
+  - Segment Trees
+  - Tries
 
-### ☐ Graphs
-- Adjacency Matrix
-- Adjacency List
+- [ ] **Graphs**
+  - Adjacency Matrix
+  - Adjacency List
 
 ---
 
 ## Algorithms
 
-### ☐ Searching
-- Binary Search
-- Priority Queues
-
-### ☐ Sorting
-- Merge Sort
-- Quick Sort
-- Insertion Sort
-- Selection Sort
-
-### ☐ Graph Algorithms
-- BFS / DFS
-- Dijkstra
-- Bellman-Ford
-- Shortest Paths
-- Minimum Spanning Trees
-
-### ☐ Complexity Analysis
-- Time & Space Complexity
+- [ ] Searching (Binary Search, Priority Queue)
+- [ ] Sorting (Merge, Quick, Insertion, Selection)
+- [ ] BFS / DFS
+- [ ] Dijkstra
+- [ ] Bellman-Ford
+- [ ] Minimum Spanning Trees
+- [ ] Time & Space Complexity
 
 ---
 
 ## Artificial Intelligence
 
-### ☐ Core Concepts
-- Knowledge Representation
-- First Order Logic
-- State Space Search
-
-### ☐ Search Algorithms
-- Hill Climbing
-- Simulated Annealing
-- A*
-- Min-Max
-
-### ☐ Machine Intelligence
-- Bayes Theorem
-- Neural Networks
-- Gradient Descent
-- CNNs
-- Backpropagation
-- Game AI Basics
+- [ ] Knowledge Representation
+- [ ] First Order Logic
+- [ ] State Space Search
+- [ ] Hill Climbing
+- [ ] Simulated Annealing
+- [ ] A*
+- [ ] Min-Max
+- [ ] Bayes Theorem
+- [ ] Neural Networks
+- [ ] Gradient Descent
+- [ ] CNNs
+- [ ] Backpropagation
 
 ---
 
-# 🧩 Computer Science 3
+# Computer Science - 3
 
-## DBMS & SQL
+## DBMS and SQL
 
-### ☐ SQL
-- DDL: CREATE, DROP, ALTER, TRUNCATE
-- DML: INSERT, UPDATE, DELETE
-- DQL: SELECT
-- DCL: GRANT, REVOKE
-- TCL: COMMIT, ROLLBACK, SAVEPOINT
-- Joins
-- Subqueries
-- Aggregate Functions
-- Window Functions (optional)
+- [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
+  - DDL, DML, DQL, DCL, TCL
+  - Joins
+  - Subqueries
+  - Aggregate Functions
+  - Window Functions
 
-### ☐ DBMS Concepts
-- ER Model
-- Keys & Constraints
-- Normal Forms (1NF–4NF)
-- Indexing (B-Tree, B+ Tree)
-- Transactions & Concurrency
-- ACID & BASE
-- Security & SQL Injection
-- NoSQL & Document Databases
+- [ ] **[DBMS](https://www.javatpoint.com/dbms-tutorial)**
+  - ER Model
+  - Keys & Constraints
+  - Normal Forms
+  - Indexing
+  - Transactions
+  - ACID / BASE
+  - SQL Injection
+  - NoSQL
 
 ---
 
 ## Operating Systems
 
-### ☐ OS Fundamentals
-- Boot Process
-- Processes & Threads
-- IPC
-- Scheduling Algorithms
-- Deadlocks & Synchronization
-- Memory Management
-- Virtual Memory
-- I/O Scheduling
-- File Systems
-- OS Security
-- Unix Commands
-- Multithreading
+- [ ] Boot Process
+- [ ] Processes & Threads
+- [ ] IPC
+- [ ] Scheduling Algorithms
+- [ ] Deadlocks & Synchronization
+- [ ] Memory Management
+- [ ] Virtual Memory
+- [ ] File Systems
+- [ ] OS Security
+- [ ] Unix Commands
 
 ---
 
 ## Computer Networks
 
-### ☐ Networking Basics
-- OSI & TCP/IP Layers
-- Flow & Congestion Control
-- Routing Algorithms
-- UDP & Sockets
-- IPv4 / IPv6
-- BGP & OSPF
-- Application Protocols
-- Cloud Computing Concepts
+- [ ] OSI & TCP/IP Layers
+- [ ] Flow & Congestion Control
+- [ ] Routing Algorithms
+- [ ] UDP & Sockets
+- [ ] IPv4 / IPv6
+- [ ] BGP & OSPF
+- [ ] HTTP, FTP, DNS, SMTP
+- [ ] Cloud Computing Basics
 
 ---
 
 ## Software Engineering
 
-### ☐ Software Lifecycle
-- Development Models
-- Cost Estimation
-- COCOMO
-- Risk Management
-- Requirements Engineering
-- Design Principles
-- Testing & Quality Assurance
+- [ ] SDLC Models
+- [ ] Cost Estimation
+- [ ] COCOMO
+- [ ] Risk Management
+- [ ] Requirements Engineering
+- [ ] Design Principles
+- [ ] Testing & QA
 
 ---
 
-# 🚀 Computer Science 4
+# Computer Science - 4
 
-## Cryptography & Network Security
+## Cryptography and Network Security
 
-### ☐ Security Fundamentals
-- Encryption Algorithms
-- Hash Functions
-- Key Distribution
-- Digital Signatures
-- Compression
-- Firewalls
-- Steganography
-- Network Attacks & Defense
-- SSL / TLS
+- [ ] Encryption Algorithms
+- [ ] Hashing
+- [ ] Key Distribution
+- [ ] Digital Signatures
+- [ ] Compression
+- [ ] Firewalls
+- [ ] Steganography
+- [ ] SSL / TLS
 
 ---
 
-## Data Science & Machine Learning
+## Data Science and Machine Learning
 
-### ☐ Learning Paradigms
-- Bias & Variance
-- Supervised Learning
-- Unsupervised Learning
-- k-NN
-- Clustering
-- Image Processing Basics
+- [ ] Bias & Variance
+- [ ] Supervised Learning
+- [ ] Unsupervised Learning
+- [ ] k-NN
+- [ ] Clustering
+- [ ] Image Processing
 
 ---
 
 ## Web Development
 
-### ☐ Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Browser APIs
-- Accessibility
-- DNS
-- JSON & YAML
+- [ ] **Frontend**
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Browser APIs
+  - Accessibility
 
-### ☐ Backend
-- Go / Python
-- Git Internals
-- Message Queues
+- [ ] **Backend**
+  - Go / Python
+  - Git Internals
+  - Message Queues
 
 ---
 
 ## Computer Graphics
 
-### ☐ Graphics Basics
-- OpenGL
-- Rendering Pipeline
-- Shading & Texturing
-- Ray Tracing
-- Ray Casting
+- [ ] OpenGL Basics
+- [ ] Rendering
+- [ ] Shading
+- [ ] Texturing
+- [ ] Ray Tracing
+- [ ] Ray Casting
 
 ---
 
-## 🧪 Projects
+## Projects
 
-After completing the roadmap:  
-👉 [Projects You Can Build](https://github.com/apeman/awesome_computer_science/blob/master/what-should-i-code.md)
+👉 https://github.com/apeman/awesome_computer_science/blob/master/what-should-i-code.md
 
 ---
 
-## 📄 License
+## License
 
 [Mozilla Public License](./LICENSE.txt)
