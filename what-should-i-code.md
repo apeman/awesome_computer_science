@@ -23,6 +23,8 @@
 - Messaging Queue
 - P2P file sharing via HTTPS, WebSockets
 - Setting up a QUIC client and Server
+- Recipe Website
+- Blogger clone
 
 
 ## CRUD Apps (Create Read Update Delete)
